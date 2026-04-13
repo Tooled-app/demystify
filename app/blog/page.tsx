@@ -1,21 +1,23 @@
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts } from "../../lib/posts";
 import Link from "next/link";
 
 export default function BlogPage() {
-  const allPosts = getAllPosts();
-
+  const posts = getAllPosts();
+  
   return (
-    <div className="page">
-      <h1>Blog</h1>
+    <div className="section-page">
+      <h1>The Blog</h1>
+      <div className="section-desc">
+        Editorial pieces and long-form synthesis on the AI frontier.
+      </div>
+      
       <div className="post-list">
-        {allPosts.map(post => (
-          <div key={post.slug} className="post-card">
-            <span className="post-category">{post.category}</span>
-            <Link href={`/posts/${post.slug}`}>
-              <h3>{post.title}</h3>
-            </Link>
-            <p className="post-meta">{post.date} · {post.readTime}</p>
-            <p>{post.excerpt}</p>
+        {posts.map(post => (
+          <div key={post.slug} className="post-list-item">
+            <div className="category">{post.category}</div>
+            <h3><Link href={`/posts/${post.slug}`}>{post.title}</Link></h3>
+            <div className="meta">{post.date} • {post.readTime}</div>
+            <div className="excerpt">{post.excerpt}</div>
           </div>
         ))}
       </div>

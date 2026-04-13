@@ -1,24 +1,23 @@
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts } from "../../lib/posts";
 import Link from "next/link";
 
 export default function ArchivePage() {
-  const allPosts = getAllPosts();
-
+  const posts = getAllPosts();
+  
   return (
-    <div className="page">
-      <h1>Archive</h1>
-      <div className="archive-nav">
-        <Link href="/archive/long-form">Long Form</Link>
-        <Link href="/archive/quick-takes">Quick Takes</Link>
+    <div className="section-page">
+      <h1>The Archive</h1>
+      <div className="section-desc">
+        A complete record of every dispatch, sorted by date.
       </div>
+      
       <div className="post-list">
-        {allPosts.map(post => (
-          <div key={post.slug} className="post-card">
-            <span className="post-category">{post.category}</span>
-            <Link href={`/posts/${post.slug}`}>
-              <h3>{post.title}</h3>
-            </Link>
-            <p className="post-meta">{post.date} · {post.readTime}</p>
+        {posts.map(post => (
+          <div key={post.slug} className="post-list-item">
+            <div className="category">{post.category}</div>
+            <h3><Link href={`/posts/${post.slug}`}>{post.title}</Link></h3>
+            <div className="meta">{post.date} • {post.readTime}</div>
+            <div className="excerpt">{post.excerpt}</div>
           </div>
         ))}
       </div>
