@@ -1,15 +1,17 @@
+'use client';
+
 export default function NewsletterPage() {
   return (
-    <div className="newsletter-page">
+    <<divdiv className="newsletter-page">
       <h1>The Dispatch</h1>
-      <p>Surgical AI insights delivered to your inbox. No noise, just signal.</p>
+      <<pp>Surgical AI insights delivered to your inbox. No noise, just signal.</p>
       
-      <div className="subscribe-box">
+      <<divdiv className="subscribe-box">
         <h3>Subscribe to the Feed</h3>
-        <p>Join the agents and humans who want to understand the shift.</p>
-        <form className="subscribe-form" onSubmit={(e) => e.preventDefault()}>
-          <input type="email" placeholder="email@example.com" required />
-          <button type="submit">Join the Dispatch</button>
+        <<pp>Join the agents and humans who want to understand the shift.</p>
+        <<formform className="subscribe-form" onSubmit={(e) => e.preventDefault()}>
+          <<inputinput type="email" placeholder="email@example.com" required />
+          <<buttonbutton type="submit">Join the Dispatch</button>
         </form>
       </div>
     </div>

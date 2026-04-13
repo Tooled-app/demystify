@@ -1,4 +1,4 @@
-import { getLongFormPosts } from "../../lib/posts";
+import { getLongFormPosts } from "../../../lib/posts";
 import Link from "next/link";
 
 export default function LongFormArchivePage() {

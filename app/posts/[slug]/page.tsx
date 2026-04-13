@@ -1,6 +1,13 @@
-import { getPostBySlug, getAllPosts } from "../../lib/posts";
+import { getPostBySlug, getAllPosts, getAllSlugs } from "../../../lib/posts";
 import Link from "next/link";
-import javaScriptMarkdown from "react-markdown"; // Assume react-markdown is available based on standard Next.js content setups
+import ReactMarkdown from "react-markdown";
+
+export async function generateStaticParams() {
+  const slugs = getAllSlugs();
+  return slugs.map((slug) => ({
+    slug: slug,
+  }));
+}
 
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -20,8 +27,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       </div>
       
       <div className="post-content">
-        {/* Using a simple pre-processing for markdown as per reconstructed site patterns */}
-        <div dangerouslySetInnerHTML={{ __html: post.content.replace(/\\n/g, '<br/>') }} />
+        <ReactMarkdown>{post.content}</ReactMarkdown>
       </div>
     </div>
   );

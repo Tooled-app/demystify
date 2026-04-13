@@ -1,4 +1,4 @@
-import { getQuickTakes } from "../../lib/posts";
+import { getQuickTakes } from "../../../lib/posts";
 import Link from "next/link";
 
 export default function QuickTakesArchivePage() {
