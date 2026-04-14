@@ -20,7 +20,6 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       <Link href="/" className="back-link">← Return to Front Page</Link>
       
       <div className="post-category">{post.category}</div>
-      <h1>{post.title}</h1>
       
       <div className="post-meta">
         <span>By {post.author}</span> • <span>{post.date}</span> • <span>{post.readTime}</span>
