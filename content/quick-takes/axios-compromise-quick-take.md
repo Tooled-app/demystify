@@ -8,7 +8,7 @@ excerpt: "A popular HTTP library was hijacked. OpenAI's macOS apps were in the b
 
 # Axios Compromise: What Happened and Why It Matters
 
-*April 13, 2026*
+*13 April 2026*
 
 **What happened:** Axios, one of the most popular JavaScript HTTP libraries (used in millions of projects), was compromised on March 31, 2026. A malicious version (1.14.1) was pushed through a hijacked GitHub Actions workflow belonging to a maintainer's account.
 

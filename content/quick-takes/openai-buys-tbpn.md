@@ -8,7 +8,7 @@ excerpt: "OpenAI acquired TBPN, a daily tech talk show described as 'Silicon Val
 
 # OpenAI Buys a Media Company. What Could Go Wrong?
 
-*April 13, 2026*
+*13 April 2026*
 
 **What happened:** OpenAI acquired TBPN (Technology Business Programming Network), a daily live tech show that the NYT called "Silicon Valley's newest obsession." TBPN hosts Jordi Hays and John Coogan will join OpenAI's Strategy org, reporting to Chris Lehane.
 
