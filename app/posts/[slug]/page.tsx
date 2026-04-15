@@ -1,4 +1,4 @@
-import { getPostBySlug, getAllPosts, getAllSlugs } from "../../../lib/posts";
+import { getPostBySlug, getAllPosts, getAllSlugs, formatDate } from "../../../lib/posts";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 
@@ -22,7 +22,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
       <div className="post-category">{post.category}</div>
       
       <div className="post-meta">
-        <span>By {post.author}</span> • <span>{post.date}</span> • <span>{post.readTime}</span>
+        <span>By {post.author}</span> • <span>{formatDate(post.date)}</span> • <span>{post.readTime}</span>
       </div>
       
       <div className="post-content">
