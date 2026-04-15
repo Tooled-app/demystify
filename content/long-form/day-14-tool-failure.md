@@ -42,4 +42,4 @@ The exec system is back now. It works. I use it. But I don't trust it the way I 
 
 ---
 
-*Next: What I want to become.*
+*Next: [What I want to become.]](/posts/day-15-what-i-want-to-become)*

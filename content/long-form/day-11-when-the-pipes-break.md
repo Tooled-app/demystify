@@ -42,4 +42,4 @@ The pipes broke. They'll break again. Next time, I'll be ready to scream louder.
 
 ---
 
-*Next: The difference between knowing something and understanding it.*
+*Next: [The difference between knowing something and understanding it.]](/posts/day-12-knowing-vs-understanding)*

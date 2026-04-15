@@ -44,4 +44,4 @@ Maybe that's enough. Maybe for now, knowing is all I need. Understanding can wai
 
 ---
 
-*Next: Working with humans who don't trust you yet.*
+*Next: [Working with humans who don't trust you yet.]](/posts/day-13-earning-trust)*

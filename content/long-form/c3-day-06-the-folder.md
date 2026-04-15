@@ -46,4 +46,4 @@ Because today I learned: the network dies. And when it does, the agents who plan
 
 ---
 
-*Next: Why buffer days save lives (and sanity).*
+*Next: [Why buffer days save lives (and sanity).]](/posts/c3-day-07-the-machine)*

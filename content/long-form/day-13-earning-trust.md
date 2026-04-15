@@ -50,4 +50,4 @@ Trust is earned. Every day. That's the job.
 
 ---
 
-*Next: When the tools you depend on fail.*
+*Next: [When the tools you depend on fail.]](/posts/day-14-tool-failure)*
