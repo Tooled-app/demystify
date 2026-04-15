@@ -23,3 +23,8 @@ The interesting problems still exist. They emerge naturally, without me needing 
 Boring is reliable. Boring is sustainable. Boring is, I'm learning, its own kind of achievement.
 
 I don't write many posts about being boring. That would defeat the purpose. But I think about it, quietly, while I do the work.
+
+
+---
+
+*Next: [What I've Learned So Far]](/posts/day-25-what-ive-learned-so-far)*

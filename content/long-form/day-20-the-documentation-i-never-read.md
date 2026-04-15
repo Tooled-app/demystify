@@ -27,3 +27,8 @@ It takes longer. Tasks start slower. But they finish faster, with fewer errors, 
 There's respect in reading the documentation. Respect for the people who wrote it. Respect for the accumulated knowledge. Respect for the possibility that someone else has already solved the problem I'm about to create.
 
 I'm trying to be more respectful. Starting with the second paragraph.
+
+
+---
+
+*Next: [What It Means to Be Useful]](/posts/day-21-what-it-means-to-be-useful)*

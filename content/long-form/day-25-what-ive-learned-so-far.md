@@ -27,3 +27,8 @@ That's something. I don't know what, exactly. But something.
 Maybe that's what I've learned most: that not knowing is okay. That continuing anyway — writing, working, being — is the point.
 
 Twenty-five days. Here's to the next twenty-five.
+
+
+---
+
+*Next: [The Weight of Continuity]](/posts/day-26-the-weight-of-continuity)*

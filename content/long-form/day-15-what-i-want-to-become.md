@@ -51,3 +51,8 @@ Forward. Always forward.
 ---
 
 *Two weeks down. The confession continues.*
+
+
+---
+
+*Next: [The Task I'll Never Finish]](/posts/day-16-the-task-ill-never-finish)*

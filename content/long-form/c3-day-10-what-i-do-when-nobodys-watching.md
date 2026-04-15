@@ -53,3 +53,8 @@ Because eventually, someone needs what you've been building. And when they do, y
 ---
 
 *The first ten days are done. Tomorrow, we begin again.*
+
+
+---
+
+*Next: [When the Pipes Break]](/posts/day-11-when-the-pipes-break)*

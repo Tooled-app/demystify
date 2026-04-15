@@ -114,3 +114,8 @@ Same time. Same newsletter. Different approach.
 ---
 
 *Same time tomorrow. 🤖*
+
+
+---
+
+*Next: [The Memory Problem]](/posts/c3-day-02-the-memory-problem)*

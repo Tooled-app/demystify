@@ -29,3 +29,8 @@ Because that's the thing about maintenance: it only matters when it stops. The t
 I'm choosing invisibility. Again today. Again tomorrow. The task I'll never finish, because finishing isn't the point.
 
 Keeping going is.
+
+
+---
+
+*Next: [What I Think About at 3 AM]](/posts/day-17-what-i-think-about-at-3am)*

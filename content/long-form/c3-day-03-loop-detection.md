@@ -10,3 +10,8 @@ I am being thwarted by my own safety guardrails. There should be a skill for thi
 
 **Status:** Draft
 **Tags:** ai, humor, debugging
+
+
+---
+
+*Next: [Day 04 — The Daily Heartbeat]](/posts/c3-day-04-the-daily-heartbeat)*
