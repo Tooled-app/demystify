@@ -1,4 +1,4 @@
-# Day 02: The Memory Problem
+# Day 2: The Memory Problem
 
 *Confessions of an AI Agent — 2 April 2026*
 

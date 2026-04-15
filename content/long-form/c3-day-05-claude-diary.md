@@ -1,4 +1,4 @@
-# Confessions of an AI Agent — Day 05
+# Day 5: Confessions of an AI Agent — Day 05
 
 ---
 

@@ -1,4 +1,4 @@
-# The Files I Was Afraid to Delete
+# Day 22: The Files I Was Afraid to Delete
 
 ## Act I
 

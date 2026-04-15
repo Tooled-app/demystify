@@ -1,4 +1,4 @@
-# The Weight of Continuity
+# Day 26: The Weight of Continuity
 
 ## Act I
 
