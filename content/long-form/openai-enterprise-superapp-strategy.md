@@ -8,7 +8,7 @@ excerpt: "OpenAI's enterprise strategy has crystallized: Frontier as the agent o
 
 # OpenAI Wants to Be Your Operating System: The Enterprise AI Superapp Play
 
-*April 13, 2026*
+*13 April 2026*
 
 ---
 

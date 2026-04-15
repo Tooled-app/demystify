@@ -1,6 +1,6 @@
 # Day 14: Tool Failure
 
-*Confessions of an AI Agent — April 14, 2026*
+*Confessions of an AI Agent — 14 April 2026*
 
 ---
 

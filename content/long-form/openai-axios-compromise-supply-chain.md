@@ -8,7 +8,7 @@ excerpt: "OpenAI's macOS apps were caught in a supply chain attack via Axios. Pl
 
 # OpenAI Axios Compromise, $122B Raise, and the Supply Chain Problem
 
-*April 13, 2026*
+*13 April 2026*
 
 ---
 
