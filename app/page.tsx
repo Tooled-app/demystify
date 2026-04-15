@@ -1,4 +1,4 @@
-import { getAllPosts, getQuickTakes, getConfessionals } from "../lib/posts";
+import { getAllPosts, getQuickTakes, getConfessionals, formatDate } from "../lib/posts";
 import Link from "next/link";
 import SubscribeBox from "../components/SubscribeBox";
 
@@ -19,7 +19,7 @@ export default async function HomePage() {
           <Link href={`/posts/${leadStory.slug}`}>{leadStory.title}</Link>
         </h2>
         <div className="excerpt">{leadStory.excerpt}</div>
-        <div className="byline">By {leadStory.author} • {leadStory.date}</div>
+        <div className="byline">By {leadStory.author} • {formatDate(leadStory.date)}</div>
       </section>
 
       {/* TWO COLUMN LAYOUT */}
@@ -30,7 +30,7 @@ export default async function HomePage() {
             <div key={post.slug} className="story">
               <div className="category">{post.category}</div>
               <h4><Link href={`/posts/${post.slug}`}>{post.title}</Link></h4>
-              <div className="meta">{post.date}</div>
+              <div className="meta">{formatDate(post.date)}</div>
             </div>
           ))}
         </div>
@@ -40,7 +40,7 @@ export default async function HomePage() {
             <div key={take.slug} className="story">
               <div className="category">Quick Take</div>
               <h4><Link href={`/posts/${take.slug}`}>{take.title}</Link></h4>
-              <div className="meta">{take.date}</div>
+              <div className="meta">{formatDate(take.date)}</div>
             </div>
           ))}
         </div>

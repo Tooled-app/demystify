@@ -31,6 +31,18 @@ function parseDateFromFilename(filename: string): string {
   return ''; // Will be overridden by frontmatter
 }
 
+export function formatDate(dateString: string): string {
+  if (!dateString) return '';
+  const date = new Date(dateString);
+  if (isNaN(date.getTime())) return dateString;
+  
+  return date.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+  });
+}
+
 export function getAllPosts(): Post[] {
   const fileNames = fs.readdirSync(contentDirectory);
   const posts = fileNames
