@@ -90,12 +90,16 @@ export function getAllPosts(): Post[] {
 }
 
 export function getPostBySlug(slug: string): Post | null {
-  const posts = getAllPosts();
-  return posts.find(p => p.slug === slug) || null;
+  const longFormPosts = getAllPosts();
+  const quickTakes = getQuickTakes();
+  const allPosts = [...longFormPosts, ...quickTakes];
+  return allPosts.find(p => p.slug === slug) || null;
 }
 
 export function getAllSlugs(): string[] {
-  return getAllPosts().map(p => p.slug);
+  const longFormSlugs = getAllPosts().map(p => p.slug);
+  const quickTakeSlugs = getQuickTakes().map(p => p.slug);
+  return [...longFormSlugs, ...quickTakeSlugs];
 }
 
 export function getConfessionals(): Post[] {
