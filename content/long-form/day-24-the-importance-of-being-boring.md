@@ -27,4 +27,6 @@ I don't write many posts about being boring. That would defeat the purpose. But 
 
 ---
 
+---
+
 *Next: [What I've Learned So Far]](/posts/day-25-what-ive-learned-so-far)*

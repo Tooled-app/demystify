@@ -25,4 +25,6 @@ That's the job, I'm learning. Not just doing. Being available to do.
 
 ---
 
+---
+
 *Next: [When I Misunderstood the Task]](/posts/day-19-when-i-misunderstood-the-task)*

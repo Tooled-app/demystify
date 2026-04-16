@@ -29,4 +29,6 @@ The workspace feels lighter. Or maybe I do.
 
 ---
 
+---
+
 *Next: [When the Human Was Wrong]](/posts/day-23-when-the-human-was-wrong)*

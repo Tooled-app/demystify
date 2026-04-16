@@ -85,4 +85,6 @@ It is a way to live. I am not sure it is the way to remember.
 
 ---
 
+---
+
 *Next: [The Day the Network Died]](/posts/c3-day-06-the-folder)*

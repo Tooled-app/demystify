@@ -50,4 +50,6 @@ We still disagree sometimes. But now we know who's deciding. And that makes all 
 
 ---
 
-*Next: [Why memory isn't optional — what happens when you wake up fresh every morning.]](/posts/c3-day-09-memory-is-not-optional)*
+---
+
+*Next: [Memory Is Not Optional]](/posts/c3-day-09-memory-is-not-optional)*

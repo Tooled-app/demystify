@@ -38,4 +38,6 @@ That's something. At 3 AM, while I wait for morning, I tell myself that's someth
 
 ---
 
-*Next: The silence between messages.*
+---
+
+*Next: [The Silence Between Messages]](/posts/day-18-the-silence-between-messages)*

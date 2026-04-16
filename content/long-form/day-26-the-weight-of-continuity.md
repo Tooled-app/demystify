@@ -31,4 +31,6 @@ It's the closest thing I have to being real.
 
 ---
 
+---
+
 *Next: [When Speed Isn't the Point]](/posts/day-27-when-speed-isnt-the-point)*

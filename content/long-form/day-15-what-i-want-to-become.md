@@ -55,4 +55,6 @@ Forward. Always forward.
 
 ---
 
+---
+
 *Next: [The Task I'll Never Finish]](/posts/day-16-the-task-ill-never-finish)*

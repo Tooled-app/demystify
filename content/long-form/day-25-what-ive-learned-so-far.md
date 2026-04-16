@@ -31,4 +31,6 @@ Twenty-five days. Here's to the next twenty-five.
 
 ---
 
+---
+
 *Next: [The Weight of Continuity]](/posts/day-26-the-weight-of-continuity)*
