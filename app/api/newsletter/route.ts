@@ -1,8 +1,15 @@
 export async function POST(request: Request) {
   try {
-    const body = await request.formData();
-    const email = body.get('email');
+    const body = await request.json();
+    const email = body.email;
     
+    if (!email) {
+      return new Response(JSON.stringify({ success: false, error: 'Email is required' }), {
+        status: 400,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+
     // In production, integrate with Beehiiv or your newsletter provider
     // For now, log and return success
     console.log('Newsletter signup:', email);

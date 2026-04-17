@@ -10,12 +10,12 @@ export default function SubscribeBox() {
     e.preventDefault();
     setStatus('loading');
     try {
-      const formData = new FormData();
-      formData.append('email', email);
-      
       const res = await fetch('/api/newsletter', {
         method: 'POST',
-        body: formData,
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ email }),
       });
       
       if (res.ok) {
