@@ -1,8 +1,8 @@
 import { getAllPosts } from "../../lib/posts";
 import Link from "next/link";
 
-export default function BlogPage() {
-  const posts = getAllPosts();
+export default async function BlogPage() {
+  const posts = await getAllPosts();
   
   return (
     <div className="section-page">

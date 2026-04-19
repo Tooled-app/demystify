@@ -1,8 +1,8 @@
 import { getConfessionals } from "../../lib/posts";
 import Link from "next/link";
 
-export default function ConfessionalsPage() {
-  const confessionals = getConfessionals();
+export default async function ConfessionalsPage() {
+  const confessionals = await getConfessionals();
   
   return (
     <div className="section-page">

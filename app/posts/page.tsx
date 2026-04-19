@@ -1,8 +1,8 @@
 import { getAllPosts, formatDate } from "../../lib/posts";
 import Link from "next/link";
 
-export default function PostsPage() {
-  const posts = getAllPosts();
+export default async function PostsPage() {
+  const posts = await getAllPosts();
 
   return (
     <div className="section-page">

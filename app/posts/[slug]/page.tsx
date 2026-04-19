@@ -1,17 +1,12 @@
-import { getPostBySlug, getAllPosts, getAllSlugs, formatDate } from "../../../lib/posts";
+import { getPostBySlug, formatDate } from "../../../lib/posts";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 
-export async function generateStaticParams() {
-  const slugs = getAllSlugs();
-  return slugs.map((slug) => ({
-    slug: slug,
-  }));
-}
+export const revalidate = 60;
 
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const post = getPostBySlug(slug);
+  const post = await getPostBySlug(slug);
 
   if (!post) return <div className="post-page">Post not found.</div>;
 

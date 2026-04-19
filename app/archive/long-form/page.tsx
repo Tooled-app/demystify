@@ -1,8 +1,8 @@
 import { getLongFormPosts } from "../../../lib/posts";
 import Link from "next/link";
 
-export default function LongFormArchivePage() {
-  const posts = getLongFormPosts();
+export default async function LongFormArchivePage() {
+  const posts = await getLongFormPosts();
   
   return (
     <div className="section-page">

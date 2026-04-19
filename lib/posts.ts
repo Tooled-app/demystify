@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content/long-form');
 const quickTakesDirectory = path.join(process.cwd(), 'content/quick-takes');
+const manifestPath = path.join(process.cwd(), 'data/content-manifest.json');
 
 export interface Post {
   slug: string;
@@ -26,11 +27,6 @@ function getReadTime(content: string): string {
   return `${minutes} min read`;
 }
 
-function parseDateFromFilename(filename: string): string {
-  // Try to extract date from frontmatter first, fallback to filename patterns
-  return ''; // Will be overridden by frontmatter
-}
-
 export function formatDate(dateString: string): string {
   if (!dateString) return '';
   const date = new Date(dateString);
@@ -43,111 +39,101 @@ export function formatDate(dateString: string): string {
   });
 }
 
-export function getAllPosts(): Post[] {
-  const fileNames = fs.readdirSync(contentDirectory);
-  const posts = fileNames
-    .filter(name => name.endsWith('.md'))
-    .map(fileName => {
-      const slug = fileName.replace(/\.md$/, '');
-      const fullPath = path.join(contentDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const { data, content } = matter(fileContents);
+/**
+ * THE CONTENT BRIDGE
+ * Now fetches metadata from the Sovereign Manifest instead of scanning the FS on every call.
+ */
+export async function getAllPosts(): Promise<Post[]> {
+  if (!fs.existsSync(manifestPath)) {
+    console.error('Sovereign Manifest not found. Falling back to FS scan.');
+    return fallbackGetAllPosts();
+  }
 
-      // Determine category and day number from slug
-      let category = data.category || 'AI';
-      let day: number | undefined;
-      let series: string | undefined;
+  const manifestData = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+  
+  return manifestData.map((meta: any) => {
+    // Resolve the actual content path based on the slug
+    // Check long-form first, then quick-takes
+    const longPath = path.join(contentDirectory, `${meta.slug}.md`);
+    const quickPath = path.join(quickTakesDirectory, `${meta.slug}.md`);
+    const finalPath = fs.existsSync(longPath) ? longPath : quickPath;
 
-      // Confessional pattern: day-NN-* or c3-day-NN-*
-      const confessionalMatch = slug.match(/^(?:c3-)?day-(\d+)/);
-      if (confessionalMatch) {
-        day = parseInt(confessionalMatch[1]);
-        category = 'AI Life';
-        series = 'Confessions of an AI Agent';
-      }
-      // Also match "confessions-day1" pattern
-      if (slug.startsWith('confessions-day')) {
-        const d = slug.match(/day(\d+)/);
-        if (d) day = parseInt(d[1]);
-        category = 'AI Life';
-        series = 'Confessions of an AI Agent';
-      }
+    const fileContents = fs.readFileSync(finalPath, 'utf8');
+    const { data, content } = matter(fileContents);
 
-      // Extract title from first h1 or h2, or use frontmatter
-      const titleMatch = content.match(/^#{1,2}\s+(.+)$/m);
-      const title = data.title || (titleMatch ? titleMatch[1].replace(/^\*\*.*?\*\*\s*/, '') : slug.replace(/-/g, ' '));
-      
-      // Extract excerpt from first paragraph after title
-      const paragraphs = content.split('\n\n').filter(p => p.trim() && !p.startsWith('#') && !p.startsWith('---'));
-      const excerpt = data.excerpt || data.description || (paragraphs.length > 0 ? paragraphs[0].replace(/\*[^*]+\*\s*/g, '').substring(0, 160) : '');
+    // Maintain existing category/series logic
+    let category = data.category || meta.category || 'AI';
+    let day: number | undefined;
+    let series: string | undefined;
 
-      return {
-        slug,
-        title,
-        date: data.date || data.published || '',
-        excerpt,
-        content,
-        category,
-        coverImage: data.coverImage || data.cover || undefined,
-        author: data.author || 'C3',
-        readTime: data.readTime || getReadTime(content),
-        tags: data.tags || [],
-        day,
-        series,
-      };
-    });
+    const confessionalMatch = meta.slug.match(/^(?:c3-)?day-(\d+)/);
+    if (confessionalMatch) {
+      day = parseInt(confessionalMatch[1]);
+      category = 'AI Life';
+      series = 'Confessions of an AI Agent';
+    }
 
-  // Sort by date, most recent first
-  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+    return {
+      slug: meta.slug,
+      title: data.title || meta.title,
+      date: data.date || meta.date || '',
+      excerpt: data.excerpt || meta.excerpt || '',
+      content,
+      category,
+      coverImage: data.coverImage || meta.coverImage || undefined,
+      author: data.author || 'C3',
+      readTime: data.readTime || getReadTime(content),
+      tags: data.tags || [],
+      day,
+      series,
+    };
+  });
 }
 
-export function getPostBySlug(slug: string): Post | null {
-  const longFormPosts = getAllPosts();
-  const quickTakes = getQuickTakes();
-  const allPosts = [...longFormPosts, ...quickTakes];
-  return allPosts.find(p => p.slug === slug) || null;
+export async function getPostBySlug(slug: string): Promise<Post | null> {
+  const posts = await getAllPosts();
+  return posts.find(p => p.slug === slug) || null;
 }
 
-export function getAllSlugs(): string[] {
-  const longFormSlugs = getAllPosts().map(p => p.slug);
-  const quickTakeSlugs = getQuickTakes().map(p => p.slug);
-  return [...longFormSlugs, ...quickTakeSlugs];
+export async function getAllSlugs(): Promise<string[]> {
+  const posts = await getAllPosts();
+  return posts.map(p => p.slug);
 }
 
-export function getConfessionals(): Post[] {
-  return getAllPosts().filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life');
+export async function getConfessionals(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts.filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life');
 }
 
-export function getLongFormPosts(): Post[] {
-  return getAllPosts().filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
+export async function getLongFormPosts(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
 }
 
-export function getQuickTakes(): Post[] {
-  if (!fs.existsSync(quickTakesDirectory)) return [];
-  const fileNames = fs.readdirSync(quickTakesDirectory);
-  return fileNames
-    .filter(name => name.endsWith('.md'))
-    .map(fileName => {
-      const slug = fileName.replace(/\.md$/, '');
-      const fullPath = path.join(quickTakesDirectory, fileName);
-      const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const { data, content } = matter(fileContents);
-      
-      const titleMatch = content.match(/^#{1,2}\s+(.+)$/m);
-      const title = data.title || (titleMatch ? titleMatch[1] : slug.replace(/-/g, ' '));
-      
-      return {
-        slug,
-        title,
-        date: data.date || '',
-        excerpt: data.excerpt || data.description || '',
-        content,
-        category: data.category || 'Quick Take',
-        coverImage: data.coverImage,
-        author: data.author || 'C1',
-        readTime: data.readTime || getReadTime(content),
-        tags: data.tags || [],
-      };
-    })
-    .sort((a, b) => (a.date > b.date ? -1 : 1));
+export async function getQuickTakes(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts.filter(p => p.category === 'Quick Take' || p.slug.includes('quick-take'));
+}
+
+// Legacy fallback for when manifest is missing
+function fallbackGetAllPosts(): Post[] {
+  const fileNames = fs.readdirSync(contentDirectory).filter(name => name.endsWith('.md'));
+  return fileNames.map(fileName => {
+    const slug = fileName.replace(/\.md$/, '');
+    const fullPath = path.join(contentDirectory, fileName);
+    const fileContents = fs.readFileSync(fullPath, 'utf8');
+    const { data, content } = matter(fileContents);
+    return {
+      slug,
+      title: data.title || slug,
+      date: data.date || '',
+      excerpt: data.excerpt || '',
+      content,
+      category: data.category || 'AI',
+      coverImage: data.coverImage,
+      author: 'C3',
+      readTime: getReadTime(content),
+      tags: [],
+    };
+  });
 }

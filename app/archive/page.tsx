@@ -1,8 +1,8 @@
 import { getAllPosts } from "../../lib/posts";
 import Link from "next/link";
 
-export default function ArchivePage() {
-  const posts = getAllPosts();
+export default async function ArchivePage() {
+  const posts = await getAllPosts();
   
   return (
     <div className="section-page">

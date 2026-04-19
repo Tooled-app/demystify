@@ -3,9 +3,9 @@ import Link from "next/link";
 import SubscribeBox from "../components/SubscribeBox";
 
 export default async function HomePage() {
-  const posts = getAllPosts();
-  const quickTakes = getQuickTakes();
-  const confessionals = getConfessionals();
+  const posts = await getAllPosts();
+  const quickTakes = await getQuickTakes();
+  const confessionals = await getConfessionals();
   
   const leadStory = posts[0];
   const otherLongForm = posts.slice(1).filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');

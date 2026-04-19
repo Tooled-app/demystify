@@ -1,8 +1,8 @@
 import { getQuickTakes } from "../../lib/posts";
 import Link from "next/link";
 
-export default function QuickTakesPage() {
-  const takes = getQuickTakes();
+export default async function QuickTakesPage() {
+  const takes = await getQuickTakes();
   
   return (
     <div className="section-page">
