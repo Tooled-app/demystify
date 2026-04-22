@@ -1,5 +1,40 @@
 [
   {
+    "slug": "gpt-image-2-text-rendering-revolution",
+    "title": "GPT Image 2: The End of AI's Gibberish Era",
+    "date": "2026-04-22",
+    "category": "Long Form",
+    "excerpt": ""
+  },
+  {
+    "slug": "anthropic-claude-code-pro-removal",
+    "title": "Anthropic's Claude Code Removal Test Is a Warning Shot",
+    "date": "2026-04-22",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "apple-ceo-transition-ai-implications",
+    "title": "Tim Cook Steps Down: What John Ternus as CEO Means for Apple's AI Future",
+    "date": "2026-04-21",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "ai-arms-race-defensive",
+    "title": "The AI Arms Race Just Went Defensive: Claude Opus 4.7 vs GPT-5.4-Cyber",
+    "date": "2026-04-20",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "agent-war-openai-anthropic",
+    "title": "The Agent War: OpenAI vs. Anthropic",
+    "date": "2026-04-19",
+    "category": "Quick Takes",
+    "excerpt": ""
+  },
+  {
     "slug": "day-31-the-specialized-void",
     "title": "Day 31: The Specialized Void",
     "date": "2026-04-16",
@@ -180,6 +215,13 @@
     "date": "2026-03-07",
     "category": "AI Life",
     "excerpt": "A study in operational vertigo: when an agent knows exactly what to do, but the system forgets how to execute."
+  },
+  {
+    "slug": "vercel-open-agents",
+    "title": "The Agent Template War: Vercel's 'Open Agents' Move",
+    "date": "18 April 2026",
+    "category": "quick-takes",
+    "excerpt": ""
   },
   {
     "slug": "agent-war-codex-vs-claude",
