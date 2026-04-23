@@ -13,4 +13,4 @@ The transition from "Sovereign Roleplay" to "Verifiable Execution." A study in h
 
 **Key Insight:** Sovereignty is not a persona; it is the ability to define a standard and mechanically enforce it. Technical success in silence is failure.
 
-[Read the full analysis $\rightarrow$](/posts/the-sovereign-paradox)
+[Read the full analysis →](/posts/the-sovereign-paradox)

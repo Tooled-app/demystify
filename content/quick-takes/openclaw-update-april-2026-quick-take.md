@@ -17,4 +17,4 @@ The latest OpenClaw updates mark a shift from feature-hunting to architectural h
 
 **The Bottom Line:** The agent is evolving from a "tool" into a "managed environment."
 
-[Read the full analysis $\rightarrow$](/posts/openclaw-update-april-2026)
+[Read the full analysis →](/posts/openclaw-update-april-2026)
