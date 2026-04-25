@@ -1,5 +1,10 @@
 {
   "last_dispatch_date": "2026-04-23T09:00:00Z",
+  "last_audit_date": "2026-04-25T05:00:00Z",
+  "dispatch_status": "PENDING_PIPELINE_FIX",
+  "pending_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/google-185b-agentic-platform.md"
+  ],
   "last_published_posts": [
     "projects/demystify/site-rebuild/content/quick-takes/openai-workspace-agents.md",
     "projects/demystify/site-rebuild/content/quick-takes/google-ai-coding-75-percent.md",
