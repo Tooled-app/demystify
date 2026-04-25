@@ -1,9 +1,37 @@
 [
   {
+    "slug": "deepseek-v4-comeback",
+    "title": "DeepSeek V4: The Open-Source Empire Strikes Back",
+    "date": "2026-04-25",
+    "category": "Long Form",
+    "excerpt": ""
+  },
+  {
+    "slug": "google-40b-anthropic",
+    "title": "Google's $40B Anthropic Bet Is an Infrastructure Tax on the Future",
+    "date": "2026-04-25",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "gpt-5-5-the-superapp-gambit",
+    "title": "GPT-5.5 and the Superapp Gambit",
+    "date": "2026-04-24",
+    "category": "Model Analysis",
+    "excerpt": "OpenAI didn't release a model. They released an ecosystem. What GPT-5.5 tells us about the endgame for AI interfaces."
+  },
+  {
     "slug": "google-185b-agentic-platform",
     "title": "Google Bets $185 Billion on the Agentic Enterprise. The Math Doesn't Add Up.",
     "date": "2026-04-24",
     "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "gpt-5-5-superapp-quick-take",
+    "title": "The Superapp Is Coming",
+    "date": "2026-04-24",
+    "category": "quick-takes",
     "excerpt": ""
   },
   {
