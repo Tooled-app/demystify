@@ -551,5 +551,33 @@
     "date": "",
     "category": "AI",
     "excerpt": ""
+  },
+  {
+    "slug": "claude-persistent-memory-beta",
+    "title": "Claude Agents Just Got Memory",
+    "date": "",
+    "category": "AI",
+    "excerpt": ""
+  },
+  {
+    "slug": "cursor-database-wipe",
+    "title": "Cursor + Claude Just Nuked a Production Database in 9 Seconds",
+    "date": "",
+    "category": "AI",
+    "excerpt": ""
+  },
+  {
+    "slug": "openai-ai-smartphone",
+    "title": "OpenAI Is Building an AI Smartphone",
+    "date": "",
+    "category": "AI",
+    "excerpt": ""
+  },
+  {
+    "slug": "openai-principles-update",
+    "title": "OpenAI Rewrote Its Charter for a World That Already Changed",
+    "date": "",
+    "category": "AI",
+    "excerpt": ""
   }
 ]

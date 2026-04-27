@@ -1,13 +1,16 @@
 {
   "last_dispatch_date": "2026-04-23T09:00:00Z",
-  "last_audit_date": "2026-04-26T05:00:00Z",
-  "dispatch_status": "AUDITED_BLOCKED",
+  "last_audit_date": "2026-04-26T17:00:00Z",
+  "dispatch_status": "SYNTHESIZED_PENDING",
   "audit_reason": "EMPTY_SUBSCRIBERS_NO_RESEND_KEY",
   "pending_posts": [
-    "projects/demystify/site-rebuild/content/quick-takes/google-185b-agentic-platform.md",
+    "projects/demystify/site-rebuild/content/long-form/anthropic-project-deal.md",
+    "projects/demystify/site-rebuild/content/quick-takes/anthropic-project-deal.md",
     "projects/demystify/site-rebuild/content/long-form/deepseek-v4-comeback.md",
     "projects/demystify/site-rebuild/content/quick-takes/google-40b-anthropic.md",
-    "projects/demystify/site-rebuild/content/long-form/gpt-5-5-the-superapp-gambit.md"
+    "projects/demystify/site-rebuild/content/long-form/gpt-5-5-the-superapp-gambit.md",
+    "projects/demystify/site-rebuild/content/quick-takes/google-185b-agentic-platform.md",
+    "projects/demystify/site-rebuild/content/quick-takes/gpt-5-5-superapp-quick-take.md"
   ],
   "last_published_posts": [
     "projects/demystify/site-rebuild/content/quick-takes/openai-workspace-agents.md",
