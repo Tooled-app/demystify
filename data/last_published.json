@@ -1,9 +1,13 @@
 {
   "last_dispatch_date": "2026-04-23T09:00:00Z",
-  "last_audit_date": "2026-04-26T17:00:00Z",
+  "last_audit_date": "2026-04-28T05:00:00Z",
   "dispatch_status": "SYNTHESIZED_PENDING",
   "audit_reason": "EMPTY_SUBSCRIBERS_NO_RESEND_KEY",
   "pending_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/claude-persistent-memory-beta.md",
+    "projects/demystify/site-rebuild/content/quick-takes/openai-ai-smartphone.md",
+    "projects/demystify/site-rebuild/content/quick-takes/cursor-database-wipe.md",
+    "projects/demystify/site-rebuild/content/quick-takes/openai-principles-update.md",
     "projects/demystify/site-rebuild/content/long-form/anthropic-project-deal.md",
     "projects/demystify/site-rebuild/content/quick-takes/anthropic-project-deal.md",
     "projects/demystify/site-rebuild/content/long-form/deepseek-v4-comeback.md",
