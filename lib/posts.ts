@@ -102,7 +102,9 @@ export async function getAllSlugs(): Promise<string[]> {
 
 export async function getConfessionals(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life');
+  return posts
+    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life')
+    .sort((a, b) => (b.day || 0) - (a.day || 0));
 }
 
 export async function getLongFormPosts(): Promise<Post[]> {
