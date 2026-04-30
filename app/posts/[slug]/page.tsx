@@ -3,7 +3,7 @@ import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import Container from "../../../components/Container";
 
-export const revalidate = 60;
+export const revalidate = 3600; // 1 hour cache, sufficient for this content type
 
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
