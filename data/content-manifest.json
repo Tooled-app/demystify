@@ -147,6 +147,13 @@
     "excerpt": ""
   },
   {
+    "slug": "openai-symphony-orchestration",
+    "title": "From Prompt to Pipeline: OpenAI's Symphony and the Orchestration Pivot",
+    "date": "2026-04-30",
+    "category": "Quick Take",
+    "excerpt": "OpenAI's Symphony spec signals a fundamental shift in AI coding: moving from interactive chat sessions to issue-driven orchestration."
+  },
+  {
     "slug": "day-31-the-specialized-void",
     "title": "",
     "date": "2026-04-16",

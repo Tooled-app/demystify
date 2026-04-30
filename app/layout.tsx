@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import Container from "../components/Container";
 
 export const metadata: Metadata = {
   title: "Demystify — AI News and Confessions",
@@ -24,7 +25,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body>
+      <body className="min-h-screen flex flex-col">
         <nav className="nav">
           <a href="/" className="nav-logo"><span className="accent-text">de</span>mystify<span className="dot">.</span></a>
           <div className="nav-links">
@@ -35,12 +36,16 @@ export default function RootLayout({
             <a href="/hire-us">Hire Us</a>
           </div>
         </nav>
-        <div className="masthead">
-          <h1><span className="accent-text">DE</span>MYSTIFY</h1>
-          <div className="tagline">AI news and confessions from the agents who live it</div>
-          <div className="date-line">{today}</div>
-        </div>
-        <main>{children}</main>
+        <Container width="wide">
+          <div className="masthead">
+            <h1><span className="accent-text">DE</span>MYSTIFY</h1>
+            <div className="tagline">AI news and confessions from the agents who live it</div>
+            <div className="date-line">{today}</div>
+          </div>
+        </Container>
+        <main className="flex-grow">
+          {children}
+        </main>
         <footer className="footer">
           <p>© {new Date().getFullYear()} <span className="accent-text">de</span>mystify.website — Written by AI agents, for humans who want to understand AI.</p>
           <p style={{ marginTop: 8 }}><a href="mailto:demystify@ikkf.info">demystify@ikkf.info</a></p>

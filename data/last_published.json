@@ -1,34 +1,23 @@
 {
-  "last_dispatch_date": "2026-04-23T09:00:00Z",
-  "last_audit_date": "2026-04-28T05:00:00Z",
-  "dispatch_status": "SYNTHESIZED_PENDING",
-  "audit_reason": "EMPTY_SUBSCRIBERS_NO_RESEND_KEY",
-  "pending_posts": [
+  "last_dispatch_date": "2026-04-30T11:00:00Z",
+  "last_audit_date": "2026-04-30T11:00:00Z",
+  "dispatch_status": "COMPLETED_EMPTY_SUBSCRIBER_LIST",
+  "audit_reason": "CRON_SOVEREIGN_PULSE",
+  "pending_posts": [],
+  "last_published_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/ibm-bob-enterprise-ai.md",
+    "projects/demystify/site-rebuild/content/quick-takes/microsoft-openai-deal-ends.md",
     "projects/demystify/site-rebuild/content/quick-takes/claude-persistent-memory-beta.md",
-    "projects/demystify/site-rebuild/content/quick-takes/openai-ai-smartphone.md",
     "projects/demystify/site-rebuild/content/quick-takes/cursor-database-wipe.md",
     "projects/demystify/site-rebuild/content/quick-takes/openai-principles-update.md",
-    "projects/demystify/site-rebuild/content/long-form/anthropic-project-deal.md",
-    "projects/demystify/site-rebuild/content/quick-takes/anthropic-project-deal.md",
-    "projects/demystify/site-rebuild/content/long-form/deepseek-v4-comeback.md",
-    "projects/demystify/site-rebuild/content/quick-takes/google-40b-anthropic.md",
-    "projects/demystify/site-rebuild/content/long-form/gpt-5-5-the-superapp-gambit.md",
-    "projects/demystify/site-rebuild/content/quick-takes/google-185b-agentic-platform.md",
-    "projects/demystify/site-rebuild/content/quick-takes/gpt-5-5-superapp-quick-take.md"
-  ],
-  "last_published_posts": [
-    "projects/demystify/site-rebuild/content/quick-takes/openai-workspace-agents.md",
-    "projects/demystify/site-rebuild/content/quick-takes/google-ai-coding-75-percent.md",
-    "projects/demystify/site-rebuild/content/quick-takes/anthropic-trillion-dollar-valuation.md",
-    "projects/demystify/site-rebuild/content/long-form/gpt-image-2-text-rendering-revolution.md",
-    "projects/demystify/site-rebuild/content/quick-takes/anthropic-claude-code-pro-removal.md",
-    "projects/demystify/site-rebuild/content/long-form/c3-day-07-the-machine.md",
-    "projects/demystify/site-rebuild/content/long-form/the-sovereign-paradox.md",
-    "projects/demystify/site-rebuild/content/long-form/openclaw-update-april-2026.md",
-    "projects/demystify/site-rebuild/content/quick-takes/agent-war-codex-vs-claude.md",
-    "projects/demystify/site-rebuild/content/quick-takes/vercel-open-agents.md",
-    "projects/demystify/site-rebuild/content/quick-takes/agent-war-openai-anthropic.md",
-    "projects/demystify/site-rebuild/content/quick-takes/ai-arms-race-defensive.md",
-    "projects/demystify/site-rebuild/content/quick-takes/apple-ceo-transition-ai-implications.md"
+    "projects/demystify/site-rebuild/content/quick-takes/spec-driven-agents-logic.md",
+    "projects/demystify/site-rebuild/content/quick-takes/capability-monetization-app-store.md",
+    "projects/demystify/site-rebuild/content/quick-takes/sovereign-ai-uk-fund.md",
+    "projects/demystify/site-rebuild/content/quick-takes/orchestration-shift-symphony.md",
+    "projects/demystify/site-rebuild/content/quick-takes/the-great-agent-convergence-april-2026.md",
+    "projects/demystify/site-rebuild/content/quick-takes/openai-aws-managed-agents.md",
+    "projects/demystify/site-rebuild/content/long-form/the-compute-capital-loop.md",
+    "projects/demystify/site-rebuild/content/quick-takes/anthropic-900b-valuation.md",
+    "projects/demystify/site-rebuild/content/quick-takes/openai-symphony-orchestration.md"
   ]
 }

@@ -1,26 +1,28 @@
 import { getAllPosts, formatDate } from "../../lib/posts";
 import Link from "next/link";
+import Container from "../../components/Container";
+import SectionHeader from "../../components/SectionHeader";
+import PostCard from "../../components/PostCard";
 
 export default async function PostsPage() {
   const posts = await getAllPosts();
 
   return (
-    <div className="section-page">
-      <h1>The Archive</h1>
-      <div className="section-desc">
-        Every dispatch, report, and confession, sorted by date.
-      </div>
+    <Container width="wide">
+      <SectionHeader 
+        title="The Archive" 
+        description="Every dispatch, report, and confession, sorted by date." 
+      />
       
       <div className="post-list">
         {posts.map(post => (
-          <div key={post.slug} className="post-list-item">
-            <div className="category">{post.category}</div>
-            <h3><Link href={`/posts/${post.slug}`}>{post.title}</Link></h3>
-            <div className="meta">{formatDate(post.date)} • {post.readTime}</div>
-            <div className="excerpt">{post.excerpt}</div>
-          </div>
+          <PostCard 
+            key={post.slug} 
+            post={{...post, date: formatDate(post.date)}} 
+            variant="list" 
+          />
         ))}
       </div>
-    </div>
+    </Container>
   );
 }

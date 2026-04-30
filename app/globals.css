@@ -170,9 +170,15 @@ img { max-width: 100%; height: auto; }
 .confessional-strip {
   background: var(--dark-bg);
   color: var(--dark-text);
-  padding: 40px 48px;
-  margin: 0 -48px 48px;
+  padding: 40px 0;
+  margin: 0;
 }
+.confessional-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 48px;
+}
+
 .confessional-strip h3 {
   font-family: var(--font-display);
   font-size: 13px;
@@ -355,20 +361,18 @@ img { max-width: 100%; height: auto; }
 }
 .back-link:hover { color: var(--accent); }
 
-/* SECTION PAGES (confessionals, archive, etc.) */
-.section-page {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 40px 48px;
+/* SECTION HEADERS */
+.section-header {
+  margin-bottom: 40px;
 }
-.section-page h1 {
+.section-header h1 {
   font-family: var(--font-display);
   font-size: 42px;
   font-weight: 900;
   letter-spacing: -1px;
   margin-bottom: 8px;
 }
-.section-page .section-desc {
+.section-header .section-desc {
   font-size: 16px;
   color: var(--muted);
   margin-bottom: 40px;
