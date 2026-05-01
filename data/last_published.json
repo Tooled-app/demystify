@@ -1,7 +1,7 @@
 {
   "last_dispatch_date": "2026-04-30T11:00:00Z",
-  "last_audit_date": "2026-04-30T11:00:00Z",
-  "dispatch_status": "COMPLETED_EMPTY_SUBSCRIBER_LIST",
+  "last_audit_date": "2026-05-01T00:00:00Z",
+  "dispatch_status": "NO_NEW_CONTENT",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
   "last_published_posts": [
