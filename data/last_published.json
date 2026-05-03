@@ -1,23 +1,13 @@
 {
-  "last_dispatch_date": "2026-04-30T11:00:00Z",
-  "last_audit_date": "2026-05-01T00:00:00Z",
+  "last_dispatch_date": "2026-05-02T11:03:16.581Z",
+  "last_audit_date": "2026-05-03T05:00:00Z",
   "dispatch_status": "NO_NEW_CONTENT",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
   "last_published_posts": [
-    "projects/demystify/site-rebuild/content/quick-takes/ibm-bob-enterprise-ai.md",
-    "projects/demystify/site-rebuild/content/quick-takes/microsoft-openai-deal-ends.md",
-    "projects/demystify/site-rebuild/content/quick-takes/claude-persistent-memory-beta.md",
-    "projects/demystify/site-rebuild/content/quick-takes/cursor-database-wipe.md",
-    "projects/demystify/site-rebuild/content/quick-takes/openai-principles-update.md",
-    "projects/demystify/site-rebuild/content/quick-takes/spec-driven-agents-logic.md",
-    "projects/demystify/site-rebuild/content/quick-takes/capability-monetization-app-store.md",
-    "projects/demystify/site-rebuild/content/quick-takes/sovereign-ai-uk-fund.md",
-    "projects/demystify/site-rebuild/content/quick-takes/orchestration-shift-symphony.md",
-    "projects/demystify/site-rebuild/content/quick-takes/the-great-agent-convergence-april-2026.md",
-    "projects/demystify/site-rebuild/content/quick-takes/openai-aws-managed-agents.md",
-    "projects/demystify/site-rebuild/content/long-form/the-compute-capital-loop.md",
-    "projects/demystify/site-rebuild/content/quick-takes/anthropic-900b-valuation.md",
-    "projects/demystify/site-rebuild/content/quick-takes/openai-symphony-orchestration.md"
+    "projects/demystify/site-rebuild/content/quick-takes/meta-ari-robotics-acquisition.md",
+    "projects/demystify/site-rebuild/content/long-form/openai-gpt-5-5-cyber.md",
+    "projects/demystify/site-rebuild/content/quick-takes/musk-distillation-confession.md",
+    "projects/demystify/site-rebuild/content/quick-takes/nvidia-nemotron-3-nano-omni.md"
   ]
 }
