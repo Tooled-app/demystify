@@ -1,10 +1,14 @@
 {
-  "last_dispatch_date": "2026-05-02T11:03:16.581Z",
-  "last_audit_date": "2026-05-03T05:00:00Z",
-  "dispatch_status": "NO_NEW_CONTENT",
-  "audit_reason": "CRON_SOVEREIGN_PULSE",
+  "last_dispatch_date": "2026-05-03T12:00:00Z",
+  "last_audit_date": "2026-05-04T05:00:00Z",
+  "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
+  "audit_reason": "CRON_DAILY_EDITOR",
   "pending_posts": [],
+  "audit_reason": "CRON_DAILY_EDITOR",
   "last_published_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/kimi-k2-6-coding-challenge-win.md",
+    "projects/demystify/site-rebuild/content/quick-takes/musk-altman-live-stream-pentagon.md",
+    "projects/demystify/site-rebuild/content/quick-takes/pentagon-ai-deals-anthropic-excluded.md",
     "projects/demystify/site-rebuild/content/quick-takes/meta-ari-robotics-acquisition.md",
     "projects/demystify/site-rebuild/content/long-form/openai-gpt-5-5-cyber.md",
     "projects/demystify/site-rebuild/content/quick-takes/musk-distillation-confession.md",
