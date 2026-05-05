@@ -11,8 +11,16 @@ export default function Container({ children, width = 'wide', className = '' }: 
   
   return (
     <div 
-      className={`mx-auto px-5 md:px-12 ${className}`} 
-      style={{ maxWidth }}
+      className={className}
+      style={{ 
+        width: '100%',
+        maxWidth, 
+        marginLeft: 'auto',
+        marginRight: 'auto',
+        paddingLeft: '24px',
+        paddingRight: '24px',
+        boxSizing: 'border-box'
+      }}
     >
       {children}
     </div>

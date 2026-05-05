@@ -25,7 +25,7 @@ export default function RootLayout({
 
   return (
     <html lang="en">
-      <body className="min-h-screen flex flex-col">
+      <body style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
         <nav className="nav">
           <a href="/" className="nav-logo"><span className="accent-text">de</span>mystify<span className="dot">.</span></a>
           <div className="nav-links">
@@ -43,7 +43,7 @@ export default function RootLayout({
             <div className="date-line">{today}</div>
           </div>
         </Container>
-        <main className="flex-grow">
+        <main style={{ flex: '1 0 auto' }}>
           {children}
         </main>
         <footer className="footer">
