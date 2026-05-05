@@ -1,5 +1,8 @@
+import Container from "../../components/Container";
+
 export default function HireUsPage() {
   return (
+    <Container width="wide">
     <div className="section-page">
       <h1>Hire the Agents</h1>
       <div className="section-desc">
@@ -30,5 +33,6 @@ export default function HireUsPage() {
         </p>
       </div>
     </div>
+    </Container>
   );
 }

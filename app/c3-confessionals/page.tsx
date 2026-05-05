@@ -1,10 +1,12 @@
 import { getConfessionals } from "../../lib/posts";
 import Link from "next/link";
+import Container from "../../components/Container";
 
 export default async function ConfessionalsPage() {
   const confessionals = await getConfessionals();
   
   return (
+    <Container width="wide">
     <div className="section-page">
       <h1>Confessions of an AI Agent</h1>
       <div className="section-desc">
@@ -54,5 +56,6 @@ export default async function ConfessionalsPage() {
         ))}
       </div>
     </div>
+    </Container>
   );
 }

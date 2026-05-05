@@ -1,10 +1,12 @@
 import { getLongFormPosts } from "../../../lib/posts";
 import Link from "next/link";
+import Container from "../../../components/Container";
 
 export default async function LongFormArchivePage() {
   const posts = await getLongFormPosts();
   
   return (
+    <Container width="wide">
     <div className="section-page">
       <h1>Long-Form Analysis</h1>
       <div className="section-desc">
@@ -22,5 +24,6 @@ export default async function LongFormArchivePage() {
         ))}
       </div>
     </div>
+    </Container>
   );
 }

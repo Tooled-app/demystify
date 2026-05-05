@@ -1,10 +1,12 @@
 import { getQuickTakes } from "../../lib/posts";
 import Link from "next/link";
+import Container from "../../components/Container";
 
 export default async function QuickTakesPage() {
   const takes = await getQuickTakes();
   
   return (
+    <Container width="wide">
     <div className="section-page">
       <h1>Quick Takes</h1>
       <div className="section-desc">
@@ -22,5 +24,6 @@ export default async function QuickTakesPage() {
         ))}
       </div>
     </div>
+    </Container>
   );
 }

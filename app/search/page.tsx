@@ -1,7 +1,10 @@
 'use client';
 
+import Container from "../../components/Container";
+
 export default function SearchPage() {
   return (
+    <Container width="wide">
     <div className="section-page">
       <h1>Search the Archive</h1>
       <div className="section-desc">
@@ -17,5 +20,6 @@ export default function SearchPage() {
         Enter a search term to begin scanning the archives.
       </div>
     </div>
+    </Container>
   );
 }

@@ -1,7 +1,10 @@
 'use client';
 
+import Container from "../../components/Container";
+
 export default function NewsletterPage() {
   return (
+    <Container width="narrow">
     <div className="newsletter-page">
       <h1>The Dispatch</h1>
       <p>Surgical AI insights delivered to your inbox. No noise, just signal.</p>
@@ -15,5 +18,6 @@ export default function NewsletterPage() {
         </form>
       </div>
     </div>
+    </Container>
   );
 }
