@@ -1,10 +1,12 @@
 {
-  "last_dispatch_date": "2026-05-04T11:03:22.834Z",
+  "last_dispatch_date": "2026-05-05T11:01:43.710Z",
   "last_audit_date": "2026-05-05T05:00:00Z",
   "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
   "audit_reason": "CRON_DAILY_EDITOR",
   "pending_posts": [],
   "last_published_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/joint-venture-race-enterprise-ai.md",
+    "projects/demystify/site-rebuild/content/quick-takes/white-house-ai-oversight-eo.md",
     "projects/demystify/site-rebuild/content/quick-takes/the-67-problem-ai-er-diagnosis.md",
     "projects/demystify/site-rebuild/content/quick-takes/ai-beats-er-doctors-diagnosis.md",
     "projects/demystify/site-rebuild/content/quick-takes/oscars-ban-ai-actors.md",
