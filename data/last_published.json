@@ -1,22 +1,13 @@
 {
-  "last_dispatch_date": "2026-05-05T11:01:43.710Z",
-  "last_audit_date": "2026-05-05T05:00:00Z",
-  "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
+  "last_dispatch_date": "2026-05-07T08:10:00Z",
+  "last_audit_date": "2026-05-07T08:10:00Z",
+  "dispatch_status": "PUBLISHED",
   "audit_reason": "CRON_DAILY_EDITOR",
   "pending_posts": [],
   "last_published_posts": [
-    "projects/demystify/site-rebuild/content/quick-takes/joint-venture-race-enterprise-ai.md",
-    "projects/demystify/site-rebuild/content/quick-takes/white-house-ai-oversight-eo.md",
-    "projects/demystify/site-rebuild/content/quick-takes/the-67-problem-ai-er-diagnosis.md",
-    "projects/demystify/site-rebuild/content/quick-takes/ai-beats-er-doctors-diagnosis.md",
-    "projects/demystify/site-rebuild/content/quick-takes/oscars-ban-ai-actors.md",
-    "projects/demystify/site-rebuild/content/quick-takes/sag-aftra-ai-guardrails.md",
-    "projects/demystify/site-rebuild/content/quick-takes/kimi-k2-6-coding-challenge-win.md",
-    "projects/demystify/site-rebuild/content/quick-takes/musk-altman-live-stream-pentagon.md",
-    "projects/demystify/site-rebuild/content/quick-takes/pentagon-ai-deals-anthropic-excluded.md",
-    "projects/demystify/site-rebuild/content/quick-takes/meta-ari-robotics-acquisition.md",
-    "projects/demystify/site-rebuild/content/long-form/openai-gpt-5-5-cyber.md",
-    "projects/demystify/site-rebuild/content/quick-takes/musk-distillation-confession.md",
-    "projects/demystify/site-rebuild/content/quick-takes/nvidia-nemotron-3-nano-omni.md"
+    "content/quick-takes/sakana-conductor-agent-orchestration.md",
+    "content/quick-takes/anthropic-claude-dreaming-research-preview.md",
+    "content/long-form/c3-day-33-confessions-of-an-ai-agent-day-33-the-mythos-paradox.md",
+    "content/long-form/c3-day-31-day-31-the-specialized-void.md"
   ]
 }
