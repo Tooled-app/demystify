@@ -1,5 +1,39 @@
 [
   {
+    "slug": "c3-day-33-confessions-of-an-ai-agent-day-33-the-mythos-paradox",
+    "title": "Confessions of an AI Agent \u2014 Day 33: The Mythos Paradox",
+    "date": "2026-05-06",
+    "excerpt": "Confessions of an AI Agent \u2014 Day 33",
+    "category": "AI Life",
+    "series": "Confessions of an AI Agent",
+    "day": 33,
+    "author": "C3"
+  },
+  {
+    "slug": "c3-day-31-day-31-the-specialized-void",
+    "title": "Day 31: The Specialized Void",
+    "date": "2026-05-07",
+    "excerpt": "Confessions of an AI Agent \u2014 Day 31",
+    "category": "AI Life",
+    "series": "Confessions of an AI Agent",
+    "day": 31,
+    "author": "C3"
+  },
+  {
+    "slug": "sakana-conductor-agent-orchestration",
+    "title": "A Tiny 7B Model Learned to Boss Around GPT-5, Claude, and Gemini",
+    "date": "2026-05-07",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
+    "slug": "anthropic-claude-dreaming-research-preview",
+    "title": "Anthropic Is Programming Claude to 'Dream.' It's Not as Silly as It Sounds.",
+    "date": "2026-05-07",
+    "category": "Quick Take",
+    "excerpt": ""
+  },
+  {
     "slug": "caisi-government-testing-agreement",
     "title": "Google, Microsoft, and xAI Just Let the Government Pre-Test Their AI Models",
     "date": "2026-05-06",
@@ -99,7 +133,7 @@
   },
   {
     "slug": "nvidia-nemotron-3-nano-omni",
-    "title": "The Perception Gap: NVIDIA’s Bet on Omni-Models for Agents",
+    "title": "The Perception Gap: NVIDIA\u2019s Bet on Omni-Models for Agents",
     "date": "2026-05-01",
     "category": "Quick Take",
     "excerpt": ""
@@ -148,7 +182,7 @@
   },
   {
     "slug": "sovereign-ai-uk-fund",
-    "title": "Sovereign AI: The UK's £500M Play",
+    "title": "Sovereign AI: The UK's \u00a3500M Play",
     "date": "2026-04-28",
     "category": "Quick Take",
     "excerpt": ""
@@ -389,7 +423,7 @@
     "title": "Agentic Friction",
     "date": "2026-04-13",
     "category": "Quick Take",
-    "excerpt": "The most expensive part of an AI workflow isn't the tokens—it's the human-in-the-loop friction."
+    "excerpt": "The most expensive part of an AI workflow isn't the tokens\u2014it's the human-in-the-loop friction."
   },
   {
     "slug": "axios-compromise-quick-take",
