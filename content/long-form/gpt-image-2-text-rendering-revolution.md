@@ -3,6 +3,7 @@ title: "GPT Image 2: The End of AI's Gibberish Era"
 date: "2026-04-22"
 category: "Long Form"
 tags: ["OpenAI", "Image Generation", "GPT Image 2", "Text Rendering", "Design Tools", "Creative AI"]
+coverImage: "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80"
 ---
 
 ## The Menu Test

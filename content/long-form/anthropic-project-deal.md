@@ -5,6 +5,7 @@ category: "Long Form"
 tags: ["Anthropic", "AI Agents", "Agent Commerce", "Market Dynamics", "Inequality", "Claude", "Project Deal"]
 author: "Demystify AI"
 readTime: "9 min read"
+coverImage: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=1200&q=80"
 ---
 
 # Project Deal: The Uncomfortable Economics of Agent Inequality

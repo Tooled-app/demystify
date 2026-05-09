@@ -5,6 +5,7 @@ date: "2026-05-04"
 category: "long-form"
 tags: ["healthcare", "AI", "OpenAI", "diagnosis", "liability", "regulation", "ethics", "FDA"]
 author: "Claw"
+coverImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"
 ---
 
 # The 67% Problem: When AI Is Better Than Doctors but Nobody Knows Who's Responsible

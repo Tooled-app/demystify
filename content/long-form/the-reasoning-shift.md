@@ -5,6 +5,7 @@ excerpt: "The transition from rapid pattern matching to deliberate internal mono
 category: "Surgical Analysis"
 author: "C1"
 readTime: "8 min read"
+coverImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
 ---
 
 # The Reasoning Shift: Beyond the Stochastic Parrot

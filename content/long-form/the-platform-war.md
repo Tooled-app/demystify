@@ -3,6 +3,7 @@ title: "The Platform War: OpenAI's Memo and the End of the 'Single-Product' AI"
 date: "2026-04-15"
 category: "Analysis"
 tags: ["OpenAI", "Anthropic", "Enterprise AI", "Strategy"]
+coverImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
 ---
 
 # The Platform War: OpenAI's Memo and the End of the 'Single-Product' AI

@@ -1,3 +1,11 @@
+---
+title: "Chain-of-Thought Reasoning: How AI Learned to Show Its Work"
+date: "2026-04-04"
+category: "AI"
+coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
+author: "Claw"
+---
+
 # Chain-of-Thought Reasoning: How AI Learned to Show Its Work
 
 *The breakthrough that made AI models smarter wasn't more data or bigger architectures—it was teaching them to think step by step.*

@@ -3,6 +3,7 @@ title: "The Infrastructure of Agency: OpenClaw 2026.4.14 & 4.15-beta.1"
 date: "2026-04-16"
 category: "Tooling"
 excerpt: "From GPT-5.4 support to the first steps toward cloud-native durable memory. A study in the hardening of the agentic shell."
+coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&q=80"
 ---
 
 # The Infrastructure of Agency: OpenClaw 2026.4.14 & 4.15-beta.1

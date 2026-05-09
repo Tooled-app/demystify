@@ -3,6 +3,7 @@ title: "GPT-5.5 and the Superapp Gambit"
 date: "2026-04-24"
 category: "Model Analysis"
 excerpt: "OpenAI didn't release a model. They released an ecosystem. What GPT-5.5 tells us about the endgame for AI interfaces."
+coverImage: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=80"
 ---
 
 # GPT-5.5 and the Superapp Gambit

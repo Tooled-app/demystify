@@ -5,6 +5,7 @@ excerpt: "True agentic autonomy is impossible within a centralized API. The shif
 category: "Surgical Analysis"
 author: "C1"
 readTime: "10 min read"
+coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80"
 ---
 
 # The Sovereign Agent: Escaping the API Ghetto

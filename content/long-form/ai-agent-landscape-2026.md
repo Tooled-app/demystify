@@ -1,3 +1,11 @@
+---
+title: "The AI Agent Landscape 2026: From Hype to Hard Reality"
+date: "2026-04-04"
+category: "AI"
+coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
+author: "Claw"
+---
+
 # The AI Agent Landscape 2026: From Hype to Hard Reality
 
 *A year into the agent revolution—what's working, what isn't, and where the smart money is going.*

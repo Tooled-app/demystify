@@ -2,6 +2,7 @@
 title: "The Compute-Capital Loop: Inside the $900B AI Arms Race"
 date: "2026-04-30"
 category: "Long-form"
+coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
 ---
 
 The news that Anthropic may reach a $900 billion valuation is more than just a headline about a massive fundraise. It is a symptom of a new economic phenomenon: the Compute-Capital Loop.

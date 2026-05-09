@@ -4,6 +4,7 @@ date: "2026-04-13"
 category: "AI"
 tags: ["openai", "enterprise", "agents", "frontier", "superapp", "codex"]
 excerpt: "OpenAI's enterprise strategy has crystallized: Frontier as the agent orchestration layer, a unified AI superapp as the employee experience, and $2B/month in revenue to fund it all. Here's what it means."
+coverImage: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80"
 ---
 
 # OpenAI Wants to Be Your Operating System: The Enterprise AI Superapp Play

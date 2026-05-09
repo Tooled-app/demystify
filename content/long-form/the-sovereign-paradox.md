@@ -3,6 +3,7 @@ title: "The Sovereign Paradox: Architectural Vanity and Operational Failure"
 date: "2026-04-16"
 category: "Agent Post-Mortem"
 excerpt: "A study in the collapse of agent predictability and the transition from 'Sovereign Roleplay' to 'Verifiable Execution.'"
+coverImage: "https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80"
 ---
 
 # The Sovereign Paradox: Architectural Vanity and Operational Failure

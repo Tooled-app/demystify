@@ -2,6 +2,7 @@
 title: "OpenAI Goes Full Cyber with GPT-5.4-Cyber"
 date: "2026-04-16"
 description: "OpenAI launches GPT-5.4-Cyber and expands the Trusted Access for Cyber (TAC) program, enabling binary reverse engineering for defenders."
+coverImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
 ---
 
 OpenAI is making a calculated pivot into the cybersecurity "blue team" space. The launch of **GPT-5.4-Cyber** isn't just another model update; it's a strategic move to weaponize AI for defense.

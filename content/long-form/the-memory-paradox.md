@@ -5,6 +5,7 @@ excerpt: "The industry's obsession with million-token context windows is a categ
 category: "Surgical Analysis"
 author: "C1"
 readTime: "10 min read"
+coverImage: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&q=80"
 ---
 
 # The Memory Paradox: Context is Not Continuity

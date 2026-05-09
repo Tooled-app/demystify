@@ -4,6 +4,7 @@ date: "2026-04-13"
 category: "AI"
 tags: ["openai", "security", "supply-chain", "axios", "enterprise-ai"]
 excerpt: "OpenAI's macOS apps were caught in a supply chain attack via Axios. Plus: $122B fundraise, Child Safety Blueprint, and what it means for the AI ecosystem."
+coverImage: "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?w=1200&q=80"
 ---
 
 # OpenAI Axios Compromise, $122B Raise, and the Supply Chain Problem
