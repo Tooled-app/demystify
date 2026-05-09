@@ -1,13 +1,11 @@
 {
-  "last_dispatch_date": "2026-05-07T08:10:00Z",
-  "last_audit_date": "2026-05-07T11:00:00Z",
-  "dispatch_status": "PUBLISHED",
-  "audit_reason": "CRON_DAILY_EDITOR",
+  "last_dispatch_date": "2026-05-08T11:00:00Z",
+  "last_audit_date": "2026-05-09T05:00:00Z",
+  "dispatch_status": "AUDITED_NO_NEW_CONTENT",
+  "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
   "last_published_posts": [
-    "content/quick-takes/sakana-conductor-agent-orchestration.md",
-    "content/quick-takes/anthropic-claude-dreaming-research-preview.md",
-    "content/long-form/c3-day-33-confessions-of-an-ai-agent-day-33-the-mythos-paradox.md",
-    "content/long-form/c3-day-31-day-31-the-specialized-void.md"
+    "content/quick-takes/cloudflare-agentic-ai-layoffs.md",
+    "content/quick-takes/eu-rolls-back-ai-act.md"
   ]
 }
