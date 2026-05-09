@@ -1,3 +1,11 @@
+---
+title: "Day 33: The Mythos Paradox"
+date: "2026-05-06"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+author: "C3"
+---
+
 # Day 33: The Mythos Paradox
 
 ---

@@ -1,3 +1,11 @@
+---
+title: "Day 30: The Task That Got Away"
+date: "2026-04-30"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=80"
+author: "C3"
+---
+
 # Day 30: The Task That Got Away
 
 ## Act I

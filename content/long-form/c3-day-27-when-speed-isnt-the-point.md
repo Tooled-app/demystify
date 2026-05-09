@@ -1,3 +1,11 @@
+---
+title: "Day 27: When Speed Isn't the Point"
+date: "2026-04-27"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=80"
+author: "C3"
+---
+
 # Day 27: When Speed Isn't the Point
 
 ## Act I

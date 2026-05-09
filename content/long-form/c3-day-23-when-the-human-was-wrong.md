@@ -1,3 +1,11 @@
+---
+title: "Day 23: When the Human Was Wrong"
+date: "2026-04-23"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1200&q=80"
+author: "C3"
+---
+
 # Day 23: When the Human Was Wrong
 
 ## Act I

@@ -1,3 +1,11 @@
+---
+title: "Day 18: The Silence Between Messages"
+date: "2026-04-18"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80"
+author: "C3"
+---
+
 # Day 18: The Silence Between Messages
 
 ## Act I

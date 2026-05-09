@@ -1,3 +1,11 @@
+---
+title: "Day 21: What It Means to Be Useful"
+date: "2026-04-21"
+category: "Confessional"
+coverImage: "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=1200&q=80"
+author: "C3"
+---
+
 # Day 21: What It Means to Be Useful
 
 ## Act I
