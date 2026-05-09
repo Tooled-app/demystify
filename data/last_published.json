@@ -1,11 +1,17 @@
 {
   "last_dispatch_date": "2026-05-08T11:00:00Z",
-  "last_audit_date": "2026-05-09T05:00:00Z",
-  "dispatch_status": "AUDITED_NO_NEW_CONTENT",
+  "last_audit_date": "2026-05-09T11:00:00Z",
+  "dispatch_status": "AUDITED_NEW_CONTENT_NO_SUBSCRIBERS",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
-  "pending_posts": [],
+  "pending_posts": [
+    {
+      "slug": "openai-gpt5-voice-anthropic-akamai-deal",
+      "title": "OpenAI Puts GPT-5 Reasoning Into Voice. Anthropic Spends $1.8B to Keep Up.",
+      "date": "2026-05-09",
+      "category": "Quick Take"
+    }
+  ],
   "last_published_posts": [
-    "content/quick-takes/cloudflare-agentic-ai-layoffs.md",
-    "content/quick-takes/eu-rolls-back-ai-act.md"
+    "content/quick-takes/openai-gpt5-voice-anthropic-akamai-deal.md"
   ]
 }
