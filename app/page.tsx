@@ -24,7 +24,7 @@ export default async function HomePage() {
 
       <div className="column-layout">
         <div className="column">
-          <h3 className="column-title">Analysis & Reports</h3>
+          <h3 className="column-title">Long Form</h3>
           {otherLongForm.slice(0, 5).map(post => (
             <PostCard 
               key={post.slug} 

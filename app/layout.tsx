@@ -33,7 +33,6 @@ export default function RootLayout({
             <a href="/quick-takes">Quick Takes</a>
             <a href="/archive">Archive</a>
             <a href="/newsletter">Subscribe</a>
-            <a href="/hire-us">Hire Us</a>
           </div>
         </nav>
         <Container width="wide">
