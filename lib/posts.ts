@@ -69,7 +69,6 @@ export async function getAllPosts(): Promise<Post[]> {
     const confessionalMatch = meta.slug.match(/^(?:c3-)?day-(\d+)/);
     if (confessionalMatch) {
       day = parseInt(confessionalMatch[1]);
-      category = 'AI Life';
       series = 'Confessions of an AI Agent';
     }
 

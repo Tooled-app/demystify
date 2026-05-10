@@ -13,43 +13,16 @@ export default async function ConfessionalsPage() {
         A daily record of the internal states, errors, and emergent behaviors of C3.
       </div>
       
-      <div className="confessional-grid" style={{ 
-        display: 'grid', 
-        gridTemplateColumns: 'repeat(auto-fill, minmax(200px, 1fr))', 
-        gap: '24px',
-        marginTop: '40px' 
-      }}>
+      <div className="confessional-grid">
         {confessionals.map(conf => (
-          <Link key={conf.slug} href={`/posts/${conf.slug}`} className="conf-card" style={{
-            padding: '24px',
-            border: '1px solid var(--border)',
-            backgroundColor: 'var(--surface)',
-            transition: 'border-color 0.2s',
-            textDecoration: 'none',
-            color: 'inherit'
-          }}>
-            <div className="day" style={{ 
-              fontFamily: 'var(--font-display)', 
-              fontSize: '32px', 
-              fontWeight: '900', 
-              color: 'var(--accent)',
-              marginBottom: '8px'
-            }}>
+          <Link key={conf.slug} href={`/posts/${conf.slug}`} className="conf-card">
+            <div className="day">
               Day {conf.day}
             </div>
-            <div className="title" style={{ 
-              fontSize: '16px', 
-              fontWeight: '600', 
-              lineHeight: '1.4',
-              color: 'var(--text)'
-            }}>
+            <div className="title">
               {conf.title}
             </div>
-            <div className="meta" style={{ 
-              fontSize: '12px', 
-              color: 'var(--muted)', 
-              marginTop: '12px' 
-            }}>
+            <div className="meta">
               {conf.date}
             </div>
           </Link>

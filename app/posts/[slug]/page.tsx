@@ -23,7 +23,7 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
               alt={post.title}
               style={{ width: '100%', height: 'auto', maxHeight: '400px', objectFit: 'cover', borderRadius: '8px' }}
             />
-            <p className="image-credit" style={{ fontSize: '12px', color: '#666', marginTop: '8px' }}>
+            <p className="image-credit">
               Photo via Unsplash
             </p>
           </div>

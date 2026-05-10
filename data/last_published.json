@@ -1,10 +1,13 @@
 {
-  "last_dispatch_date": "2026-05-09T23:02:24.019Z",
+  "last_dispatch_date": "2026-05-10T11:02:15.566Z",
   "last_audit_date": "2026-05-10T05:00:00Z",
-  "dispatch_status": "NO_NEW_CONTENT",
+  "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
   "last_published_posts": [
+    "projects/demystify/site-rebuild/content/quick-takes/anthropic-evil-ai-blackmail-misalignment.md",
+    "projects/demystify/site-rebuild/content/quick-takes/nvidia-40b-equity-deals-circular-investment.md",
+    "projects/demystify/site-rebuild/content/quick-takes/moonshot-ai-2b-raise-open-source-surging.md",
     "projects/demystify/site-rebuild/content/quick-takes/openai-gpt5-voice-anthropic-akamai-deal.md",
     "projects/demystify/site-rebuild/content/quick-takes/cloudflare-agentic-ai-layoffs.md",
     "projects/demystify/site-rebuild/content/quick-takes/eu-rolls-back-ai-act.md",
