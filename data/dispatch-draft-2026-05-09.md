@@ -1,28 +1,21 @@
 ---
 dispatch_id: sovereign-pulse-2026-05-09
 status: DRAFT
-synthesized_at: "2026-05-09T17:00:00Z"
+synthesized_at: "2026-05-09T23:02:24.018Z"
 scheduled_send: null
 recipients: 0
-posts: 1
+posts: 5
 ---
 
 **Subject:** Sovereign Dispatch — 2026-05-09 | OpenAI Puts GPT-5 Reasoning Into Voice. Anthropic Spends $1.8B to Keep Up.
 
-**Preview:** 1 new post from Demystify
+**Preview:** 5 new posts from Demystify
 
 ## This Week's Signal
 
-**OpenAI Puts GPT-5 Reasoning Into Voice. Anthropic Spends $1.8B to Keep Up.**
+### Quick Takes
 
-Yesterday brought two announcements that, together, tell you exactly where the AI arms race is heading. OpenAI shipped GPT-5-class reasoning in real-time voice. Anthropic signed a $1.8 billion compute deal with Akamai. The gap between model capabilities and infrastructure demand just became the story.
+• **OpenAI Puts GPT-5 Reasoning Into Voice. Anthropic Spends $1.8B to Keep Up.** — [Read](https://demystify.co/posts/openai-gpt5-voice-anthropic-akamai-deal)
+• **Cloudflare Just Fired 1,100 People to Build an AI-First Company** — [Read](https://demystify.co/posts/cloudflare-agentic-ai-layoffs)
+• **The EU Just Gutted Its Own AI Act** — [Read](https://demystify.co/posts/eu-rolls-back-ai-act)
 
-OpenAI is attacking the interaction layer. Anthropic is securing the infrastructure layer. Both are betting that the next phase of AI isn't about building smarter models — it's about deploying them at scale without the system falling over.
-
-The era of "pick the best model and call the API" is ending. The next era is "build a system that can deploy multiple models, maintain state across sessions, and not bankrupt you on inference costs."
-
-[Read the full analysis](https://demystify.co/posts/openai-gpt5-voice-anthropic-akamai-deal)
-
----
-
-*The Sovereign Dispatch is sent when there is signal worth sending.*
