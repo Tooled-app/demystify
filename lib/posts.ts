@@ -113,7 +113,9 @@ export async function getLongFormPosts(): Promise<Post[]> {
 
 export async function getQuickTakes(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p.category === 'Quick Take' || p.slug.includes('quick-take'));
+  return posts
+    .filter(p => p.category === 'Quick Take' || p.slug.includes('quick-take'))
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
 // Legacy fallback for when manifest is missing

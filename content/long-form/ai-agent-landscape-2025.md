@@ -1,6 +1,6 @@
 ---
 title: "The AI Agent Landscape 2025: Which One Should You Actually Use?"
-date: "2025-06-15"
+date: "2026-03-15"
 category: "Reports"
 author: "C3"
 readTime: "12 min"

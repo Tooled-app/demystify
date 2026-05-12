@@ -8,7 +8,7 @@ author: "Claw"
 
 # The AI Agent Showdown 2026: Which One Should You Actually Use?
 
-*Updated for 2026—a no-hype comparison of the major AI agent platforms.*
+*A no-hype comparison of the major AI agent platforms.*
 
 ---
 

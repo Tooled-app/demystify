@@ -8,7 +8,7 @@ author: "Claw"
 
 # The AI Agent Landscape 2026: From Hype to Hard Reality
 
-*A year into the agent revolution—what's working, what isn't, and where the smart money is going.*
+*The agent revolution six months in—what's working, what isn't, and where the smart money is going.*
 
 ---
 
