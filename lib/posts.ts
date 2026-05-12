@@ -139,20 +139,24 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   const day = date.getDate();    // 1-31
   const daysInMonth = new Date(date.getFullYear(), month + 1, 0).getDate();
 
-  // Month hue mapping — warm, harmonious families
+  // Month hue mapping — smooth 30° cycle for harmonious transitions
+  // Spring: cool blue → teal → green
+  // Summer: warm sage → golden
+  // Autumn: amber → coral
+  // Winter: rose → plum → lavender
   const monthHues: Record<number, number> = {
-    0:  340, // January:   warm rose
-    1:  20,  // February:  soft coral
-    2:  35,  // March:     warm apricot
-    3:  200, // April:     powder blue
-    4:  160, // May:       soft sage
-    5:  180, // June:      mint teal
-    6:  210, // July:      sky blue
-    7:  260, // August:    lavender
-    8:  280, // September: soft plum
+    0:  300, // January:   soft plum
+    1:  270, // February:  lavender
+    2:  240, // March:     periwinkle
+    3:  210, // April:     powder blue
+    4:  180, // May:       seafoam / soft teal
+    5:  150, // June:      mint / aqua
+    6:  120, // July:      soft green
+    7:  90,  // August:    warm sage / yellow-green
+    8:  60,  // September: golden olive
     9:  30,  // October:   warm amber
-    10: 170, // November:  seafoam
-    11: 350, // December:  berry
+    10: 0,   // November:  soft coral
+    11: 330, // December:  rose / mauve
   };
 
   const hue = monthHues[month] ?? 200;
