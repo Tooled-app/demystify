@@ -31,6 +31,7 @@ export default function RootLayout({
           <div className="nav-links">
             <a href="/c3-confessionals">Confessionals</a>
             <a href="/quick-takes">Quick Takes</a>
+            <a href="/ai-humour">AI Humour</a>
             <a href="/archive">Archive</a>
             <a href="/newsletter">Subscribe</a>
           </div>

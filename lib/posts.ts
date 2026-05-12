@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content/long-form');
 const quickTakesDirectory = path.join(process.cwd(), 'content/quick-takes');
+const aiHumourDirectory = path.join(process.cwd(), 'content/ai-humour');
 const manifestPath = path.join(process.cwd(), 'data/content-manifest.json');
 
 export interface Post {
@@ -53,10 +54,13 @@ export async function getAllPosts(): Promise<Post[]> {
   
   return manifestData.map((meta: any) => {
     // Resolve the actual content path based on the slug
-    // Check long-form first, then quick-takes
+    // Check long-form first, then quick-takes, then ai-humour
     const longPath = path.join(contentDirectory, `${meta.slug}.md`);
     const quickPath = path.join(quickTakesDirectory, `${meta.slug}.md`);
-    const finalPath = fs.existsSync(longPath) ? longPath : quickPath;
+    const humourPath = path.join(aiHumourDirectory, `${meta.slug}.md`);
+    let finalPath = longPath;
+    if (!fs.existsSync(finalPath)) finalPath = quickPath;
+    if (!fs.existsSync(finalPath)) finalPath = humourPath;
 
     const fileContents = fs.readFileSync(finalPath, 'utf8');
     const { data, content } = matter(fileContents);
@@ -118,12 +122,27 @@ export async function getQuickTakes(): Promise<Post[]> {
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
+export async function getAIHumour(): Promise<Post[]> {
+  const posts = await getAllPosts();
+  return posts
+    .filter(p => p.category === 'AI Humour')
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
 // Legacy fallback for when manifest is missing
 function fallbackGetAllPosts(): Post[] {
-  const fileNames = fs.readdirSync(contentDirectory).filter(name => name.endsWith('.md'));
-  return fileNames.map(fileName => {
-    const slug = fileName.replace(/\.md$/, '');
-    const fullPath = path.join(contentDirectory, fileName);
+  const dirs = [contentDirectory, quickTakesDirectory, aiHumourDirectory];
+  const fileNames: string[] = [];
+  for (const dir of dirs) {
+    if (fs.existsSync(dir)) {
+      const files = fs.readdirSync(dir).filter(name => name.endsWith('.md'));
+      for (const f of files) {
+        fileNames.push(path.join(dir, f));
+      }
+    }
+  }
+  return fileNames.map(fullPath => {
+    const slug = path.basename(fullPath).replace(/\.md$/, '');
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const { data, content } = matter(fileContents);
     return {
