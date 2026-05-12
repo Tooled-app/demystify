@@ -162,11 +162,11 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   const hue = monthHues[month] ?? 200;
   // Lightness: early month = very light, late month = medium (never too dark for text)
   const startL = 92;
-  const endL = 58; // 58% = readable text, still clearly coloured
+  const endL = 25; // Deep colour for late month, white text handles readability
   const lightness = startL - ((day - 1) / (daysInMonth - 1 || 1)) * (startL - endL);
 
   const bg = `hsl(${hue}, 45%, ${lightness}%)`;
-  const text = lightness > 68 ? '#1a1a1a' : '#faf8f5';
+  const text = lightness > 55 ? '#1a1a1a' : '#faf8f5';
 
   return { bg, text };
 }
