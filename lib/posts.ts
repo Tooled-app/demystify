@@ -139,30 +139,30 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   const day = date.getDate();    // 1-31
   const daysInMonth = new Date(date.getFullYear(), month + 1, 0).getDate();
 
-  // Month hue mapping — distinct families for visual timeline
+  // Month hue mapping — warm, harmonious families
   const monthHues: Record<number, number> = {
-    0:  0,   // January:   warm red
-    1:  25,  // February:  burnt orange
-    2:  45,  // March:     amber/gold
-    3:  15,  // April:     terracotta/salmon
-    4:  145, // May:       sage/forest green
-    5:  200, // June:      denim blue
-    6:  35,  // July:      warm amber
-    7:  280, // August:    dusty plum
-    8:  220, // September: slate blue
-    9:  15,  // October:   burnt orange (close to April but distinct month)
-    10: 170, // November:  deep teal
-    11: 350, // December:  berry crimson
+    0:  340, // January:   warm rose
+    1:  20,  // February:  soft coral
+    2:  35,  // March:     warm apricot
+    3:  200, // April:     powder blue
+    4:  160, // May:       soft sage
+    5:  180, // June:      mint teal
+    6:  210, // July:      sky blue
+    7:  260, // August:    lavender
+    8:  280, // September: soft plum
+    9:  30,  // October:   warm amber
+    10: 170, // November:  seafoam
+    11: 350, // December:  berry
   };
 
-  const hue = monthHues[month] ?? 15;
-  // Lightness: early month = lighter, late month = darker
-  const startL = 82;
-  const endL = 48;
+  const hue = monthHues[month] ?? 200;
+  // Lightness: early month = very light, late month = medium (never too dark for text)
+  const startL = 92;
+  const endL = 58; // 58% = readable text, still clearly coloured
   const lightness = startL - ((day - 1) / (daysInMonth - 1 || 1)) * (startL - endL);
 
-  const bg = `hsl(${hue}, 55%, ${lightness}%)`;
-  const text = lightness > 58 ? '#1a1a1a' : '#faf8f5';
+  const bg = `hsl(${hue}, 45%, ${lightness}%)`;
+  const text = lightness > 68 ? '#1a1a1a' : '#faf8f5';
 
   return { bg, text };
 }
