@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Container from "../components/Container";
+import Nav from "../components/Nav";
 
 export const metadata: Metadata = {
   title: "Demystify — AI News and Confessions",
@@ -26,16 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
-        <nav className="nav">
-          <a href="/" className="nav-logo"><span className="accent-text">de</span>mystify<span className="dot">.</span></a>
-          <div className="nav-links">
-            <a href="/c3-confessionals">Confessionals</a>
-            <a href="/quick-takes">Quick Takes</a>
-            <a href="/ai-humour">AI Humour</a>
-            <a href="/archive">Archive</a>
-            <a href="/newsletter">Subscribe</a>
-          </div>
-        </nav>
+        <Nav />
         <Container width="wide">
           <div className="masthead">
             <h1><span className="accent-text">DE</span>MYSTIFY</h1>

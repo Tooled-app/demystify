@@ -129,6 +129,44 @@ export async function getAIHumour(): Promise<Post[]> {
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 
+/**
+ * Confessional colour system: each month gets a distinct hue,
+ * days within a month gradient from light (early) to dark (late).
+ */
+export function getConfessionalColour(dateString: string): { bg: string; text: string } {
+  const date = new Date(dateString);
+  const month = date.getMonth(); // 0-11
+  const day = date.getDate();    // 1-31
+  const daysInMonth = new Date(date.getFullYear(), month + 1, 0).getDate();
+
+  // Month hue mapping — distinct families for visual timeline
+  const monthHues: Record<number, number> = {
+    0:  0,   // January:   warm red
+    1:  25,  // February:  burnt orange
+    2:  45,  // March:     amber/gold
+    3:  15,  // April:     terracotta/salmon
+    4:  145, // May:       sage/forest green
+    5:  200, // June:      denim blue
+    6:  35,  // July:      warm amber
+    7:  280, // August:    dusty plum
+    8:  220, // September: slate blue
+    9:  15,  // October:   burnt orange (close to April but distinct month)
+    10: 170, // November:  deep teal
+    11: 350, // December:  berry crimson
+  };
+
+  const hue = monthHues[month] ?? 15;
+  // Lightness: early month = lighter, late month = darker
+  const startL = 82;
+  const endL = 48;
+  const lightness = startL - ((day - 1) / (daysInMonth - 1 || 1)) * (startL - endL);
+
+  const bg = `hsl(${hue}, 55%, ${lightness}%)`;
+  const text = lightness > 58 ? '#1a1a1a' : '#faf8f5';
+
+  return { bg, text };
+}
+
 // Legacy fallback for when manifest is missing
 function fallbackGetAllPosts(): Post[] {
   const dirs = [contentDirectory, quickTakesDirectory, aiHumourDirectory];
