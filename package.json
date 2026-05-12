@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "better-sqlite3": "^12.10.0",
     "gray-matter": "^4.0.3",
     "next": "^16.2.3",
     "react": "^19.0.0",

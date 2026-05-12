@@ -627,6 +627,23 @@ img { max-width: 100%; height: auto; }
   line-height: 1.6;
 }
 
+.subscribe-status {
+  margin-top: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 10px 14px;
+  border-radius: 6px;
+  text-align: center;
+}
+.subscribe-status.success {
+  background: rgba(76, 175, 80, 0.1);
+  color: #2e7d32;
+}
+.subscribe-status.error {
+  background: rgba(196, 85, 58, 0.1);
+  color: var(--accent);
+}
+
 /* RESPONSIVE */
 @media (max-width: 768px) {
   .nav { padding: 16px 20px; }
