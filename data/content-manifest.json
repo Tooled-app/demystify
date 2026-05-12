@@ -859,5 +859,12 @@
     "date": "",
     "category": "AI",
     "excerpt": ""
+  },
+  {
+    "slug": "google-ai-zero-day-exploit-stopped",
+    "title": "Google Caught an AI-Generated Zero-Day in the Wild. The Script Kiddies Just Got a Promotion.",
+    "date": "2026-05-12",
+    "category": "Quick Take",
+    "excerpt": "Google's Threat Intelligence Group says it stopped the first confirmed AI-assisted cyberattack. The exploit code contained a hallucinated CVSS score."
   }
 ]
