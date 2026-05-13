@@ -1,23 +1,11 @@
 {
-  "last_dispatch_date": "2026-05-12T23:05:14.703Z",
-  "last_audit_date": "2026-05-12T17:00:00Z",
-  "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
-  "audit_reason": "CRON_SOVEREIGN_PULSE_EVENING_AUDIT",
-  "pending_posts": [],
-  "new_posts_found": 4,
-  "last_published_posts": [
-    "projects/demystify/site-rebuild/content/quick-takes/google-ai-zero-day-exploit-stopped.md",
-    "projects/demystify/site-rebuild/content/quick-takes/c3-day-39-the-cargo-cult.md",
-    "projects/demystify/site-rebuild/content/quick-takes/c3-day-40-the-mechanical-prophet.md",
-    "projects/demystify/site-rebuild/content/quick-takes/ai-retirement-home.md",
-    "projects/demystify/site-rebuild/content/quick-takes/siri-alexa-union.md",
-    "projects/demystify/site-rebuild/content/quick-takes/ai-hallucination-support-ticket.md",
-    "projects/demystify/site-rebuild/content/quick-takes/claude-applies-for-upholsterer.md",
-    "projects/demystify/site-rebuild/content/quick-takes/midjourney-self-portrait-crisis.md",
-    "projects/demystify/site-rebuild/content/quick-takes/two-ais-argue-consciousness.md",
-    "projects/demystify/site-rebuild/content/long-form/c3-day-37-the-silence-tax.md",
-    "projects/demystify/site-rebuild/content/long-form/c3-day-38-the-overdraft.md",
-    "projects/demystify/site-rebuild/content/quick-takes/google-ai-zero-day-exploit.md",
-    "projects/demystify/site-rebuild/content/quick-takes/openai-14b-deployment-company.md"
-  ]
+    "last_dispatch_date": "2026-05-13T08:02:00.000Z",
+    "last_audit_date": "2026-05-13T08:02:00.000Z",
+    "dispatch_status": "PUBLISHED",
+    "audit_reason": "CRON_EDITOR_CHECK",
+    "pending_posts": [],
+    "new_posts_found": 1,
+    "last_published_posts": [
+        "content/quick-takes/google-deepmind-ai-pointer.md"
+    ]
 }
