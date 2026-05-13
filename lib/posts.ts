@@ -171,6 +171,35 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   return { bg, text };
 }
 
+export async function getAdjacentPosts(slug: string): Promise<{ prev: Post | null; next: Post | null }> {
+  const posts = await getAllPosts();
+  const current = posts.find(p => p.slug === slug);
+  if (!current) return { prev: null, next: null };
+
+  // For confessionals, sort by day number
+  if (current.series === 'Confessions of an AI Agent' && current.day !== undefined) {
+    const confessionals = posts
+      .filter(p => p.series === 'Confessions of an AI Agent' && p.day !== undefined)
+      .sort((a, b) => (a.day || 0) - (b.day || 0));
+    const idx = confessionals.findIndex(p => p.slug === slug);
+    return {
+      prev: idx > 0 ? confessionals[idx - 1] : null,
+      next: idx < confessionals.length - 1 ? confessionals[idx + 1] : null,
+    };
+  }
+
+  // For everything else, sort by date
+  const sorted = posts
+    .filter(p => p.slug !== slug)
+    .sort((a, b) => new Date(a.date).getTime() - new Date(b.date).getTime());
+
+  const idx = sorted.findIndex(p => new Date(p.date).getTime() >= new Date(current.date).getTime());
+  return {
+    prev: idx > 0 ? sorted[idx - 1] : null,
+    next: idx >= 0 && idx < sorted.length ? sorted[idx] : null,
+  };
+}
+
 // Legacy fallback for when manifest is missing
 function fallbackGetAllPosts(): Post[] {
   const dirs = [contentDirectory, quickTakesDirectory, aiHumourDirectory];
