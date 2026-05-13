@@ -160,13 +160,13 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   };
 
   const hue = monthHues[month] ?? 200;
-  // Lightness: early month = very light, late month = medium (never too dark for text)
-  const startL = 92;
-  const endL = 25; // Deep colour for late month, white text handles readability
+  // Lightness: early month = 20%, late month = 10% (all dark for readability)
+  const startL = 20;
+  const endL = 10;
   const lightness = startL - ((day - 1) / (daysInMonth - 1 || 1)) * (startL - endL);
 
   const bg = `hsl(${hue}, 45%, ${lightness}%)`;
-  const text = lightness > 55 ? '#1a1a1a' : '#faf8f5';
+  const text = '#faf8f5'; // Always light text on dark cards
 
   return { bg, text };
 }
