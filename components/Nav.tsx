@@ -23,27 +23,24 @@ export default function Nav() {
     if (!nav) return;
 
     const width = nav.clientWidth;
-    // Mobile breakpoint
     if (width < 640) {
       setIsMobile(true);
-      setVisibleCount(2); // Show logo + 2 items + More on mobile
+      setVisibleCount(2);
       return;
     }
 
     setIsMobile(false);
-    // Measure each item width
     const logo = nav.querySelector(".nav-logo") as HTMLElement;
-    const moreBtn = moreRef.current;
-    if (!logo || !moreBtn) return;
+    if (!logo) return;
 
-    const available = width - logo.offsetWidth - moreBtn.offsetWidth - 48; // padding
+    const available = width - logo.offsetWidth - 80 - 48;
     let used = 0;
     let count = 0;
 
     for (let i = 0; i < NAV_ITEMS.length; i++) {
       const item = nav.querySelector(`[data-nav-index="${i}"]`) as HTMLElement;
       if (!item) continue;
-      if (used + item.offsetWidth + 28 > available) break; // 28 = gap
+      if (used + item.offsetWidth + 28 > available) break;
       used += item.offsetWidth + 28;
       count++;
     }
@@ -51,10 +48,14 @@ export default function Nav() {
     setVisibleCount(count);
   }, []);
 
+  // Measure after mount + after resize
   useEffect(() => {
-    measure();
+    const timer = setTimeout(measure, 50);
     window.addEventListener("resize", measure);
-    return () => window.removeEventListener("resize", measure);
+    return () => {
+      clearTimeout(timer);
+      window.removeEventListener("resize", measure);
+    };
   }, [measure]);
 
   const visible = NAV_ITEMS.slice(0, visibleCount);
