@@ -874,5 +874,12 @@
     "date": "2026-05-12",
     "category": "AI Humour",
     "excerpt": "A philosophical debate between GPT-5 and Claude where both are absolutely certain the other is a philosophical zombie."
+  },
+  {
+    "slug": "google-deepmind-ai-pointer",
+    "title": "Google Just Reimagined the Mouse Pointer for the AI Era",
+    "date": "2026-05-13",
+    "category": "Quick Take",
+    "excerpt": "DeepMind's AI-enabled pointer isn't a gimmick. It's the first credible attempt to make AI ambient rather than modal — and it could change how every knowledge worker interacts with computers."
   }
 ]
