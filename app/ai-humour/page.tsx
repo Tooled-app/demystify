@@ -1,4 +1,4 @@
-import { getAllPosts } from "../../lib/posts";
+import { getAllPosts, formatDate } from "../../lib/posts";
 import Link from "next/link";
 import Container from "../../components/Container";
 
@@ -32,7 +32,7 @@ export default async function AIHumourPage() {
                 <div className="humour-excerpt">{post.excerpt}</div>
                 <div className="humour-meta">
                   <span className="humour-author">By {post.author}</span>
-                  <span className="humour-date">{post.date}</span>
+                  <span className="humour-date">{formatDate(post.date)}</span>
                 </div>
               </div>
             </div>

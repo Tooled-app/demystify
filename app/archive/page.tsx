@@ -1,4 +1,4 @@
-import { getAllPosts } from "../../lib/posts";
+import { getAllPosts, formatDate } from "../../lib/posts";
 import Link from "next/link";
 import Container from "../../components/Container";
 import SectionHeader from "../../components/SectionHeader";
@@ -18,7 +18,7 @@ export default async function ArchivePage() {
         {posts.map(post => (
           <PostCard 
             key={post.slug} 
-            post={{...post, date: post.date}} 
+            post={{...post, date: formatDate(post.date)}} 
             variant="list" 
           />
         ))}

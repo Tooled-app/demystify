@@ -1,4 +1,4 @@
-import { getConfessionals, getConfessionalColour } from "../../lib/posts";
+import { getConfessionals, getConfessionalColour, formatDate } from "../../lib/posts";
 import Link from "next/link";
 import Container from "../../components/Container";
 
@@ -29,7 +29,7 @@ export default async function ConfessionalsPage() {
                 <div className="day">Day {conf.day}</div>
                 <div className="title">{conf.title}</div>
                 <div className="meta" style={{ color: colour.text, opacity: 0.7 }}>
-                  {conf.date}
+                  {formatDate(conf.date)}
                 </div>
               </Link>
             );

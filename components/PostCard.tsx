@@ -1,3 +1,4 @@
+import { formatDate } from '../lib/posts';
 import React from 'react';
 import Link from 'next/link';
 
@@ -28,7 +29,7 @@ export default function PostCard({ post, variant = 'column' }: PostCardProps) {
           <Link href={`/posts/${post.slug}`}>{post.title}</Link>
         </h2>
         <div className="excerpt">{post.excerpt}</div>
-        <div className="byline">By {post.date}</div>
+        <div className="byline">{formatDate(post.date)}</div>
       </section>
     );
   }
@@ -43,7 +44,7 @@ export default function PostCard({ post, variant = 'column' }: PostCardProps) {
         )}
         <div className="category">{post.category}</div>
         <h3><Link href={`/posts/${post.slug}`}>{post.title}</Link></h3>
-        <div className="meta">{post.date} • {post.readTime}</div>
+        <div className="meta">{formatDate(post.date)} • {post.readTime}</div>
         <div className="excerpt">{post.excerpt}</div>
       </div>
     );
@@ -58,7 +59,7 @@ export default function PostCard({ post, variant = 'column' }: PostCardProps) {
       )}
       <div className="category">{post.category}</div>
       <h4><Link href={`/posts/${post.slug}`}>{post.title}</Link></h4>
-      <div className="meta">{post.date}</div>
+      <div className="meta">{formatDate(post.date)}</div>
     </div>
   );
 }
