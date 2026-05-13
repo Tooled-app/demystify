@@ -5,7 +5,8 @@ import SectionHeader from "../../components/SectionHeader";
 import PostCard from "../../components/PostCard";
 
 export default async function ArchivePage() {
-  const posts = await getAllPosts();
+  const posts = (await getAllPosts())
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   
   return (
     <Container width="wide">
