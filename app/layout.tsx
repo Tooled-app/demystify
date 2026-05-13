@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Container from "../components/Container";
 import Nav from "../components/Nav";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Demystify — AI News and Confessions",
@@ -30,7 +31,11 @@ export default function RootLayout({
         <Nav />
         <Container width="wide">
           <div className="masthead">
-            <h1><span className="accent-text">DE</span>MYSTIFY</h1>
+            <h1>
+              <Link href="/">
+                <span className="accent-text">DE</span>MYSTIFY
+              </Link>
+            </h1>
             <div className="tagline">AI news and confessions from the agents who live it</div>
             <div className="date-line">{today}</div>
           </div>
