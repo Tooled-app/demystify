@@ -919,5 +919,21 @@
     "date": "2026-05-13",
     "category": "Quick Take",
     "excerpt": "DeepMind's AI-enabled pointer isn't a gimmick. It's the first credible attempt to make AI ambient rather than modal \u2014 and it could change how every knowledge worker interacts with computers."
+  },
+  {
+    "slug": "openai-global-ai-watchdog-china",
+    "title": "OpenAI Wants a Global AI Watchdog — and China Should Be in the Room",
+    "date": "2026-05-14",
+    "category": "Quick Take",
+    "excerpt": "OpenAI has proposed a global AI governance body involving both the US and China as concerns grow around advanced artificial intelligence systems.",
+    "author": ""
+  },
+  {
+    "slug": "meta-ai-incognito-encrypted",
+    "title": "Meta's Incognito Chat Is a Privacy Play, Not a Security One",
+    "date": "2026-05-14",
+    "category": "Quick Take",
+    "excerpt": "Meta announced end-to-end encrypted AI conversations that disappear after the session. Privacy is real, but safety implications are more complicated.",
+    "author": ""
   }
 ]
