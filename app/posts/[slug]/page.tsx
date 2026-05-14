@@ -1,4 +1,4 @@
-import { getPostBySlug, formatDate, getAdjacentPosts } from "../../../lib/posts";
+import { getPostBySlug, formatDate, getAdjacentPosts, getAllPosts } from "../../../lib/posts";
 import Link from "next/link";
 import ReactMarkdown from "react-markdown";
 import Container from "../../../components/Container";
@@ -69,6 +69,12 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
 
   const { prev, next } = await getAdjacentPosts(slug);
 
+  // Get related posts (same category, excluding current, up to 3)
+  const allPosts = await getAllPosts();
+  const related = allPosts
+    .filter(p => p.slug !== slug && p.category === post.category)
+    .slice(0, 3);
+
   return (
     <Container width="narrow">
       <div className="post-page">
@@ -94,6 +100,22 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
         <div className="post-content">
           <ReactMarkdown>{post.content}</ReactMarkdown>
         </div>
+
+        {/* Related Posts */}
+        {related.length > 0 && (
+          <div className="related-posts">
+            <h3 className="related-title">Related {post.category}s</h3>
+            <div className="related-grid">
+              {related.map(r => (
+                <Link key={r.slug} href={`/posts/${r.slug}`} className="related-card">
+                  <div className="related-category">{r.category}</div>
+                  <div className="related-card-title">{r.title}</div>
+                  <div className="related-meta">{formatDate(r.date)}</div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Prev / Next Navigation */}
         <nav className="post-nav">

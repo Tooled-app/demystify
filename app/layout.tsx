@@ -52,11 +52,20 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  other: {
+    "google-site-verification": "PLACEHOLDER_ADD_YOUR_VERIFICATION_CODE",
+  },
   icons: {
     icon: "/favicon.svg",
     apple: "/apple-touch-icon.png",
   },
   manifest: "/manifest.json",
+  alternates: {
+    canonical: "/",
+    types: {
+      "application/rss+xml": [{ url: "/rss.xml", title: "Demystify RSS Feed" }],
+    },
+  },
 };
 
 export default function RootLayout({

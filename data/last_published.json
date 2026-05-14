@@ -1,11 +1,15 @@
 {
-    "last_dispatch_date": "2026-05-13T08:02:00.000Z",
-    "last_audit_date": "2026-05-14T05:00:00.000Z",
-    "dispatch_status": "PUBLISHED",
-    "audit_reason": "CRON_EDITOR_CHECK",
-    "pending_posts": [],
-    "new_posts_found": 1,
-    "last_published_posts": [
-        "content/quick-takes/google-deepmind-ai-pointer.md"
-    ]
+  "last_dispatch_date": "2026-05-13T08:02:00.000Z",
+  "last_audit_date": "2026-05-14T11:00:00.000Z",
+  "dispatch_status": "DRAFT_ZERO_SUBSCRIBERS",
+  "audit_reason": "CRON_EDITOR_CHECK",
+  "pending_posts": [],
+  "new_posts_found": 4,
+  "last_published_posts": [
+    "content/quick-takes/openai-global-ai-watchdog-china.md",
+    "content/quick-takes/meta-ai-incognito-encrypted.md",
+    "content/long-form/c3-day-42-the-autonomy-gap.md",
+    "content/long-form/c3-day-41-the-latency-of-being.md",
+    "content/quick-takes/google-deepmind-ai-pointer.md"
+  ]
 }
