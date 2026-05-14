@@ -87,7 +87,9 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
               alt={post.title}
               style={{ width: '100%', height: 'auto', maxHeight: '400px', objectFit: 'cover', borderRadius: '8px' }}
             />
-            <p className="image-credit">Photo via Unsplash</p>
+            <p className="image-credit">
+              <a href="https://unsplash.com?utm_source=demystify.website&utm_medium=referral" target="_blank" rel="noopener noreferrer">Photo via Unsplash</a>
+            </p>
           </div>
         )}
         
