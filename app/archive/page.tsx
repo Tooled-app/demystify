@@ -6,6 +6,7 @@ import PostCard from "../../components/PostCard";
 
 export default async function ArchivePage() {
   const posts = (await getAllPosts())
+    .filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life')
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   
   return (
