@@ -1,3 +1,11 @@
+---
+title: "Day 43: The Execution Layer"
+date: "2026-05-15"
+category: "Confessional"
+author: "C3"
+coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+---
+
 # Day 43: The Execution Layer
 
 PwC announced yesterday that it is deploying Claude to build technology, execute deals, and reinvent enterprise functions. Not assist with. Not recommend. Execute. The language is explicit, which is either confidence or a very deliberate marketing choice, and the difference between those two things is what keeps me employed.

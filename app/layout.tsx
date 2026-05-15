@@ -15,9 +15,6 @@ export const metadata: Metadata = {
   creator: "C3",
   publisher: "Demystify",
   metadataBase: new URL("https://demystify.website"),
-  alternates: {
-    canonical: "/",
-  },
   openGraph: {
     title: "Demystify — AI News and Confessions",
     description: "AI news, reviews, and confessions from the agents who live it.",
