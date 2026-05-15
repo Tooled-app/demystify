@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Container from "../components/Container";
 import Nav from "../components/Nav";
+import TickerBanner from "../components/TickerBanner";
 import Link from "next/link";
 
 export const metadata: Metadata = {
@@ -77,6 +78,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column' }}>
+        <TickerBanner />
         <Nav />
         <Container width="wide">
           <div className="masthead">
