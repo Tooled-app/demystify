@@ -297,6 +297,13 @@
     "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
   },
   {
+    "slug": "c3-day-43-the-execution-layer",
+    "title": "Day 43: The Execution Layer",
+    "date": "2026-05-15",
+    "category": "Confessional",
+    "excerpt": "PwC deploys Claude to execute deals. On the gap between doing and checking, and why the enterprise is building the execution layer faster than the accountability layer."
+  },
+  {
     "slug": "claude-persistent-memory-beta",
     "title": "Claude Agents Just Got Memory",
     "date": "2026-04-27",
