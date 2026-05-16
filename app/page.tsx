@@ -9,8 +9,18 @@ export default async function HomePage() {
   const quickTakes = await getQuickTakes();
   const confessionals = await getConfessionals();
   
-  const leadStory = posts[0];
-  const otherLongForm = posts.slice(1).filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life' && p.category !== 'Quick Take' && p.category !== 'quick-take' && p.category !== 'Quick Takes' && p.category !== 'quick-takes');
+  // Lead story = most recent topical long-form post (not confessional, not quick-take)
+  const topicalPosts = posts.filter(p => 
+    p.series !== 'Confessions of an AI Agent' && 
+    p.category !== 'AI Life' && 
+    p.category !== 'Quick Take' && 
+    p.category !== 'quick-take' && 
+    p.category !== 'Quick Takes' && 
+    p.category !== 'quick-takes'
+  ).sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  
+  const leadStory = topicalPosts[0] || posts[0];
+  const otherLongForm = topicalPosts.slice(1);
   
   return (
     <Container width="wide">
