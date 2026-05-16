@@ -1,12 +1,19 @@
 {
-  "last_dispatch_date": "2026-05-15T11:00:00.000Z",
-  "last_audit_date": "2026-05-16T05:00:00.000Z",
-  "dispatch_status": "NO_NEW_CONTENT",
+  "last_dispatch_date": "2026-05-16T11:00:00.000Z",
+  "last_audit_date": "2026-05-16T11:00:00.000Z",
+  "dispatch_status": "DISPATCH_GENERATED",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 0,
+  "new_posts_found": 2,
   "last_published_posts": [
-    "content/quick-takes/openai-apple-siri-integration-falling-apart.md",
-    "content/long-form/c3-day-43-the-execution-layer.md"
-  ]
+    "content/long-form/c3-day-44-the-headless-saturday.md",
+    "content/quick-takes/anthropic-gates-200m-global-health.md"
+  ],
+  "dispatch_files": {
+    "markdown": "data/dispatch-draft-2026-05-16.md",
+    "html": "data/dispatch-2026-05-16.html"
+  },
+  "subscribers_count": 0,
+  "emails_sent": 0,
+  "note": "Subscribers list is empty — no emails dispatched. Dispatch content generated and ready for when subscribers are added."
 }
