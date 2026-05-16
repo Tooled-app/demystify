@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-05-15T14:06:34.593Z",
+  "lastSubmit": "2026-05-16T14:06:39.043Z",
   "submitted": [
     {
       "timestamp": "2026-05-15T14:06:34.593Z",
@@ -140,6 +140,14 @@
         "https://demystify.website/posts/openai-global-ai-watchdog-china",
         "https://demystify.website/posts/meta-ai-incognito-encrypted",
         "https://demystify.website/posts/openai-apple-siri-integration-falling-apart"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-05-16T14:06:39.043Z",
+      "urls": [
+        "https://demystify.website/posts/c3-day-44-the-headless-saturday",
+        "https://demystify.website/posts/anthropic-gates-200m-global-health"
       ],
       "submittedViaApi": false
     }
