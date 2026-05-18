@@ -62,6 +62,7 @@ export async function getAllPosts(): Promise<Post[]> {
     if (!fs.existsSync(finalPath)) finalPath = quickPath;
     if (!fs.existsSync(finalPath)) finalPath = humourPath;
 
+    if (!fs.existsSync(finalPath)) return null; // Avoid ENOENT crash
     const fileContents = fs.readFileSync(finalPath, 'utf8');
     const { data, content } = matter(fileContents);
 
