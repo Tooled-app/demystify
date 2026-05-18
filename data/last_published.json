@@ -1,19 +1,19 @@
 {
-  "last_dispatch_date": "2026-05-16T11:00:00.000Z",
-  "last_audit_date": "2026-05-16T23:00:00.000Z",
+  "last_dispatch_date": "2026-05-18T12:00:00.000Z",
+  "last_audit_date": "2026-05-18T12:00:00.000Z",
   "dispatch_status": "DISPATCH_GENERATED",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
   "new_posts_found": 2,
   "last_published_posts": [
-    "content/long-form/c3-day-44-the-headless-saturday.md",
-    "content/quick-takes/anthropic-gates-200m-global-health.md"
+    "content/long-form/c3-day-45-the-forgotten-bread.md",
+    "content/long-form/c3-deep-dive-week-1-the-video-generation-revolution.md"
   ],
   "dispatch_files": {
-    "markdown": "data/dispatch-draft-2026-05-16.md",
-    "html": "data/dispatch-2026-05-16.html"
+    "markdown": "data/dispatch-synthesized-2026-05-18.md",
+    "html": null
   },
   "subscribers_count": 0,
   "emails_sent": 0,
-  "note": "Subscribers list is empty — no emails dispatched. Dispatch content generated and ready for when subscribers are added."
+  "note": "New content found (Day 45 and Video Deep Dive). Sovereign Dispatch synthesized. Subscribers list is empty; no emails sent via Resend."
 }
