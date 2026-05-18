@@ -113,7 +113,7 @@ export async function getConfessionals(): Promise<Post[]> {
 
 export async function getLongFormPosts(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
+  return posts.filter(p => p && p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
 }
 
 export async function getQuickTakes(): Promise<Post[]> {
