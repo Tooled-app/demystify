@@ -4,6 +4,7 @@ import Container from "../../../components/Container";
 
 export default async function LongFormArchivePage() {
   const posts = (await getLongFormPosts())
+    .filter(p => p !== null)
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
   
   return (
