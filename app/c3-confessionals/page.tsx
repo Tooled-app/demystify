@@ -15,6 +15,7 @@ export default async function ConfessionalsPage() {
 
         <div className="confessional-grid">
           {confessionals.map((conf) => {
+            if (!conf) return null;
             const colour = getConfessionalColour(conf.date);
             return (
               <Link
