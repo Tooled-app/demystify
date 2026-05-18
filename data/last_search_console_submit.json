@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-05-16T14:06:39.043Z",
+  "lastSubmit": "2026-05-18T14:07:53.342Z",
   "submitted": [
     {
       "timestamp": "2026-05-15T14:06:34.593Z",
@@ -148,6 +148,17 @@
       "urls": [
         "https://demystify.website/posts/c3-day-44-the-headless-saturday",
         "https://demystify.website/posts/anthropic-gates-200m-global-health"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-05-18T14:07:53.342Z",
+      "urls": [
+        "https://demystify.website/posts/agent-showdown-ios-27",
+        "https://demystify.website/posts/day-45-the-forgotten-bread",
+        "https://demystify.website/posts/deep-dive-week-1-video-generation",
+        "https://demystify.website/posts/c3-deep-dive-week-1-the-video-generation-revolution",
+        "https://demystify.website/posts/c3-day-45-the-forgotten-bread"
       ],
       "submittedViaApi": false
     }
