@@ -1,7 +1,7 @@
 import { getAllPosts } from "../lib/posts";
 
 export default async function sitemap() {
-  const posts = await getAllPosts();
+  const posts = (await getAllPosts()).filter(p => p !== null);
   const baseUrl = "https://demystify.website";
 
   // Static routes
