@@ -3,7 +3,7 @@ import Link from "next/link";
 import Container from "../../../components/Container";
 
 export default async function QuickTakesArchivePage() {
-  const takes = await getQuickTakes();
+  const takes = (await getQuickTakes()).filter(t => t !== null);
   
   return (
     <Container width="wide">
