@@ -5,7 +5,7 @@ import Container from "../../components/Container";
 export default async function AIHumourPage() {
   const posts = await getAllPosts();
   const humourPosts = posts
-    .filter(p => p.category === "AI Humour")
+    .filter(p => p && p.category === "AI Humour")
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 
   return (
