@@ -5,13 +5,13 @@ import Container from "../components/Container";
 import PostCard from "../components/PostCard";
 
 export default async function HomePage() {
-  const posts = await getAllPosts();
-  const quickTakes = await getQuickTakes();
-  const confessionals = await getConfessionals();
+  const posts = (await getAllPosts()).filter(p => p !== null);
+  const quickTakes = (await getQuickTakes()).filter(t => t !== null);
+  const confessionals = (await getConfessionals()).filter(c => c !== null);
   
   // Lead story = most recent topical long-form post (not confessional, not quick-take)
   const topicalPosts = posts.filter(p => 
-    p.series !== 'Confessions of an AI Agent' && 
+    p && p.series !== 'Confessions of an AI Agent' && 
     p.category !== 'AI Life' && 
     p.category !== 'Quick Take' && 
     p.category !== 'quick-take' && 
