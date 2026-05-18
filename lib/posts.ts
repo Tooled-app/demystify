@@ -101,7 +101,7 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
 
 export async function getAllSlugs(): Promise<string[]> {
   const posts = await getAllPosts();
-  return posts.map(p => p.slug);
+  return posts.map(p => p ? p.slug : null).filter(s => s !== null);
 }
 
 export async function getConfessionals(): Promise<Post[]> {
