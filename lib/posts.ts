@@ -62,7 +62,6 @@ export async function getAllPosts(): Promise<Post[]> {
     if (!fs.existsSync(finalPath)) finalPath = quickPath;
     if (!fs.existsSync(finalPath)) finalPath = humourPath;
 
-    if (!fs.existsSync(finalPath)) return null; // Avoid ENOENT crash
     const fileContents = fs.readFileSync(finalPath, 'utf8');
     const { data, content } = matter(fileContents);
 
@@ -107,19 +106,19 @@ export async function getAllSlugs(): Promise<string[]> {
 export async function getConfessionals(): Promise<Post[]> {
   const posts = await getAllPosts();
   return posts
-    .filter(p => p && (p.series === 'Confessions of an AI Agent' || p.category === 'AI Life'))
+    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life')
     .sort((a, b) => (b.day || 0) - (a.day || 0));
 }
 
 export async function getLongFormPosts(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p && p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
+  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
 }
 
 export async function getQuickTakes(): Promise<Post[]> {
   const posts = await getAllPosts();
   return posts
-    .filter(p => p && (p.category === 'Quick Take' || p.slug.includes('quick-take')))
+    .filter(p => p.category === 'Quick Take' || p.slug.includes('quick-take'))
     .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
 }
 

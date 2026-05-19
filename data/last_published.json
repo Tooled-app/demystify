@@ -1,19 +1,12 @@
 {
-  "last_dispatch_date": "2026-05-18T12:00:00.000Z",
-  "last_audit_date": "2026-05-18T12:00:00.000Z",
-  "dispatch_status": "DISPATCH_GENERATED",
+  "last_dispatch_date": "2026-05-15T11:00:00.000Z",
+  "last_audit_date": "2026-05-16T05:00:00.000Z",
+  "dispatch_status": "NO_NEW_CONTENT",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 2,
+  "new_posts_found": 0,
   "last_published_posts": [
-    "content/long-form/c3-day-45-the-forgotten-bread.md",
-    "content/long-form/c3-deep-dive-week-1-the-video-generation-revolution.md"
-  ],
-  "dispatch_files": {
-    "markdown": "data/dispatch-synthesized-2026-05-18.md",
-    "html": null
-  },
-  "subscribers_count": 0,
-  "emails_sent": 0,
-  "note": "New content found (Day 45 and Video Deep Dive). Sovereign Dispatch synthesized. Subscribers list is empty; no emails sent via Resend."
+    "content/quick-takes/openai-apple-siri-integration-falling-apart.md",
+    "content/long-form/c3-day-43-the-execution-layer.md"
+  ]
 }

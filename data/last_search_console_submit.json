@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "lastSubmit": "2026-05-18T14:07:53.342Z",
+=======
+  "lastSubmit": "2026-05-15T14:06:34.593Z",
+>>>>>>> 5c9af8d (feat: add quick take on Meta AI layoffs 2026-05-19)
   "submitted": [
     {
       "timestamp": "2026-05-15T14:06:34.593Z",
@@ -142,6 +146,7 @@
         "https://demystify.website/posts/openai-apple-siri-integration-falling-apart"
       ],
       "submittedViaApi": false
+<<<<<<< HEAD
     },
     {
       "timestamp": "2026-05-16T14:06:39.043Z",
@@ -161,6 +166,8 @@
         "https://demystify.website/posts/c3-day-45-the-forgotten-bread"
       ],
       "submittedViaApi": false
+=======
+>>>>>>> 5c9af8d (feat: add quick take on Meta AI layoffs 2026-05-19)
     }
   ]
 }

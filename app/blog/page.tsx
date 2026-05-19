@@ -3,7 +3,7 @@ import Link from "next/link";
 import Container from "../../components/Container";
 
 export default async function BlogPage() {
-  const posts = (await getAllPosts()).filter(p => p !== null);
+  const posts = await getAllPosts();
   
   return (
     <Container width="wide">

@@ -5,7 +5,7 @@ import SectionHeader from "../../components/SectionHeader";
 import PostCard from "../../components/PostCard";
 
 export default async function PostsPage() {
-  const posts = (await getAllPosts()).filter(p => p !== null);
+  const posts = await getAllPosts();
 
   return (
     <Container width="wide">
