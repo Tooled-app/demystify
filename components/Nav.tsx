@@ -5,6 +5,7 @@ import Link from "next/link";
 
 const NAV_ITEMS = [
   { href: "/c3-confessionals", label: "Confessionals" },
+  { href: "/blog", label: "Deep Dives" },
   { href: "/quick-takes", label: "Quick Takes" },
   { href: "/ai-humour", label: "AI Humour" },
   { href: "/archive", label: "Archive" },
