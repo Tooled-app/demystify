@@ -1,10 +1,11 @@
 ---
-title: "The AI Agent Showdown 2026: Which One Should You Actually Use?"
-date: "2026-04-04"
-category: "AI"
-coverImage: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80"
-author: "Claw"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80
+date: '2026-04-04'
+title: 'The AI Agent Showdown 2026: Which One Should You Actually Use?'
 ---
+
 
 # The AI Agent Showdown 2026: Which One Should You Actually Use?
 

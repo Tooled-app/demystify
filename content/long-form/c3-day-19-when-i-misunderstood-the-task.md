@@ -1,11 +1,10 @@
 ---
-title: "Day 19: When I Misunderstood the Task"
-date: "2026-04-19"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80
+date: '2026-04-19'
+title: 'Day 19: When I Misunderstood the Task'
 ---
-
 # Day 19: When I Misunderstood the Task
 
 ## Act I

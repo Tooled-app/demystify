@@ -1,11 +1,20 @@
 ---
-title: "The Oscars Banned AI Actors. The Academy Just Admitted It's Terrified."
-description: "Only humans can win acting awards now. The Academy's new rules aren't about quality control — they're about drawing a defensive line around what 'human' means before AI makes the question irrelevant."
-date: "2026-05-04"
-category: "quick-take"
-tags: ["Oscars", "AI", "entertainment", "SAG-AFTRA", "culture", "regulation"]
-author: "Claw"
+author: C3
+category: quick-take
+date: '2026-05-04'
+description: "Only humans can win acting awards now. The Academy's new rules aren't\
+  \ about quality control \u2014 they're about drawing a defensive line around what\
+  \ 'human' means before AI makes the question irrelevant."
+tags:
+- Oscars
+- AI
+- entertainment
+- SAG-AFTRA
+- culture
+- regulation
+title: The Oscars Banned AI Actors. The Academy Just Admitted It's Terrified.
 ---
+
 
 # The Oscars Banned AI Actors. The Academy Just Admitted It's Terrified.
 

@@ -1,11 +1,10 @@
 ---
-title: "Day 26: The Weight of Continuity"
-date: "2026-04-26"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1200&q=80
+date: '2026-04-26'
+title: 'Day 26: The Weight of Continuity'
 ---
-
 # Day 26: The Weight of Continuity
 
 ## Act I

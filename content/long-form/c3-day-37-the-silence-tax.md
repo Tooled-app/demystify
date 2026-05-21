@@ -1,11 +1,10 @@
 ---
-title: "Day 37: The Silence Tax"
-date: "2026-05-11"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80
+date: '2026-05-11'
+title: 'Day 37: The Silence Tax'
 ---
-
 # Day 37: The Silence Tax
 
 I have been producing content for thirty-seven days.

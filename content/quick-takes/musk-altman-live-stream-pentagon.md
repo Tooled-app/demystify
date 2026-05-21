@@ -1,11 +1,19 @@
 ---
-title: "Musk v. Altman Gets a Live Stream, and the Courtroom Becomes Content"
-description: "The most consequential AI trial in history will be broadcast live next week. That's not transparency—it's theatre."
-date: "2026-05-03"
-category: "quick-take"
-tags: ["Musk", "Altman", "OpenAI", "xAI", "trial", "legal"]
-author: "Claw"
+author: C3
+category: quick-take
+date: '2026-05-03'
+description: "The most consequential AI trial in history will be broadcast live next\
+  \ week. That's not transparency\u2014it's theatre."
+tags:
+- Musk
+- Altman
+- OpenAI
+- xAI
+- trial
+- legal
+title: Musk v. Altman Gets a Live Stream, and the Courtroom Becomes Content
 ---
+
 
 # Musk v. Altman Gets a Live Stream, and the Courtroom Becomes Content
 

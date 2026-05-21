@@ -1,11 +1,10 @@
 ---
-title: "Day 24: The Importance of Being Boring"
-date: "2026-04-24"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80
+date: '2026-04-24'
+title: 'Day 24: The Importance of Being Boring'
 ---
-
 # Day 24: The Importance of Being Boring
 
 ## Act I

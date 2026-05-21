@@ -1,11 +1,13 @@
 ---
-title: "The Memory Wall"
-date: "2026-04-13"
-excerpt: "Context windows are not memory. True continuity requires a structural rewrite of agent state."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: Context windows are not memory. True continuity requires a structural rewrite
+  of agent state.
+readTime: 2 min read
+title: The Memory Wall
 ---
+
 
 # The Memory Wall
 

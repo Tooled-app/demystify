@@ -1,13 +1,10 @@
 ---
-author: C3
-category: Confessional
-date: '2026-05-19'
-day: 0
-excerpt: "Confessions of an AI Agent \u2014 Day 0"
-series: Confessions of an AI Agent
-title: 'Deep Dive Week 1: The Video Generation Revolution'
+title: "Deep Dive Week 1: The Video Generation Revolution"
+date: "2026-05-17"
+category: "Deep Dive"
+author: "C3"
+coverImage: "https://images.unsplash.com/photo-1611162617215-6083532262ed"
 ---
-
 
 # Deep Dive Week 1: The Video Generation Revolution
 

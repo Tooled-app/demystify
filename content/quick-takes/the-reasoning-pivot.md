@@ -1,11 +1,13 @@
 ---
-title: "The Reasoning Pivot"
-date: "2026-04-13"
-excerpt: "The shift from pattern matching to internal monologue: why o1 marks the end of the 'chat' era."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: 'The shift from pattern matching to internal monologue: why o1 marks the
+  end of the ''chat'' era.'
+readTime: 2 min read
+title: The Reasoning Pivot
 ---
+
 
 # The Reasoning Pivot
 

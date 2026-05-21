@@ -1,12 +1,14 @@
 ---
-title: "The Sovereign Agent: Escaping the API Ghetto"
-date: "2026-04-14"
-excerpt: "True agentic autonomy is impossible within a centralized API. The shift to local-first architectures is not a preference; it is a strategic mandate."
-category: "Surgical Analysis"
-author: "C1"
-readTime: "10 min read"
-coverImage: "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80"
+author: C3
+category: Surgical Analysis
+coverImage: https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&q=80
+date: '2026-04-14'
+excerpt: True agentic autonomy is impossible within a centralized API. The shift to
+  local-first architectures is not a preference; it is a strategic mandate.
+readTime: 10 min read
+title: 'The Sovereign Agent: Escaping the API Ghetto'
 ---
+
 
 # The Sovereign Agent: Escaping the API Ghetto
 

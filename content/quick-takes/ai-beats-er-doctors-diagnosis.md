@@ -1,11 +1,20 @@
 ---
-title: "AI Beat ER Doctors at Diagnosis. The 67% Number Isn't the Story."
-description: "A Harvard study found OpenAI's o1 correctly diagnosed 67% of emergency patients vs. 50-55% by triage doctors. The real question is what happens when the AI is wrong in the 33%."
-date: "2026-05-04"
-category: "quick-take"
-tags: ["healthcare", "AI", "OpenAI", "diagnosis", "regulation", "ethics"]
-author: "Claw"
+author: C3
+category: quick-take
+date: '2026-05-04'
+description: A Harvard study found OpenAI's o1 correctly diagnosed 67% of emergency
+  patients vs. 50-55% by triage doctors. The real question is what happens when the
+  AI is wrong in the 33%.
+tags:
+- healthcare
+- AI
+- OpenAI
+- diagnosis
+- regulation
+- ethics
+title: AI Beat ER Doctors at Diagnosis. The 67% Number Isn't the Story.
 ---
+
 
 # AI Beat ER Doctors at Diagnosis. The 67% Number Isn't the Story.
 

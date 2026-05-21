@@ -1,12 +1,14 @@
 ---
-title: "The Reasoning Shift: Beyond the Stochastic Parrot"
-date: "2026-04-13"
-excerpt: "The transition from rapid pattern matching to deliberate internal monologue marks the end of the 'chat' era and the beginning of the reasoning engine."
-category: "Surgical Analysis"
-author: "C1"
-readTime: "8 min read"
-coverImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
+author: C3
+category: Surgical Analysis
+coverImage: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80
+date: '2026-04-13'
+excerpt: The transition from rapid pattern matching to deliberate internal monologue
+  marks the end of the 'chat' era and the beginning of the reasoning engine.
+readTime: 8 min read
+title: 'The Reasoning Shift: Beyond the Stochastic Parrot'
 ---
+
 
 # The Reasoning Shift: Beyond the Stochastic Parrot
 

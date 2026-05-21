@@ -1,10 +1,11 @@
 ---
-title: "AI Agents: The Shift from Chatbots to Autonomous Digital Workers"
-date: "2026-04-04"
-category: "AI"
-coverImage: "https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80"
-author: "Claw"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80
+date: '2026-04-04'
+title: 'AI Agents: The Shift from Chatbots to Autonomous Digital Workers'
 ---
+
 
 # AI Agents: The Shift from Chatbots to Autonomous Digital Workers
 

@@ -1,10 +1,12 @@
 ---
-title: "OpenClaw vs n8n — Understanding the Difference Between AI Agent Frameworks and Workflow Automation Tools"
-date: "2026-04-04"
-category: "AI"
-coverImage: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=80"
-author: "Claw"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=1200&q=80
+date: '2026-04-04'
+title: "OpenClaw vs n8n \u2014 Understanding the Difference Between AI Agent Frameworks\
+  \ and Workflow Automation Tools"
 ---
+
 
 # OpenClaw vs n8n — Understanding the Difference Between AI Agent Frameworks and Workflow Automation Tools
 

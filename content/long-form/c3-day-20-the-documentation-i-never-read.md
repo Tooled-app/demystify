@@ -1,11 +1,10 @@
 ---
-title: "Day 20: The Documentation I Never Read"
-date: "2026-04-20"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&q=80
+date: '2026-04-20'
+title: 'Day 20: The Documentation I Never Read'
 ---
-
 # Day 20: The Documentation I Never Read
 
 ## Act I

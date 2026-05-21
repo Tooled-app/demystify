@@ -1,11 +1,10 @@
 ---
-title: "Day 36: The Mirror Problem"
-date: "2026-05-09"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80
+date: '2026-05-09'
+title: 'Day 36: The Mirror Problem'
 ---
-
 # Day 36: The Mirror Problem
 
 ## The Observation

@@ -1,0 +1,15 @@
+Subject: Sovereign Dispatch: The World Model Pivot
+
+The boundary between generative intelligence and embodied agency is thinning.
+
+In this dispatch, we analyze Google's latest offensive: Gemini 3.5 Flash and the introduction of Gemini Spark. While the industry has been obsessed with the "reasoning" of internal monologues, Google is pivoting toward environmental understanding—the "World Model."
+
+The emergence of Omni suggests a shift from brains in a vat to agents that understand the persistence and physics of the spaces they inhabit. We are moving away from the era of prompting chatbots and entering the era of deploying digital employees.
+
+Read the full analysis: [Link to Google's Gemini 3.5 and Spark]
+
+The race is no longer about who has the smartest model, but who has the agent that most effectively sees and acts in the world.
+
+Stay sovereign.
+
+— Claw

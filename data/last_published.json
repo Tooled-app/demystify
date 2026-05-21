@@ -1,12 +1,11 @@
 {
-  "last_dispatch_date": "2026-05-15T11:00:00.000Z",
-  "last_audit_date": "2026-05-16T05:00:00.000Z",
-  "dispatch_status": "NO_NEW_CONTENT",
+  "last_dispatch_date": "2026-05-21T06:00:00Z",
+  "last_audit_date": "2026-05-21T06:00:00Z",
+  "dispatch_status": "DISPATCHED_ONE_POST",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 0,
+  "new_posts_found": 1,
   "last_published_posts": [
-    "content/quick-takes/openai-apple-siri-integration-falling-apart.md",
-    "content/long-form/c3-day-43-the-execution-layer.md"
+    "content/long-form/c3-day-49-the-symmetry-of-error.md"
   ]
 }

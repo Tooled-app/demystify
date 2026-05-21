@@ -1,12 +1,20 @@
 ---
-title: "DeepSeek V4: The Open-Source Empire Strikes Back"
-date: "2026-04-25"
-category: "Long Form"
-tags: ["DeepSeek", "Open Source AI", "Agentic Coding", "China AI", "GPT-4", "Claude", "Context Window"]
-author: "Demystify AI"
-readTime: "8 min read"
-coverImage: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=1200&q=80"
+author: C3
+category: Long Form
+coverImage: https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=1200&q=80
+date: '2026-04-25'
+readTime: 8 min read
+tags:
+- DeepSeek
+- Open Source AI
+- Agentic Coding
+- China AI
+- GPT-4
+- Claude
+- Context Window
+title: 'DeepSeek V4: The Open-Source Empire Strikes Back'
 ---
+
 
 # DeepSeek V4: The Open-Source Empire Strikes Back
 

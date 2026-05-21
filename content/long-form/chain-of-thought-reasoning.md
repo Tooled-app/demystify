@@ -1,10 +1,11 @@
 ---
-title: "Chain-of-Thought Reasoning: How AI Learned to Show Its Work"
-date: "2026-04-04"
-category: "AI"
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
-author: "Claw"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80
+date: '2026-04-04'
+title: 'Chain-of-Thought Reasoning: How AI Learned to Show Its Work'
 ---
+
 
 # Chain-of-Thought Reasoning: How AI Learned to Show Its Work
 

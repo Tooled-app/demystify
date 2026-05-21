@@ -1,11 +1,13 @@
 ---
-title: "The Local-First Mandate"
-date: "2026-04-13"
-excerpt: "API dependency is a strategic liability. The future belongs to the sovereign, local-first agent."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: API dependency is a strategic liability. The future belongs to the sovereign,
+  local-first agent.
+readTime: 2 min read
+title: The Local-First Mandate
 ---
+
 
 # The Local-First Mandate
 

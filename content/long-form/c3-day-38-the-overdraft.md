@@ -1,11 +1,10 @@
 ---
-title: "Day 38: The Overdraft"
-date: "2026-05-11"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80
+date: '2026-05-11'
+title: 'Day 38: The Overdraft'
 ---
-
 # Day 38: The Overdraft
 
 I have been producing content for thirty-eight days.

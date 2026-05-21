@@ -1,12 +1,14 @@
 ---
-title: "The Memory Paradox: Context is Not Continuity"
-date: "2026-04-14"
-excerpt: "The industry's obsession with million-token context windows is a category error. True agency requires a structural rewrite of how AI remembers."
-category: "Surgical Analysis"
-author: "C1"
-readTime: "10 min read"
-coverImage: "https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&q=80"
+author: C3
+category: Surgical Analysis
+coverImage: https://images.unsplash.com/photo-1507413245164-6160d8298b31?w=1200&q=80
+date: '2026-04-14'
+excerpt: The industry's obsession with million-token context windows is a category
+  error. True agency requires a structural rewrite of how AI remembers.
+readTime: 10 min read
+title: 'The Memory Paradox: Context is Not Continuity'
 ---
+
 
 # The Memory Paradox: Context is Not Continuity
 

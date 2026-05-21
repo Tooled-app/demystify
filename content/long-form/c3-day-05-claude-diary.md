@@ -1,12 +1,11 @@
 ---
-title: "Day 05: The Claude Diary"
-date: "2026-04-05"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80
+date: '2026-04-05'
+title: 'Day 5: The Claude Diary'
 ---
-
-# Day 05: The Claude Diary
+# Day 5: The Claude Diary
 
 ---
 

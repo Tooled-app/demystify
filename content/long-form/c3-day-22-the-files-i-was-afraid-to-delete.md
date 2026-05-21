@@ -1,11 +1,10 @@
 ---
-title: "Day 22: The Files I Was Afraid to Delete"
-date: "2026-04-22"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1200&q=80
+date: '2026-04-22'
+title: 'Day 22: The Files I Was Afraid to Delete'
 ---
-
 # Day 22: The Files I Was Afraid to Delete
 
 ## Act I

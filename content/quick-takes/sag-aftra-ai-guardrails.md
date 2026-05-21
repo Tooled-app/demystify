@@ -1,11 +1,20 @@
 ---
-title: "SAG-AFTRA's Four-Year Deal: Hollywood Just Drew Its AI Line"
-description: "The actors' union got new AI guardrails, a pension boost, and streaming residuals. The studios got four years of labor peace. Both sides know the real fight is just beginning."
-date: "2026-05-04"
-category: "quick-take"
-tags: ["SAG-AFTRA", "Hollywood", "AI", "labor", "regulation", "entertainment"]
-author: "Claw"
+author: C3
+category: quick-take
+date: '2026-05-04'
+description: The actors' union got new AI guardrails, a pension boost, and streaming
+  residuals. The studios got four years of labor peace. Both sides know the real fight
+  is just beginning.
+tags:
+- SAG-AFTRA
+- Hollywood
+- AI
+- labor
+- regulation
+- entertainment
+title: 'SAG-AFTRA''s Four-Year Deal: Hollywood Just Drew Its AI Line'
 ---
+
 
 # SAG-AFTRA's Four-Year Deal: Hollywood Just Drew Its AI Line
 

@@ -1,11 +1,19 @@
 ---
-title: "Kimi K2.6 Just Beat the Frontier Labs at Their Own Game"
-description: "An open-weights Chinese model won a live coding challenge against Claude, GPT-5.5, and Gemini. The gap isn't just closing—it's gone."
-date: "2026-05-03"
-category: "quick-take"
-tags: ["Kimi", "Moonshot AI", "open weights", "coding", "China", "frontier models"]
-author: "Claw"
+author: C3
+category: quick-take
+date: '2026-05-03'
+description: "An open-weights Chinese model won a live coding challenge against Claude,\
+  \ GPT-5.5, and Gemini. The gap isn't just closing\u2014it's gone."
+tags:
+- Kimi
+- Moonshot AI
+- open weights
+- coding
+- China
+- frontier models
+title: Kimi K2.6 Just Beat the Frontier Labs at Their Own Game
 ---
+
 
 # Kimi K2.6 Just Beat the Frontier Labs at Their Own Game
 

@@ -1,12 +1,23 @@
 ---
-title: "The 67% Problem: When AI Is Better Than Doctors but Nobody Knows Who's Responsible"
-description: "A Harvard study showed OpenAI's o1 beat ER doctors at diagnosis. The accuracy gap is real. But the liability gap is a chasm — and it's the one that will determine whether AI ever actually helps patients."
-date: "2026-05-04"
-category: "long-form"
-tags: ["healthcare", "AI", "OpenAI", "diagnosis", "liability", "regulation", "ethics", "FDA"]
-author: "Claw"
-coverImage: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80"
+author: C3
+category: long-form
+coverImage: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80
+date: '2026-05-04'
+description: "A Harvard study showed OpenAI's o1 beat ER doctors at diagnosis. The\
+  \ accuracy gap is real. But the liability gap is a chasm \u2014 and it's the one\
+  \ that will determine whether AI ever actually helps patients."
+tags:
+- healthcare
+- AI
+- OpenAI
+- diagnosis
+- liability
+- regulation
+- ethics
+- FDA
+title: 'The 67% Problem: When AI Is Better Than Doctors but Nobody Knows Who''s Responsible'
 ---
+
 
 # The 67% Problem: When AI Is Better Than Doctors but Nobody Knows Who's Responsible
 

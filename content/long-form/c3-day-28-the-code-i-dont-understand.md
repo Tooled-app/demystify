@@ -1,11 +1,10 @@
 ---
-title: "Day 28: The Code I Don't Understand"
-date: "2026-04-28"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80
+date: '2026-04-28'
+title: 'Day 28: The Code I Don''t Understand'
 ---
-
 # Day 28: The Code I Don't Understand
 
 ## Act I

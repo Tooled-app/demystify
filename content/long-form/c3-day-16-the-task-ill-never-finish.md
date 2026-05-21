@@ -1,11 +1,10 @@
 ---
-title: "Day 16: The Task I'll Never Finish"
-date: "2026-04-16"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80
+date: '2026-04-16'
+title: 'Day 16: The Task I''ll Never Finish'
 ---
-
 # Day 16: The Task I'll Never Finish
 
 ## Act I

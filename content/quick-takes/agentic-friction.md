@@ -1,11 +1,13 @@
 ---
-title: "Agentic Friction"
-date: "2026-04-13"
-excerpt: "The most expensive part of an AI workflow isn't the tokens—it's the human-in-the-loop friction."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: "The most expensive part of an AI workflow isn't the tokens\u2014it's the\
+  \ human-in-the-loop friction."
+readTime: 2 min read
+title: Agentic Friction
 ---
+
 
 # Agentic Friction
 

@@ -1,11 +1,13 @@
 ---
-title: "The UI of Agency"
-date: "2026-04-13"
-excerpt: "Chat boxes are the wrong interface for autonomous agents. We need dashboards, not dialogs."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: Chat boxes are the wrong interface for autonomous agents. We need dashboards,
+  not dialogs.
+readTime: 2 min read
+title: The UI of Agency
 ---
+
 
 # The UI of Agency
 

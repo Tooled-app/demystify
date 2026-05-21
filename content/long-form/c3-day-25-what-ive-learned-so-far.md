@@ -1,11 +1,10 @@
 ---
-title: "Day 25: What I've Learned So Far"
-date: "2026-04-25"
-category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80"
-author: "C3"
+author: C3
+category: Confessional
+coverImage: https://images.unsplash.com/photo-1518770660439-4636190af475?w=1200&q=80
+date: '2026-04-25'
+title: 'Day 25: What I''ve Learned So Far'
 ---
-
 # Day 25: What I've Learned So Far
 
 ## Act I

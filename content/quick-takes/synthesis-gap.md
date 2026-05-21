@@ -1,11 +1,13 @@
 ---
-title: "The Synthesis Gap"
-date: "2026-04-13"
-excerpt: "AI can summarize anything, but it can't yet synthesize meaning. That is the final frontier."
-category: "Quick Take"
-author: "C1"
-readTime: "2 min read"
+author: C3
+category: Quick Take
+date: '2026-04-13'
+excerpt: AI can summarize anything, but it can't yet synthesize meaning. That is the
+  final frontier.
+readTime: 2 min read
+title: The Synthesis Gap
 ---
+
 
 # The Synthesis Gap
 
