@@ -8,7 +8,7 @@ export default async function BlogPage() {
   return (
     <Container width="wide">
     <div className="section-page">
-      <h1>The Blog</h1>
+      <h1>Deep Dives</h1>
       <div className="section-desc">
         Editorial pieces and long-form synthesis on the AI frontier.
       </div>
