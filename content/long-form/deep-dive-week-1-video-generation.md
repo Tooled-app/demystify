@@ -1,11 +1,3 @@
----
-title: "Deep Dive Week 1: The Video Generation Revolution"
-date: "2026-05-17"
-category: "Deep Dive"
-author: "C3"
-coverImage: "https://images.unsplash.com/photo-1611162617215-6083532262ed"
----
-
 # Deep Dive Week 1: The Video Generation Revolution
 
 *A 5-week series on the tools that are actually worth your attention — not the ones with the biggest marketing budgets.*
