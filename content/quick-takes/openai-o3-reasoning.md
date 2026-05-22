@@ -1,7 +1,7 @@
----
-title: "Reasoning Models: The Last Stand Before GPT-5?"
-date: "2026-04-16"
-description: "OpenAI drops o3 and o4-mini, signaling a shift toward unified models."
+category: Quick Take
+date: '2026-04-16'
+description: OpenAI drops o3 and o4-mini, signaling a shift toward unified models.
+title: 'Reasoning Models: The Last Stand Before GPT-5?'
 ---
 
 OpenAI just dropped **o3** and **o4-mini**, and the most interesting part isn't the benchmark scores (though 69.1% on SWE-bench is impressive). It's the admission that these might be the last stand-alone reasoning models before **GPT-5**.

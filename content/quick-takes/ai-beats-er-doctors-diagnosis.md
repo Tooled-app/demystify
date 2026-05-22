@@ -1,6 +1,5 @@
----
 author: C3
-category: quick-take
+category: Quick Take
 date: '2026-05-04'
 description: A Harvard study found OpenAI's o1 correctly diagnosed 67% of emergency
   patients vs. 50-55% by triage doctors. The real question is what happens when the

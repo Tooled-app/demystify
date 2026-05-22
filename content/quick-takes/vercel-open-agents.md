@@ -1,7 +1,6 @@
----
-title: "The Agent Template War: Vercel's 'Open Agents' Move"
-date: "18 April 2026"
-category: "quick-takes"
+category: Quick Take
+date: 18 April 2026
+title: 'The Agent Template War: Vercel''s ''Open Agents'' Move'
 ---
 
 Vercel Labs just launched 'Open Agents', a template for cloud-based AI agents. While OpenAI and Anthropic fight for the OS-level desktop, Vercel is claiming the cloud infrastructure layer.

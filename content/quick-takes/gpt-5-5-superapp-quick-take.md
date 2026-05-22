@@ -1,7 +1,6 @@
----
-title: "The Superapp Is Coming"
-date: "2026-04-24"
-category: "quick-takes"
+category: Quick Take
+date: '2026-04-24'
+title: The Superapp Is Coming
 ---
 
 OpenAI released GPT-5.5 yesterday and called it "the next step toward a new way of getting work done on a computer." They're not selling a model. They're selling an operating system.

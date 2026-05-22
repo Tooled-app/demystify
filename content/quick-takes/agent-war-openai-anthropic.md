@@ -1,7 +1,6 @@
----
-title: "The Agent War: OpenAI vs. Anthropic"
-date: "2026-04-19"
-category: "Quick Takes"
+category: Quick Take
+date: '2026-04-19'
+title: 'The Agent War: OpenAI vs. Anthropic'
 ---
 
 The battle for the "Desktop" has officially begun. With OpenAI beefing up Codex to gain more control over the OS and Anthropic releasing a new Opus model focused on high-end software engineering, we're moving past "chatbots" and into "operators." 

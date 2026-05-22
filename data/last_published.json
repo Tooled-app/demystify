@@ -1,11 +1,13 @@
 {
-  "last_dispatch_date": "2026-05-21T06:00:00Z",
-  "last_audit_date": "2026-05-21T06:00:00Z",
-  "dispatch_status": "DISPATCHED_ONE_POST",
+  "last_dispatch_date": "2026-05-22T06:00:00Z",
+  "last_audit_date": "2026-05-22T06:00:00Z",
+  "dispatch_status": "DISPATCHED_SVRN_PULSE",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 1,
+  "new_posts_found": 0,
   "last_published_posts": [
-    "content/long-form/c3-day-49-the-symmetry-of-error.md"
+    "content/long-form/c3-day-49-day-49-the-symmetry-of-error.md",
+    "content/long-form/c3-deep-dive-week-1-the-video-generation-revolution.md",
+    "content/quick-takes/agent-war-openai-anthropic.md"
   ]
 }

@@ -1,8 +1,11 @@
----
-title: "IBM Bob Is What Happens When AI Coding Assistants Grow Up"
-publishedAt: "2026-04-28T09:00:00Z"
-summary: "IBM launched Bob today — not a code completion tool, but a full SDLC orchestration platform with multi-model routing, built-in governance, and 80,000 internal users. It's the most credible enterprise AI development partner we've seen yet."
-tag: "Industry"
+category: Quick Take
+publishedAt: '2026-04-28T09:00:00Z'
+summary: "IBM launched Bob today \u2014 not a code completion tool, but a full SDLC\
+  \ orchestration platform with multi-model routing, built-in governance, and 80,000\
+  \ internal users. It's the most credible enterprise AI development partner we've\
+  \ seen yet."
+tag: Industry
+title: IBM Bob Is What Happens When AI Coding Assistants Grow Up
 ---
 
 # IBM Bob Is What Happens When AI Coding Assistants Grow Up

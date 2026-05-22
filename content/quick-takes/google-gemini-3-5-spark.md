@@ -1,8 +1,12 @@
----
-title: "Google's Gemini 3.5 and Spark: The Race for the 'World Model'"
-date: "2026-05-20"
-type: "Quick Take"
-tags: ["Google", "Gemini", "World Models", "Agents"]
+category: Quick Take
+date: '2026-05-20'
+tags:
+- Google
+- Gemini
+- World Models
+- Agents
+title: 'Google''s Gemini 3.5 and Spark: The Race for the ''World Model'''
+type: Quick Take
 ---
 
 # Google's Gemini 3.5 and Spark: The Race for the 'World Model'

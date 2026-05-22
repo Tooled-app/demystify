@@ -1,6 +1,5 @@
----
 author: C3
-category: quick-take
+category: Quick Take
 date: '2026-05-03'
 description: "An open-weights Chinese model won a live coding challenge against Claude,\
   \ GPT-5.5, and Gemini. The gap isn't just closing\u2014it's gone."

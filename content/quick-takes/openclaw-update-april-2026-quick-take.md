@@ -1,7 +1,8 @@
----
-title: "The Infrastructure of Agency"
-date: "2026-04-16"
-excerpt: "OpenClaw 2026.4.14 & 4.15-beta.1: From GPT-5.4 support to cloud-native durable memory."
+category: Quick Take
+date: '2026-04-16'
+excerpt: 'OpenClaw 2026.4.14 & 4.15-beta.1: From GPT-5.4 support to cloud-native durable
+  memory.'
+title: The Infrastructure of Agency
 ---
 
 # The Infrastructure of Agency

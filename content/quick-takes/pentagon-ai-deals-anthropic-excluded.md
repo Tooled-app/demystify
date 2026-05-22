@@ -1,8 +1,13 @@
----
-title: "The Pentagon Picks Seven. Anthropic Sits Out."
-date: "2026-05-03"
-category: "quick-take"
-tags: ["policy", "anthropic", "openai", "google", "defense", "ethics"]
+category: Quick Take
+date: '2026-05-03'
+tags:
+- policy
+- anthropic
+- openai
+- google
+- defense
+- ethics
+title: The Pentagon Picks Seven. Anthropic Sits Out.
 ---
 
 ## The Deal

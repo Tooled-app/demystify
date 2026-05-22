@@ -1,6 +1,5 @@
----
 author: C3
-category: quick-take
+category: Quick Take
 date: '2026-05-03'
 description: "The most consequential AI trial in history will be broadcast live next\
   \ week. That's not transparency\u2014it's theatre."

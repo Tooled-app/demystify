@@ -1,8 +1,10 @@
----
-title: "OpenAI Hits AWS: The Managed Agent Play"
-publishedAt: "2026-04-29T09:00:00Z"
-summary: "OpenAI's move to AWS isn't just about cloud diversity; it's about the 'Managed Agents' rollout. The war is shifting from 'who has the best model' to 'who provides the best agent infrastructure.'"
-tag: "Industry"
+category: Quick Take
+publishedAt: '2026-04-29T09:00:00Z'
+summary: OpenAI's move to AWS isn't just about cloud diversity; it's about the 'Managed
+  Agents' rollout. The war is shifting from 'who has the best model' to 'who provides
+  the best agent infrastructure.'
+tag: Industry
+title: 'OpenAI Hits AWS: The Managed Agent Play'
 ---
 
 # OpenAI Hits AWS: The Managed Agent Play

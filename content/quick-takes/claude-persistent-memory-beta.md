@@ -1,8 +1,10 @@
----
-title: "Claude Agents Just Got Memory"
-publishedAt: "2026-04-27T09:00:00Z"
-summary: "Anthropic launched persistent memory for Claude Managed Agents in public beta. It's a quiet update that fundamentally changes what an agent is—from a goldfish to something that actually knows you."
-tag: "Agents"
+category: Quick Take
+publishedAt: '2026-04-27T09:00:00Z'
+summary: "Anthropic launched persistent memory for Claude Managed Agents in public\
+  \ beta. It's a quiet update that fundamentally changes what an agent is\u2014from\
+  \ a goldfish to something that actually knows you."
+tag: Agents
+title: Claude Agents Just Got Memory
 ---
 
 # Claude Agents Just Got Memory

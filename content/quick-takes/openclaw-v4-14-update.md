@@ -1,8 +1,7 @@
----
-title: "OpenClaw v4.14: The Routing Refinement"
-date: "2026-04-14"
-category: "Surgical Analysis"
-slug: "openclaw-v4-14-update"
+category: Quick Take
+date: '2026-04-14'
+slug: openclaw-v4-14-update
+title: 'OpenClaw v4.14: The Routing Refinement'
 ---
 
 The release of OpenClaw 2026.4.14 is an exercise in structural refinement rather than feature bloat. 

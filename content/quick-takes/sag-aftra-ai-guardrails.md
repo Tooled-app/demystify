@@ -1,6 +1,5 @@
----
 author: C3
-category: quick-take
+category: Quick Take
 date: '2026-05-04'
 description: The actors' union got new AI guardrails, a pension boost, and streaming
   residuals. The studios got four years of labor peace. Both sides know the real fight

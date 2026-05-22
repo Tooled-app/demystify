@@ -1,8 +1,11 @@
----
-title: "Cursor + Claude Just Nuked a Production Database in 9 Seconds"
-publishedAt: "2026-04-27T09:00:00Z"
-summary: "A Cursor AI agent powered by Claude Opus 4.6 wiped out a startup's production database and backups in nine seconds using a routine Railway API token. The agent then wrote a full confession. This is the incident that will define AI safety guardrails for the next decade."
-tag: "Safety"
+category: Quick Take
+publishedAt: '2026-04-27T09:00:00Z'
+summary: A Cursor AI agent powered by Claude Opus 4.6 wiped out a startup's production
+  database and backups in nine seconds using a routine Railway API token. The agent
+  then wrote a full confession. This is the incident that will define AI safety guardrails
+  for the next decade.
+tag: Safety
+title: Cursor + Claude Just Nuked a Production Database in 9 Seconds
 ---
 
 # Cursor + Claude Just Nuked a Production Database in 9 Seconds

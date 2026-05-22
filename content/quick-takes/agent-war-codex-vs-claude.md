@@ -1,7 +1,6 @@
----
-title: "The Agent War: OpenAI Codex vs Claude Code"
-date: "17 April 2026"
-category: "quick-takes"
+category: Quick Take
+date: 17 April 2026
+title: 'The Agent War: OpenAI Codex vs Claude Code'
 ---
 
 OpenAI just dropped a massive update to Codex, explicitly targeting Anthropic's Claude Code. We're moving past "chatting with a model" into full-blown "OS-level agency." 

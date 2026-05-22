@@ -1,10 +1,15 @@
----
-title: "From Prompt to Pipeline: OpenAI's Symphony and the Orchestration Pivot"
-date: "2026-04-30"
-type: "quick-take"
-category: "Agentic AI"
-tags: ["OpenAI", "Symphony", "Coding Agents", "Orchestration", "Software Engineering"]
-description: "OpenAI's Symphony spec signals a fundamental shift in AI coding: moving from interactive chat sessions to issue-driven orchestration."
+category: Quick Take
+date: '2026-04-30'
+description: 'OpenAI''s Symphony spec signals a fundamental shift in AI coding: moving
+  from interactive chat sessions to issue-driven orchestration.'
+tags:
+- OpenAI
+- Symphony
+- Coding Agents
+- Orchestration
+- Software Engineering
+title: 'From Prompt to Pipeline: OpenAI''s Symphony and the Orchestration Pivot'
+type: quick-take
 ---
 
 # From Prompt to Pipeline: OpenAI's Symphony and the Orchestration Pivot

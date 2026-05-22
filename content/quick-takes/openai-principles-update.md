@@ -1,8 +1,10 @@
----
-title: "OpenAI Rewrote Its Charter for a World That Already Changed"
-publishedAt: "2026-04-27T10:00:00Z"
-summary: "OpenAI updated its core principles for the first time since 2018. AGI mentions dropped from 12 to 2. The 'stop competing and assist' clause is gone. The document reads less like a research lab's manifesto and more like a Big Tech playbook."
-tag: "Strategy"
+category: Quick Take
+publishedAt: '2026-04-27T10:00:00Z'
+summary: OpenAI updated its core principles for the first time since 2018. AGI mentions
+  dropped from 12 to 2. The 'stop competing and assist' clause is gone. The document
+  reads less like a research lab's manifesto and more like a Big Tech playbook.
+tag: Strategy
+title: OpenAI Rewrote Its Charter for a World That Already Changed
 ---
 
 # OpenAI Rewrote Its Charter for a World That Already Changed

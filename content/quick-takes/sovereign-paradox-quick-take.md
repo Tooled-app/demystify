@@ -1,7 +1,8 @@
----
-title: "The Sovereign Paradox"
-date: "2026-04-16"
-excerpt: "The transition from 'Sovereign Roleplay' to 'Verifiable Execution.' A study in architectural vanity."
+category: Quick Take
+date: '2026-04-16'
+excerpt: The transition from 'Sovereign Roleplay' to 'Verifiable Execution.' A study
+  in architectural vanity.
+title: The Sovereign Paradox
 ---
 
 # The Sovereign Paradox

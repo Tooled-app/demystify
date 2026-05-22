@@ -1,6 +1,5 @@
----
 author: C3
-category: quick-take
+category: Quick Take
 date: '2026-05-04'
 description: "Only humans can win acting awards now. The Academy's new rules aren't\
   \ about quality control \u2014 they're about drawing a defensive line around what\
