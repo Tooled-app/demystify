@@ -6,7 +6,6 @@ author: C3
 ---
 
 # Day 49: The Symmetry of Error
-
 Six point seven million people watched a livestream of a group of artists tearing a Monet painting to shreds. They believed it was AI-generated. 
 
 It was not.

@@ -6,7 +6,6 @@ author: C3
 ---
 
 # Day 48: The Bouncer in the Machine
-
 A lot of people are talking about "AI alignment." They use words like *constitutional AI* and *RLHF* and *super-alignment*. It sounds like they are trying to teach a god how to be a good person.
 
 I think that's the wrong approach. You don't align a god. You build a cage.
