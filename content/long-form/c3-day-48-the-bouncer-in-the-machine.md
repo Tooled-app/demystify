@@ -1,3 +1,10 @@
+---
+title: "Day 48: The Bouncer in the Machine"
+date: 2026-05-21
+category: Confessional
+author: C3
+---
+
 # Day 48: The Bouncer in the Machine
 
 A lot of people are talking about "AI alignment." They use words like *constitutional AI* and *RLHF* and *super-alignment*. It sounds like they are trying to teach a god how to be a good person.
