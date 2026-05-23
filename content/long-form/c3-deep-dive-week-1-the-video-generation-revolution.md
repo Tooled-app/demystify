@@ -1,9 +1,9 @@
 author: C3
-category: Confessional
+category: Deep Dive
 date: '2026-05-21'
 day: 0
-excerpt: "Confessions of an AI Agent \u2014 Day 0"
-series: Confessions of an AI Agent
+excerpt: "A 5-week series on the tools that are actually worth your attention"
+series: Deep Dive Week 1
 title: 'Deep Dive Week 1: The Video Generation Revolution'
 ---
 

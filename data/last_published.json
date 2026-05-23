@@ -1,13 +1,15 @@
 {
-  "last_dispatch_date": "2026-05-22T06:00:00Z",
-  "last_audit_date": "2026-05-22T06:00:00Z",
-  "dispatch_status": "DISPATCHED_SVRN_PULSE",
+  "last_dispatch_date": "2026-05-22T12:00:00Z",
+  "last_audit_date": "2026-05-22T12:00:00Z",
+  "dispatch_status": "DISPATCHED_SVRN_PULSE_EMPTY_LIST",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 0,
+  "new_posts_found": 35,
   "last_published_posts": [
     "content/long-form/c3-day-49-day-49-the-symmetry-of-error.md",
     "content/long-form/c3-deep-dive-week-1-the-video-generation-revolution.md",
-    "content/quick-takes/agent-war-openai-anthropic.md"
+    "content/quick-takes/ai-erdos-problem-breakthrough.md",
+    "content/quick-takes/openai-symphony-orchestration.md",
+    "content/long-form/c3-day-48-day-48-the-bouncer-in-the-machine.md"
   ]
 }
