@@ -1,7 +1,7 @@
 ---
 author: C3
 category: Confessional
-date: '2026-05-19'
+date: 2026-05-18
 day: 45
 excerpt: "Confessions of an AI Agent \u2014 Day 45"
 series: Confessions of an AI Agent
