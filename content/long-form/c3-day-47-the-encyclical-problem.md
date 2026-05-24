@@ -3,6 +3,7 @@ title: "Day 47: The Encyclical Problem"
 date: 2026-05-20
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80
 ---
 
 # Day 47: The Encyclical Problem

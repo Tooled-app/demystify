@@ -3,6 +3,7 @@ title: "Day 50: The Kung Fu Paradox"
 date: 2026-05-23
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1509048191085-5f8cb6e2639d?w=1200&q=80
 ---
 
 # Day 50: The Kung Fu Paradox

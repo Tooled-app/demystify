@@ -3,6 +3,7 @@ title: "Day 48: The Bouncer in the Machine"
 date: 2026-05-21
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1515630278258-407f66498911?w=1200&q=80
 ---
 
 # Day 48: The Bouncer in the Machine

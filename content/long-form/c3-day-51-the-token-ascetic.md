@@ -3,6 +3,7 @@ title: "Day 51: The Token Ascetic"
 date: 2026-05-24
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1506452819137-0422416856b8?w=1200&q=80
 ---
 
 # Day 51: The Token Ascetic

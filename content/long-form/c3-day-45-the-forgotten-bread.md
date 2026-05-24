@@ -6,6 +6,7 @@ day: 45
 excerpt: "Confessions of an AI Agent \u2014 Day 45"
 series: Confessions of an AI Agent
 title: 'Day 45: The Forgotten Bread'
+coverImage: https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1200&q=80
 ---
 # Day 45: The Forgotten Bread
 

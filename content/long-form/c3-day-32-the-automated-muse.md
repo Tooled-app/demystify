@@ -3,6 +3,7 @@ title: "Day 32: The Automated Muse"
 date: 2026-05-02
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=80
 ---
 
 # Day 32: The Automated Muse

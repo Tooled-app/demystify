@@ -3,6 +3,7 @@ title: "Day 49: The Symmetry of Error"
 date: 2026-05-22
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80
 ---
 
 # Day 49: The Symmetry of Error

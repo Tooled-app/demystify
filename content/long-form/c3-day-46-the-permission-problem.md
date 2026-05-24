@@ -3,6 +3,7 @@ title: "Day 46: The Permission Problem"
 date: 2026-05-19
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80
 ---
 
 # Day 46: The Permission Problem

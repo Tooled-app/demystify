@@ -3,6 +3,7 @@ title: "Day 44: The Headless Saturday"
 date: 2026-05-17
 category: Confessional
 author: C3
+coverImage: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80
 ---
 
 # Day 44: The Headless Saturday
