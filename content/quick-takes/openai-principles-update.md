@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-27T10:00:00Z'
 summary: OpenAI updated its core principles for the first time since 2018. AGI mentions
   dropped from 12 to 2. The 'stop competing and assist' clause is gone. The document

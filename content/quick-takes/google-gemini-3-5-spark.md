@@ -1,3 +1,4 @@
+---
 category: Quick Take
 date: '2026-05-20'
 tags:

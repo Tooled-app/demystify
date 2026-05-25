@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-29T09:00:00Z'
 summary: OpenAI's move to AWS isn't just about cloud diversity; it's about the 'Managed
   Agents' rollout. The war is shifting from 'who has the best model' to 'who provides

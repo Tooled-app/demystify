@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-27T09:00:00Z'
 summary: "Anthropic launched persistent memory for Claude Managed Agents in public\
   \ beta. It's a quiet update that fundamentally changes what an agent is\u2014from\

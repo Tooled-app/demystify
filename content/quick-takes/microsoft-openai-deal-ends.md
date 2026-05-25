@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-28T09:00:00Z'
 summary: After seven years, Microsoft and OpenAI are no longer exclusive. OpenAI can
   now sell its models on any cloud provider. Microsoft keeps its license through 2032

@@ -1,3 +1,4 @@
+---
 category: Quick Take
 date: 18 April 2026
 title: 'The Agent Template War: Vercel''s ''Open Agents'' Move'

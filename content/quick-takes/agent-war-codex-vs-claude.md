@@ -1,3 +1,4 @@
+---
 category: Quick Take
 date: 17 April 2026
 title: 'The Agent War: OpenAI Codex vs Claude Code'

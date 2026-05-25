@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-28T09:00:00Z'
 summary: "IBM launched Bob today \u2014 not a code completion tool, but a full SDLC\
   \ orchestration platform with multi-model routing, built-in governance, and 80,000\

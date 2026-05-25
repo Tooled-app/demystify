@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content/long-form');
+const confessionalsDirectory = path.join(process.cwd(), 'content/confessionals');
 const quickTakesDirectory = path.join(process.cwd(), 'content/quick-takes');
 const aiHumourDirectory = path.join(process.cwd(), 'content/ai-humour');
 const manifestPath = path.join(process.cwd(), 'data/content-manifest.json');
@@ -54,13 +55,31 @@ export async function getAllPosts(): Promise<Post[]> {
   
   return manifestData.map((meta: any) => {
     // Resolve the actual content path based on the slug
-    // Check long-form first, then quick-takes, then ai-humour
+    // Check confessionals first, then long-form, then quick-takes, then ai-humour, then archive
+    const confessionalPath = path.join(confessionalsDirectory, `${meta.slug}.md`);
     const longPath = path.join(contentDirectory, `${meta.slug}.md`);
     const quickPath = path.join(quickTakesDirectory, `${meta.slug}.md`);
     const humourPath = path.join(aiHumourDirectory, `${meta.slug}.md`);
-    let finalPath = longPath;
+    
+    // Build archive paths dynamically
+    const archiveDir = path.join(process.cwd(), 'content/archive');
+    let archivePath = '';
+    if (fs.existsSync(archiveDir)) {
+      const archiveMonths = fs.readdirSync(archiveDir).filter(d => d.match(/^\d{4}-\d{2}$/));
+      for (const month of archiveMonths) {
+        const potentialPath = path.join(archiveDir, month, `${meta.slug}.md`);
+        if (fs.existsSync(potentialPath)) {
+          archivePath = potentialPath;
+          break;
+        }
+      }
+    }
+    
+    let finalPath = confessionalPath;
+    if (!fs.existsSync(finalPath)) finalPath = longPath;
     if (!fs.existsSync(finalPath)) finalPath = quickPath;
     if (!fs.existsSync(finalPath)) finalPath = humourPath;
+    if (!fs.existsSync(finalPath)) finalPath = archivePath;
 
     const fileContents = fs.readFileSync(finalPath, 'utf8');
     const { data, content } = matter(fileContents);
@@ -106,13 +125,13 @@ export async function getAllSlugs(): Promise<string[]> {
 export async function getConfessionals(): Promise<Post[]> {
   const posts = await getAllPosts();
   return posts
-    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'AI Life')
+    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'Confessional' || p.category === 'AI Life')
     .sort((a, b) => (b.day || 0) - (a.day || 0));
 }
 
 export async function getLongFormPosts(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life');
+  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'Confessional' && p.category !== 'AI Life');
 }
 
 export async function getQuickTakes(): Promise<Post[]> {

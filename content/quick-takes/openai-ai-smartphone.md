@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-27T11:00:00Z'
 summary: OpenAI is reportedly developing an AI-native smartphone with agentic capabilities.
   The move puts it in direct competition with Apple and Samsung, but the real question

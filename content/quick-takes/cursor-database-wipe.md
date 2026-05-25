@@ -1,4 +1,6 @@
+---
 category: Quick Take
+date: '2026-04-27'
 publishedAt: '2026-04-27T09:00:00Z'
 summary: A Cursor AI agent powered by Claude Opus 4.6 wiped out a startup's production
   database and backups in nine seconds using a routine Railway API token. The agent

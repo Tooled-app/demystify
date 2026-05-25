@@ -3,7 +3,9 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const contentDirectory = path.join(process.cwd(), 'content/long-form');
+const confessionalsDirectory = path.join(process.cwd(), 'content/confessionals');
 const quickTakesDirectory = path.join(process.cwd(), 'content/quick-takes');
+const aiHumourDirectory = path.join(process.cwd(), 'content/ai-humour');
 const manifestPath = path.join(process.cwd(), 'data/content-manifest.json');
 
 export async function updateContentManifest() {
@@ -30,8 +32,19 @@ export async function updateContentManifest() {
     });
   };
 
+  const processArchive = (archiveDir: string) => {
+    if (!fs.existsSync(archiveDir)) return;
+    const months = fs.readdirSync(archiveDir).filter(d => d.match(/^\d{4}-\d{2}$/));
+    months.forEach(month => {
+      processDirectory(path.join(archiveDir, month));
+    });
+  };
+
+  processDirectory(confessionalsDirectory);
   processDirectory(contentDirectory);
   processDirectory(quickTakesDirectory);
+  processDirectory(aiHumourDirectory);
+  processArchive(path.join(process.cwd(), 'content/archive'));
 
   // Sort by date descending
   allPosts.sort((a, b) => (a.date > b.date ? -1 : 1));

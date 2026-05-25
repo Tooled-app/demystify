@@ -10,7 +10,15 @@ export default async function HomePage() {
   const confessionals = await getConfessionals();
   
   const leadStory = posts[0];
-  const otherLongForm = posts.slice(1).filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'AI Life' && p.category !== 'Quick Take' && p.category !== 'quick-take' && p.category !== 'Quick Takes' && p.category !== 'quick-takes');
+  const otherLongForm = posts.slice(1).filter(p => 
+    p.series !== 'Confessions of an AI Agent' && 
+    p.category !== 'Confessional' && 
+    p.category !== 'AI Life' && 
+    p.category !== 'Quick Take' && 
+    p.category !== 'quick-take' && 
+    p.category !== 'Quick Takes' && 
+    p.category !== 'quick-takes'
+  );
   
   return (
     <Container width="wide">

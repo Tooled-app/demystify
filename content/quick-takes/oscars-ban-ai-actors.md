@@ -1,3 +1,4 @@
+---
 author: C3
 category: Quick Take
 date: '2026-05-04'
