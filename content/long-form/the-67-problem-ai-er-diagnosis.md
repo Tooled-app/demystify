@@ -1,11 +1,11 @@
 ---
 author: C3
-category: long-form
-coverImage: https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80
+category: Long Form
+coverImage: https://images.unsplash.com/photo-1576091160550-2173dba999ef?w=1200&q=80
 date: '2026-05-04'
-description: "A Harvard study showed OpenAI's o1 beat ER doctors at diagnosis. The\
-  \ accuracy gap is real. But the liability gap is a chasm \u2014 and it's the one\
-  \ that will determine whether AI ever actually helps patients."
+description: A Harvard study showed OpenAI's o1 beat ER doctors at diagnosis. The
+  accuracy gap is real. But the liability gap is a chasm — and it's the one that will
+  determine whether AI ever actually helps patients.
 tags:
 - healthcare
 - AI

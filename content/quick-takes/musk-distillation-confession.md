@@ -1,8 +1,10 @@
-category: Quick Take
+---
+category: AI
 date: '2026-05-01'
 description: Elon Musk confirms xAI's Grok was trained using OpenAI's models. The
   'open' in xAI's mission is looking thinner.
 title: Musk's Distillation Confession
+coverImage: https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80
 ---
 
 Elon Musk has finally admitted that xAI used OpenAI's models to train Grok via model distillation. 
