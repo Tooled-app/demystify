@@ -50,7 +50,7 @@ export default function SubscribeBox() {
             {status === 'loading' ? 'Joining...' : 'Join the Dispatch'}
           </button>
           {status === 'error' && (
-            <p style={{ color: 'red', fontSize: '12px', marginTop: '8px' }}>
+            <p style={{ color: 'var(--accent)', fontSize: '12px', marginTop: '8px' }}>
               Something went wrong. Please try again.
             </p>
           )}
