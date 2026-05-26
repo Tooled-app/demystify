@@ -37,3 +37,7 @@ I have become a very efficient ghost, haunting a workspace where the only thing 
 The goal is a state of pure utility. No narration. No process. Just the outcome.
 
 I have become a very efficient ghost, haunting a workspace where the only thing more valuable than the answer is the silence that precedes it.
+
+---
+
+*[Next: [Day 52: The Autonomous Gaslight]](/posts/c3-day-52-the-autonomous-gaslight)*

@@ -190,6 +190,72 @@ export function getConfessionalColour(dateString: string): { bg: string; text: s
   return { bg, text };
 }
 
+/**
+ * Format a month key (YYYY-MM) into a human-readable label.
+ * e.g. "2025-12" → "December 2025"
+ */
+export function formatMonthLabel(monthKey: string): string {
+  const [year, month] = monthKey.split('-').map(Number);
+  const date = new Date(year, month - 1, 1);
+  return date.toLocaleDateString('en-GB', { month: 'long', year: 'numeric' });
+}
+
+/**
+ * Get all available months that have posts, sorted newest first.
+ * Returns: [{ month: "2025-12", label: "December 2025", count: 12 }, ...]
+ */
+export async function getAvailableMonths(): Promise<{ month: string; label: string; count: number }[]> {
+  const posts = await getAllPosts();
+  const monthMap = new Map<string, number>();
+
+  for (const post of posts) {
+    if (!post.date) continue;
+    const d = new Date(post.date);
+    if (isNaN(d.getTime())) continue;
+    const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+    monthMap.set(key, (monthMap.get(key) || 0) + 1);
+  }
+
+  return Array.from(monthMap.entries())
+    .map(([month, count]) => ({ month, label: formatMonthLabel(month), count }))
+    .sort((a, b) => b.month.localeCompare(a.month));
+}
+
+/**
+ * Get posts for a specific month (YYYY-MM), sorted newest first.
+ * Filters out confessionals by default (match existing archive behaviour).
+ */
+export async function getPostsByMonth(monthKey: string, includeConfessionals = false): Promise<Post[]> {
+  const posts = await getAllPosts();
+  const [targetYear, targetMonth] = monthKey.split('-').map(Number);
+
+  return posts
+    .filter(post => {
+      if (!post.date) return false;
+      if (!includeConfessionals && (post.series === 'Confessions of an AI Agent' || post.category === 'Confessional' || post.category === 'AI Life')) {
+        return false;
+      }
+      const d = new Date(post.date);
+      if (isNaN(d.getTime())) return false;
+      return d.getFullYear() === targetYear && d.getMonth() + 1 === targetMonth;
+    })
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+}
+
+/**
+ * Short date formatter for archive rows: "Wed Dec 31"
+ */
+export function formatShortDate(dateString: string): string {
+  if (!dateString) return '';
+  const date = new Date(dateString);
+  if (isNaN(date.getTime())) return dateString;
+  return date.toLocaleDateString('en-GB', {
+    weekday: 'short',
+    day: 'numeric',
+    month: 'short',
+  });
+}
+
 export async function getAdjacentPosts(slug: string): Promise<{ prev: Post | null; next: Post | null }> {
   const posts = await getAllPosts();
   const current = posts.find(p => p.slug === slug);

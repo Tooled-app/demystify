@@ -1,30 +1,14 @@
-import { getAllPosts, formatDate } from "../../lib/posts";
-import Link from "next/link";
-import Container from "../../components/Container";
-import SectionHeader from "../../components/SectionHeader";
-import PostCard from "../../components/PostCard";
+import { redirect } from "next/navigation";
+import { getAvailableMonths } from "../../lib/posts";
 
 export default async function ArchivePage() {
-  const posts = (await getAllPosts())
-    .filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'Confessional' && p.category !== 'AI Life')
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const months = await getAvailableMonths();
   
-  return (
-    <Container width="wide">
-      <SectionHeader 
-        title="The Archive" 
-        description="A complete record of every dispatch, sorted by date." 
-      />
-      
-      <div className="post-list">
-        {posts.map(post => (
-          <PostCard 
-            key={post.slug} 
-            post={{...post, date: formatDate(post.date)}} 
-            variant="list" 
-          />
-        ))}
-      </div>
-    </Container>
-  );
+  if (months.length === 0) {
+    // Fallback: render the old flat list if no months found
+    const { default: OldArchive } = await import("./old-archive");
+    return <OldArchive />;
+  }
+
+  redirect(`/archive/month/${months[0].month}`);
 }
