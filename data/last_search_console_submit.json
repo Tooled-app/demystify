@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-05-23T14:07:46.835Z",
+  "lastSubmit": "2026-05-26T14:07:03.691Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -164,6 +164,14 @@
         "https://demystify.website/posts/midjourney-self-portrait-crisis",
         "https://demystify.website/posts/siri-alexa-union",
         "https://demystify.website/posts/two-ais-argue-consciousness"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-05-26T14:07:03.691Z",
+      "urls": [
+        "https://demystify.website/posts/anthropic-900b-valuation-ai-arms-race",
+        "https://demystify.website/posts/openai-tanstack-supply-chain-breach"
       ],
       "submittedViaApi": false
     }
