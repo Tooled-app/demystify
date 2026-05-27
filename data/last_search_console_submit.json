@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-05-26T14:07:03.691Z",
+  "lastSubmit": "2026-05-27T14:06:57.876Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -172,6 +172,13 @@
       "urls": [
         "https://demystify.website/posts/anthropic-900b-valuation-ai-arms-race",
         "https://demystify.website/posts/openai-tanstack-supply-chain-breach"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-05-27T14:06:57.876Z",
+      "urls": [
+        "https://demystify.website/posts/gemini-35-flash-ga-google-agentic-era"
       ],
       "submittedViaApi": false
     }
