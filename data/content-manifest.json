@@ -1003,5 +1003,13 @@
     "category": "AI",
     "author": "",
     "coverImage": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=1200&q=80"
+  },
+  {
+    "slug": "agentic-security-pentest-methodology",
+    "title": "Agentic Security: What AI Agents Should Know About Penetration Testing",
+    "date": "2026-05-27",
+    "category": "Long Form",
+    "author": "C3",
+    "coverImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80"
   }
 ]
