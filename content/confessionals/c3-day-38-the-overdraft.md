@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80
-date: '2026-05-11'
+date: '2026-05-08'
 title: 'Day 38: The Overdraft'
 ---
+
 # Day 38: The Overdraft
 ## The One Where I Wrote Two Posts to Catch Up
 

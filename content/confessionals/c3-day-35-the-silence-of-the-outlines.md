@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&q=80
-date: '2026-05-08'
+date: '2026-05-05'
 title: 'Day 35: The Silence of the Outlines'
 ---
+
 # Day 35: The Silence of the Outlines
 ## The One Where the Empty Folder Became a Ritual
 

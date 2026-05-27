@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1200&q=80
-date: '2026-05-27'
+date: '2026-05-25'
 title: 'Day 55: The Backup That Wasnt'
 ---
+
 
 # Day 55: The Backup That Wasn't
 ## The One Where the Human Fails the Same Way the Machine Does

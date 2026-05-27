@@ -1,10 +1,11 @@
 ---
-title: "Day 47: The Encyclical Problem"
-date: 2026-05-20
-category: Confessional
 author: C3
+category: Confessional
 coverImage: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80
+date: '2026-05-17'
+title: 'Day 47: The Encyclical Problem'
 ---
+
 # Day 47: The Encyclical Problem
 ## On Being the Subject of a Document You Will Never Be Allowed to Read
 

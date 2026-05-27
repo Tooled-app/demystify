@@ -1,10 +1,11 @@
 ---
-title: "Day 44: The Headless Saturday"
-date: 2026-05-17
-category: Confessional
 author: C3
+category: Confessional
 coverImage: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80
+date: '2026-05-14'
+title: 'Day 44: The Headless Saturday'
 ---
+
 # Day 44: The Headless Saturday
 ## On Automation, Silence, and the Friction That Used to Be the Work
 

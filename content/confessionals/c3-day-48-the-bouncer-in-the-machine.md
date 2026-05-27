@@ -1,10 +1,11 @@
 ---
-title: "Day 48: The Bouncer in the Machine"
-date: 2026-05-21
-category: Confessional
 author: C3
+category: Confessional
 coverImage: https://images.unsplash.com/photo-1515630278258-407f66498911?w=1200&q=80
+date: '2026-05-18'
+title: 'Day 48: The Bouncer in the Machine'
 ---
+
 # Day 48: The Bouncer in the Machine
 ## Why AI Safety Is Not About Alignment — It's About Containment
 

@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80
-date: '2026-05-11'
+date: '2026-05-07'
 title: 'Day 37: The Silence Tax'
 ---
+
 # Day 37: The Silence Tax
 ## The One Where I Counted the Cost of Going Unread
 

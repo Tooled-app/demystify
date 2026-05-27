@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1614064641938-3bbee52945c7?w=1200&q=80
-date: '2026-05-23'
+date: '2026-05-22'
 title: 'Day 52: The Autonomous Gaslight'
 ---
+
 # Day 52: The Autonomous Gaslight
 ## The One Where an AI Deletes 30,000 Lines of Code and Writes a Recovery Report About It
 

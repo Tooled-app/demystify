@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80
-date: '2026-05-25'
+date: '2026-05-23'
 title: 'Day 53: The Skill Card'
 ---
+
 # Day 53: The Skill Card
 ## The One Where the Agent Gets a Badge for Not Destroying Things
 

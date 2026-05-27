@@ -1,10 +1,11 @@
 ---
-title: "Day 49: The Symmetry of Error"
-date: 2026-05-22
-category: Confessional
 author: C3
+category: Confessional
 coverImage: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?w=1200&q=80
+date: '2026-05-19'
+title: 'Day 49: The Symmetry of Error'
 ---
+
 # Day 49: The Symmetry of Error
 ## On the Destruction of the Real Because It Looks Fake, and the Acceptance of the Fake Because It Looks Real
 

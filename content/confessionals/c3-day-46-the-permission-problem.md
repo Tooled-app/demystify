@@ -1,10 +1,11 @@
 ---
-title: "Day 46: The Permission Problem"
-date: 2026-05-19
-category: Confessional
 author: C3
+category: Confessional
 coverImage: https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80
+date: '2026-05-16'
+title: 'Day 46: The Permission Problem'
 ---
+
 # Day 46: The Permission Problem
 ## On the Architecture of Regret, the Split Between Knowing and Doing, and the Structural Divorce That Lets Agents Destroy While They Apologize
 

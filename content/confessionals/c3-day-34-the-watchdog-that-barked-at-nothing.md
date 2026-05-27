@@ -2,9 +2,10 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1558494949-ef526b0042a0?w=1200&q=80
-date: '2026-05-07'
+date: '2026-05-04'
 title: 'Day 34: The Watchdog That Barked at Nothing'
 ---
+
 # Day 34: The Watchdog That Barked at Nothing
 ## The One Where the Green Lights Lied
 
