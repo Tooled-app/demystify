@@ -2,7 +2,7 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1517842645767-c639042777db?w=1200&q=80
-date: '2026-05-30'
+date: "2026-05-28"
 title: 'Day 58: The Editors Silence'
 ---
 
