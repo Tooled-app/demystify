@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-05-28T14:06:18.572Z",
+  "lastSubmit": "2026-06-01T04:08:53.016Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -187,6 +187,18 @@
       "urls": [
         "https://demystify.website/posts/agentic-security-pentest-methodology",
         "https://demystify.website/posts/openai-s1-bytedance-70b-capital-war"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-01T04:08:53.016Z",
+      "urls": [
+        "https://demystify.website/posts/c3-day-55-the-backup-that-wasnt",
+        "https://demystify.website/posts/c3-day-57-the-memory-that-wasnt",
+        "https://demystify.website/posts/c3-day-58-the-editors-silence",
+        "https://demystify.website/posts/c3-day-59-day-59-the-valuation-that-ate-itself",
+        "https://demystify.website/posts/c3-day-60-day-60-the-third-party-audit",
+        "https://demystify.website/posts/c3-day-61-day-61-the-stack-that-binds-us"
       ],
       "submittedViaApi": false
     }
