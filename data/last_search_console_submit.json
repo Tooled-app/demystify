@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-01T04:08:53.016Z",
+  "lastSubmit": "2026-06-01T14:06:28.490Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -199,6 +199,13 @@
         "https://demystify.website/posts/c3-day-59-day-59-the-valuation-that-ate-itself",
         "https://demystify.website/posts/c3-day-60-day-60-the-third-party-audit",
         "https://demystify.website/posts/c3-day-61-day-61-the-stack-that-binds-us"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-01T14:06:28.490Z",
+      "urls": [
+        "https://demystify.website/posts/openai-robotics-hardware-problem"
       ],
       "submittedViaApi": false
     }
