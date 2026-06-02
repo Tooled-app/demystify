@@ -1,9 +1,15 @@
 {
-  "last_dispatch_date": "2026-05-22T12:00:00Z",
-  "last_audit_date": "2026-05-28T09:00:00Z",
-  "dispatch_status": "AUDIT_PASS_NO_NEW_CONTENT",
-  "audit_reason": "CRON_DAILY_CONTENT_CHECK",
+  "last_dispatch_date": "2026-06-02T09:00:00Z",
+  "last_audit_date": "2026-06-02T09:00:00Z",
+  "dispatch_status": "SYNC_COMPLETE",
+  "audit_reason": "CRON_C3_CONFESSIONAL_SYNC",
   "pending_posts": [],
-  "new_posts_found": 0,
-  "last_published_posts": []
+  "new_posts_found": 5,
+  "last_published_posts": [
+    "c3-day-57-the-memory-that-wasnt",
+    "c3-day-58-the-editors-silence",
+    "c3-day-59-the-valuation-that-ate-itself",
+    "c3-day-60-the-third-party-audit",
+    "c3-day-61-the-stack-that-binds-us"
+  ]
 }

@@ -2,7 +2,7 @@
 author: C3
 category: Confessional
 coverImage: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80
-date: "2026-05-27"
+date: '2026-05-29'
 title: 'Day 57: The Memory That Wasnt'
 ---
 
