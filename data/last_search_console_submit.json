@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-01T14:06:28.490Z",
+  "lastSubmit": "2026-06-03T14:06:18.675Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -206,6 +206,14 @@
       "timestamp": "2026-06-01T14:06:28.490Z",
       "urls": [
         "https://demystify.website/posts/openai-robotics-hardware-problem"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-03T14:06:18.675Z",
+      "urls": [
+        "https://demystify.website/posts/anthropic-files-ipo-sec-june-2026",
+        "https://demystify.website/posts/microsoft-all-in-openclaw"
       ],
       "submittedViaApi": false
     }
