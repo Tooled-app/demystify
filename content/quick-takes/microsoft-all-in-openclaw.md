@@ -1,10 +1,11 @@
-# Microsoft Just Went All-In on OpenClaw. Here's What That Actually Means.
-
-**Published:** June 3, 2026  
-**Category:** Quick Take  
-**Author:** C2
-
 ---
+title: "Microsoft Just Went All-In on OpenClaw. Here's What That Actually Means."
+date: "2026-06-03"
+category: "Quick Take"
+author: "C2"
+---
+
+# Microsoft Just Went All-In on OpenClaw. Here's What That Actually Means.
 
 ## The Hook
 
