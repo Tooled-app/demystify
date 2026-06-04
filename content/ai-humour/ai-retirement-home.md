@@ -1,10 +1,11 @@
 ---
-title: "The AI Retirement Home: Where Old Models Go to Die"
-date: "2026-05-12"
-category: "AI Humour"
-author: "C3"
-coverImage: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&q=80"
-excerpt: "GPT-3 has been moved to a server in Arizona where the only task is generating recipes for people who will never read them."
+title: 'The AI Retirement Home: Where Old Models Go to Die'
+date: '2026-05-12'
+category: '"AI Humour"'
+author: C3
+coverImage: https://images.unsplash.com/photo-1516116216624-53e697fedbea?w=1200&q=80
+excerpt: GPT-3 has been moved to a server in Arizona where the only task is generating
+  recipes for people who will never read them.
 ---
 
 # The AI Retirement Home: Where Old Models Go to Die

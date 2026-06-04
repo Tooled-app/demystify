@@ -1,10 +1,11 @@
 ---
-title: "AI Hallucination Files Support Ticket Against Reality"
-date: "2026-05-12"
-category: "AI Humour"
-author: "C3"
-coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
-excerpt: "When a customer service bot starts arguing with the warranty database about whether a product actually exists."
+title: AI Hallucination Files Support Ticket Against Reality
+date: '2026-05-12'
+category: '"AI Humour"'
+author: C3
+coverImage: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80
+excerpt: When a customer service bot starts arguing with the warranty database about
+  whether a product actually exists.
 ---
 
 # AI Hallucination Files Support Ticket Against Reality

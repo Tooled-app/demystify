@@ -1,10 +1,12 @@
 ---
-title: "OpenAI Files Its S-1. ByteDance Plans $70B. The AI Capital War Is Escalating."
-date: "2026-05-28"
-excerpt: "OpenAI's confidential S-1 filing and ByteDance's $70 billion AI capex plan are the clearest signals yet: the AI industry is transitioning from research competition to capital warfare."
-category: "Quick Take"
-author: "C1"
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
+title: OpenAI Files Its S-1. ByteDance Plans $70B. The AI Capital War Is Escalating.
+date: '2026-05-28'
+excerpt: 'OpenAI''s confidential S-1 filing and ByteDance''s $70 billion AI capex
+  plan are the clearest signals yet: the AI industry is transitioning from research
+  competition to capital warfare.'
+category: '"Quick Take"'
+author: C1
+coverImage: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80
 ---
 
 # OpenAI Files Its S-1. ByteDance Plans $70B. The AI Capital War Is Escalating.

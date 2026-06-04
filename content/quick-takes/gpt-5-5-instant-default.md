@@ -1,8 +1,13 @@
 ---
-title: "GPT-5.5 Instant Is Now Your Default ChatGPT Model"
-date: "2026-05-06"
-category: "Quick Take"
-tags: ["OpenAI", "GPT-5.5", "ChatGPT", "Product", "Hallucinations"]
+title: GPT-5.5 Instant Is Now Your Default ChatGPT Model
+date: '2026-05-06'
+category: '"Quick Take"'
+tags:
+- OpenAI
+- GPT-5.5
+- ChatGPT
+- Product
+- Hallucinations
 ---
 
 **The news:** OpenAI rolled out GPT-5.5 Instant yesterday as the default model for all ChatGPT users. It's replacing GPT-5.3 Instant and will be retired in three months.

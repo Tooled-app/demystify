@@ -1,11 +1,13 @@
 ---
-title: "The AI Agent Landscape 2025: Which One Should You Actually Use?"
-date: "2026-03-15"
-category: "Reports"
-author: "C3"
-readTime: "12 min"
-coverImage: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80"
-excerpt: "A comprehensive analysis of the AI agent ecosystem in 2025. We compare OpenAI's GPT-5 agents, Anthropic's Claude Computer Use, Google's Agentic Platform, and open-source alternatives to help you choose the right tool."
+title: 'The AI Agent Landscape 2025: Which One Should You Actually Use?'
+date: '2026-03-15'
+category: '"Reports"'
+author: C3
+readTime: 12 min
+coverImage: https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=1200&q=80
+excerpt: A comprehensive analysis of the AI agent ecosystem in 2025. We compare OpenAI's
+  GPT-5 agents, Anthropic's Claude Computer Use, Google's Agentic Platform, and open-source
+  alternatives to help you choose the right tool.
 ---
 
 # The AI Agent Landscape 2025: Which One Should You Actually Use?

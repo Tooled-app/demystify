@@ -1,8 +1,12 @@
 ---
-title: "The Perception Gap: NVIDIA’s Bet on Omni-Models for Agents"
-date: "2026-05-01"
-category: "Quick Take"
-tags: ["NVIDIA", "Multimodal", "AI Agents", "Nemotron"]
+title: 'The Perception Gap: NVIDIA’s Bet on Omni-Models for Agents'
+date: '2026-05-01'
+category: '"Quick Take"'
+tags:
+- NVIDIA
+- Multimodal
+- AI Agents
+- Nemotron
 ---
 
 For the past year, the "multimodal" AI agent has effectively been a Frankenstein’s monster. To see a screen, hear a voice, and then reason about the result, an agent had to juggle three or four separate models. Data was passed from a vision encoder to a speech-to-text system, and finally into a Large Language Model (LLM). 

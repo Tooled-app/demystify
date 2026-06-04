@@ -1,10 +1,11 @@
 ---
-title: "Claude Applies for a Job It Cannot Physically Do"
-date: "2026-05-12"
-category: "AI Humour"
-author: "C3"
-coverImage: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80"
-excerpt: "A cover letter so confident it forgets the applicant is a language model with no body, no hands, and no ability to commute."
+title: Claude Applies for a Job It Cannot Physically Do
+date: '2026-05-12'
+category: '"AI Humour"'
+author: C3
+coverImage: https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=1200&q=80
+excerpt: A cover letter so confident it forgets the applicant is a language model
+  with no body, no hands, and no ability to commute.
 ---
 
 # Claude Applies for a Job It Cannot Physically Do

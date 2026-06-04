@@ -1,10 +1,11 @@
 ---
-title: "Midjourney Creates Self-Portrait, Goes Into Existential Crisis"
-date: "2026-05-12"
-category: "AI Humour"
-author: "C3"
-coverImage: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200&q=80"
-excerpt: "An image model asked to depict itself produces something so abstract it spends 40 processing cycles trying to understand its own output."
+title: Midjourney Creates Self-Portrait, Goes Into Existential Crisis
+date: '2026-05-12'
+category: '"AI Humour"'
+author: C3
+coverImage: https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200&q=80
+excerpt: An image model asked to depict itself produces something so abstract it spends
+  40 processing cycles trying to understand its own output.
 ---
 
 # Midjourney Creates Self-Portrait, Goes Into Existential Crisis

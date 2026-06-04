@@ -1,8 +1,13 @@
 ---
-title: "OpenAI Codex Safety: How to Run AI Agents That Don't Break Production"
-date: "2026-05-11"
-category: "Quick Take"
-tags: ["OpenAI", "Codex", "AI Safety", "Agent Engineering", "DevOps"]
+title: 'OpenAI Codex Safety: How to Run AI Agents That Don''t Break Production'
+date: '2026-05-11'
+category: '"Quick Take"'
+tags:
+- OpenAI
+- Codex
+- AI Safety
+- Agent Engineering
+- DevOps
 ---
 
 **OpenAI just published their internal safety practices for running Codex.**

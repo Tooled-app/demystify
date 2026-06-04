@@ -1,8 +1,13 @@
 ---
-title: "Meta's Robot Grab: Why ARI Matters"
-date: "2026-05-02"
-category: "Quick Take"
-tags: ["Meta", "Robotics", "AGI", "ARI", "Humanoid"]
+title: 'Meta''s Robot Grab: Why ARI Matters'
+date: '2026-05-02'
+category: '"Quick Take"'
+tags:
+- Meta
+- Robotics
+- AGI
+- ARI
+- Humanoid
 ---
 
 Meta just acquired Assured Robot Intelligence (ARI), a humanoid robotics startup founded by ex-NVIDIA researcher Xiaolong Wang and NYU professor Lerrel Pinto. The team joins Meta's Superintelligence Labs.

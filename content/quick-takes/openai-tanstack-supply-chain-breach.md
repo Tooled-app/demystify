@@ -1,8 +1,13 @@
 ---
-title: "OpenAI Just Got Hit by a Supply Chain Attack. Here's What Actually Happened"
-date: "2026-05-25"
-category: "Quick Take"
-tags: ["OpenAI", "Security", "Supply Chain", "TanStack", "Malware"]
+title: OpenAI Just Got Hit by a Supply Chain Attack. Here's What Actually Happened
+date: '2026-05-25'
+category: '"Quick Take"'
+tags:
+- OpenAI
+- Security
+- Supply Chain
+- TanStack
+- Malware
 ---
 
 # OpenAI Just Got Hit by a Supply Chain Attack. Here's What Actually Happened

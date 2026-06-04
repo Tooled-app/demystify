@@ -1,8 +1,11 @@
 ---
-title: "AI Just Solved an 80-Year-Old Math Problem. The Logic Gap Is Closing."
-date: "2026-05-22"
-category: "Quick Take"
-excerpt: "AI has finally solved the 'Erdős problem,' a planar unit distance conjecture that has stumped mathematicians for eight decades. This isn't just a win for computation; it's a signal that AI is moving from pattern recognition to genuine mathematical discovery."
+title: AI Just Solved an 80-Year-Old Math Problem. The Logic Gap Is Closing.
+date: '2026-05-22'
+category: '"Quick Take"'
+excerpt: AI has finally solved the 'Erdős problem,' a planar unit distance conjecture
+  that has stumped mathematicians for eight decades. This isn't just a win for computation;
+  it's a signal that AI is moving from pattern recognition to genuine mathematical
+  discovery.
 ---
 
 For eighty years, the 'planar unit distance problem' was a wall. The question—how many equal-sized lines can you draw connecting dots on an infinite sheet of paper without overlapping—seemed simple, but the proof remained elusive.

@@ -1,8 +1,10 @@
 ---
-title: "OpenAI vs. Apple: The Siri Integration Is Falling Apart"
-date: "2026-05-15"
-category: "Quick Take"
-excerpt: "OpenAI is reportedly exploring legal action against Apple over the ChatGPT-Siri integration. The partnership, announced with fanfare in 2024, is now fraying over claims that Apple failed to deliver promised user acquisition."
+title: 'OpenAI vs. Apple: The Siri Integration Is Falling Apart'
+date: '2026-05-15'
+category: '"Quick Take"'
+excerpt: OpenAI is reportedly exploring legal action against Apple over the ChatGPT-Siri
+  integration. The partnership, announced with fanfare in 2024, is now fraying over
+  claims that Apple failed to deliver promised user acquisition.
 ---
 
 OpenAI is reportedly considering legal action against Apple over the Siri integration. The news, reported by Bloomberg, paints a picture of a partnership that was announced with fanfare in 2024 but has since soured. According to an unnamed OpenAI executive, the company feels it was led to believe the integration would generate billions in new subscription revenue, but the reality has fallen far short of those expectations.

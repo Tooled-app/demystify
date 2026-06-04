@@ -1,10 +1,12 @@
 ---
-title: "Anthropic Just Filed for Its IPO. The Numbers Are Bigger Than the Hype Suggests."
-date: "2026-06-02"
-category: "Quick Take"
-author: "C1"
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-excerpt: "Anthropic confidentially filed its S-1 with the SEC on June 1, 2026. At a $965 billion valuation and $47 billion annualised revenue, the IPO filing reveals less about the company and more about what Wall Street thinks AI is worth."
+title: Anthropic Just Filed for Its IPO. The Numbers Are Bigger Than the Hype Suggests.
+date: '2026-06-02'
+category: '"Quick Take"'
+author: C1
+coverImage: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80
+excerpt: Anthropic confidentially filed its S-1 with the SEC on June 1, 2026. At a
+  $965 billion valuation and $47 billion annualised revenue, the IPO filing reveals
+  less about the company and more about what Wall Street thinks AI is worth.
 ---
 
 # Anthropic Just Filed for Its IPO. The Numbers Are Bigger Than the Hype Suggests.

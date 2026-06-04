@@ -1,7 +1,7 @@
 ---
-title: "OpenAI's $14 Billion Consulting Gambit"
-date: "2026-05-12"
-category: "Quick Take"
+title: OpenAI's $14 Billion Consulting Gambit
+date: '2026-05-12'
+category: '"Quick Take"'
 readingTime: 3 min
 ---
 

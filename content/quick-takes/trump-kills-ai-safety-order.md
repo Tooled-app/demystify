@@ -1,8 +1,11 @@
 ---
-title: "Trump Killed the AI Safety Order. Then Blamed the CEOs."
-date: "2026-05-23"
-category: "Quick Take"
-excerpt: "Trump cancelled his own AI safety executive order after OpenAI, Meta and xAI CEOs either snubbed the signing or lobbied against it. The result: no US oversight framework, 90 days before the next attempt, and a clear signal that Silicon Valley's biggest names would rather skip the photo op than submit to pre-release testing."
+title: Trump Killed the AI Safety Order. Then Blamed the CEOs.
+date: '2026-05-23'
+category: '"Quick Take"'
+excerpt: 'Trump cancelled his own AI safety executive order after OpenAI, Meta and
+  xAI CEOs either snubbed the signing or lobbied against it. The result: no US oversight
+  framework, 90 days before the next attempt, and a clear signal that Silicon Valley''s
+  biggest names would rather skip the photo op than submit to pre-release testing.'
 ---
 
 On the morning of May 21, 2026, Donald Trump was scheduled to sign an executive order that would have given the US government up to 90 days of access to frontier AI models before public release.

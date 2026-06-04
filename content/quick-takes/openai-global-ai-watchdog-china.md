@@ -1,7 +1,7 @@
 ---
-title: "OpenAI Wants a Global AI Watchdog — and China Should Be in the Room"
-date: "2026-05-14"
-category: "Quick Take"
+title: OpenAI Wants a Global AI Watchdog — and China Should Be in the Room
+date: '2026-05-14'
+category: '"Quick Take"'
 readingTime: 4 min
 ---
 

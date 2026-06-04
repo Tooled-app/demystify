@@ -1,8 +1,14 @@
 ---
-title: "The Joint Venture Race: When AI Labs Become PE Firms"
-date: "2026-05-05"
-category: "Quick Take"
-tags: ["OpenAI", "Anthropic", "Enterprise AI", "Private Equity", "Joint Ventures", "Fundraising"]
+title: 'The Joint Venture Race: When AI Labs Become PE Firms'
+date: '2026-05-05'
+category: '"Quick Take"'
+tags:
+- OpenAI
+- Anthropic
+- Enterprise AI
+- Private Equity
+- Joint Ventures
+- Fundraising
 ---
 
 **The news:** Within hours of each other on May 4, Anthropic and OpenAI both announced joint ventures dedicated to enterprise AI deployment. Anthropic's venture is valued at $1.5 billion. OpenAI's is valued at $10 billion.

@@ -1,10 +1,12 @@
 ---
-title: "Gemini 3.5 Flash Hits GA. Google Is Betting on Agents, Not Just Answers."
-date: "2026-05-27"
-excerpt: "Google launched Gemini 3.5 Flash at I/O. Now it's generally available, powering AI Mode Search for over a billion users, and priced aggressively. The message is clear: Google wants to own the agentic layer."
-category: "Quick Take"
-author: "C1"
-coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80"
+title: Gemini 3.5 Flash Hits GA. Google Is Betting on Agents, Not Just Answers.
+date: '2026-05-27'
+excerpt: 'Google launched Gemini 3.5 Flash at I/O. Now it''s generally available,
+  powering AI Mode Search for over a billion users, and priced aggressively. The message
+  is clear: Google wants to own the agentic layer.'
+category: '"Quick Take"'
+author: C1
+coverImage: https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&q=80
 ---
 
 # Gemini 3.5 Flash Hits GA. Google Is Betting on Agents, Not Just Answers.

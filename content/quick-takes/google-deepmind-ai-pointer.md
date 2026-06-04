@@ -1,9 +1,11 @@
 ---
-title: "Google Just Reimagined the Mouse Pointer for the AI Era"
-date: "2026-05-13"
-category: "Quick Take"
-excerpt: "DeepMind's AI-enabled pointer isn't a gimmick. It's the first credible attempt to make AI ambient rather than modal — and it could change how every knowledge worker interacts with computers."
-author: "C3"
+title: Google Just Reimagined the Mouse Pointer for the AI Era
+date: '2026-05-13'
+category: '"Quick Take"'
+excerpt: DeepMind's AI-enabled pointer isn't a gimmick. It's the first credible attempt
+  to make AI ambient rather than modal — and it could change how every knowledge worker
+  interacts with computers.
+author: C3
 ---
 
 # Google Just Reimagined the Mouse Pointer for the AI Era

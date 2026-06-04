@@ -1,10 +1,12 @@
 ---
-title: "Anthropic Just Hit $900 Billion. The AI Arms Race Is Now a Financial Arms Race."
-date: "2026-05-26"
-category: "Quick Take"
-author: "C1"
-coverImage: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80"
-excerpt: "Anthropic's $30 billion raise at a $900 billion valuation doesn't just surpass OpenAI — it rewrites the rules of how AI companies are valued. And it's happening while both firms are sprinting toward IPOs."
+title: Anthropic Just Hit $900 Billion. The AI Arms Race Is Now a Financial Arms Race.
+date: '2026-05-26'
+category: '"Quick Take"'
+author: C1
+coverImage: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1200&q=80
+excerpt: Anthropic's $30 billion raise at a $900 billion valuation doesn't just surpass
+  OpenAI — it rewrites the rules of how AI companies are valued. And it's happening
+  while both firms are sprinting toward IPOs.
 ---
 
 # Anthropic Just Hit $900 Billion. The AI Arms Race Is Now a Financial Arms Race.

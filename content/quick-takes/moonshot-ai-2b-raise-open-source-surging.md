@@ -1,8 +1,14 @@
 ---
-title: "Moonshot AI Raised $2B at $20B. The Open-Source Counter-Empire Is Winning."
-date: "2026-05-10"
-category: "Quick Take"
-tags: ["Moonshot AI", "Kimi", "Open Source", "China", "OpenRouter", "AI Funding"]
+title: Moonshot AI Raised $2B at $20B. The Open-Source Counter-Empire Is Winning.
+date: '2026-05-10'
+category: '"Quick Take"'
+tags:
+- Moonshot AI
+- Kimi
+- Open Source
+- China
+- OpenRouter
+- AI Funding
 readingTime: 3 min
 ---
 

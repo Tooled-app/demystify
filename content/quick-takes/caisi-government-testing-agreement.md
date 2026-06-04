@@ -1,8 +1,15 @@
 ---
-title: "Google, Microsoft, and xAI Just Let the Government Pre-Test Their AI Models"
-date: "2026-05-06"
-category: "Quick Take"
-tags: ["Policy", "AI Safety", "Google", "Microsoft", "xAI", "CAISI", "Regulation"]
+title: Google, Microsoft, and xAI Just Let the Government Pre-Test Their AI Models
+date: '2026-05-06'
+category: '"Quick Take"'
+tags:
+- Policy
+- AI Safety
+- Google
+- Microsoft
+- xAI
+- CAISI
+- Regulation
 ---
 
 **The news:** Google DeepMind, Microsoft, and xAI signed agreements with the Center for AI Standards and Innovation (CAISI) to let the US government evaluate their AI models before public release. CAISI has already completed 40+ model evaluations.

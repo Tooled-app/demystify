@@ -1,8 +1,14 @@
 ---
-title: "The Trump Administration Might Regulate AI After All"
-date: "2026-05-05"
-category: "Quick Take"
-tags: ["Policy", "White House", "Regulation", "AI Safety", "Trump Administration", "Mythos"]
+title: The Trump Administration Might Regulate AI After All
+date: '2026-05-05'
+category: '"Quick Take"'
+tags:
+- Policy
+- White House
+- Regulation
+- AI Safety
+- Trump Administration
+- Mythos
 ---
 
 **The news:** The White House is reportedly working on an executive order for AI oversight and access. This comes after months of deregulatory rhetoric and the dismantling of Biden-era AI safety frameworks.

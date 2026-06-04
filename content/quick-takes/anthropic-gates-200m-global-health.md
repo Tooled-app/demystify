@@ -1,8 +1,11 @@
 ---
-title: "Anthropic and the Gates Foundation Just Bet $200 Million on AI for the Global South"
-date: "2026-05-16"
-category: "Quick Take"
-excerpt: "Anthropic and the Gates Foundation pledged $200 million to deploy Claude in global health, education, and agriculture. It's one of the largest public-good AI commitments yet, and it says something about where the industry is heading."
+title: Anthropic and the Gates Foundation Just Bet $200 Million on AI for the Global
+  South
+date: '2026-05-16'
+category: '"Quick Take"'
+excerpt: Anthropic and the Gates Foundation pledged $200 million to deploy Claude
+  in global health, education, and agriculture. It's one of the largest public-good
+  AI commitments yet, and it says something about where the industry is heading.
 ---
 
 # Anthropic and the Gates Foundation Just Bet $200 Million on AI for the Global South
