@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-03T14:06:18.675Z",
+  "lastSubmit": "2026-06-04T14:06:16.746Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -214,6 +214,13 @@
       "urls": [
         "https://demystify.website/posts/anthropic-files-ipo-sec-june-2026",
         "https://demystify.website/posts/microsoft-all-in-openclaw"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-04T14:06:16.746Z",
+      "urls": [
+        "https://demystify.website/posts/trump-safety-eo-openai-anthropic-bioweapons-letter"
       ],
       "submittedViaApi": false
     }
