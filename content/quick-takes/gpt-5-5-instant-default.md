@@ -1,7 +1,7 @@
 ---
 title: GPT-5.5 Instant Is Now Your Default ChatGPT Model
 date: '2026-05-06'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - OpenAI
 - GPT-5.5

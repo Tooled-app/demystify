@@ -1,7 +1,7 @@
 ---
 title: The Trump Administration Might Regulate AI After All
 date: '2026-05-05'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Policy
 - White House

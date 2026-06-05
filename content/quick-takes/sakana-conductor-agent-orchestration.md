@@ -1,7 +1,7 @@
 ---
 title: A Tiny 7B Model Learned to Boss Around GPT-5, Claude, and Gemini
 date: '2026-05-07'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 

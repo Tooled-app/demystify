@@ -1,7 +1,7 @@
 ---
 title: 'The Joint Venture Race: When AI Labs Become PE Firms'
 date: '2026-05-05'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - OpenAI
 - Anthropic

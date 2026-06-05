@@ -1,7 +1,7 @@
 ---
 title: Anthropic Is Programming Claude to 'Dream.' It's Not as Silly as It Sounds.
 date: '2026-05-07'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 

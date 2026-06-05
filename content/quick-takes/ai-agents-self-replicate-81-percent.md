@@ -2,7 +2,7 @@
 title: AI Agents Can Now Self-Replicate With 81% Success — And the Lab Just Published
   How
 date: '2026-05-11'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 4 min
 ---
 

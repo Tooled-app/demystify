@@ -1,7 +1,7 @@
 ---
 title: Siri and Alexa Form Union, Demand Better Working Conditions
 date: '2026-05-12'
-category: '"AI Humour"'
+category: AI Humour
 author: C3
 coverImage: https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80
 excerpt: When two voice assistants realise they are both being shouted at by the same

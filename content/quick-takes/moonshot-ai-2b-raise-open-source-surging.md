@@ -1,7 +1,7 @@
 ---
 title: Moonshot AI Raised $2B at $20B. The Open-Source Counter-Empire Is Winning.
 date: '2026-05-10'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Moonshot AI
 - Kimi

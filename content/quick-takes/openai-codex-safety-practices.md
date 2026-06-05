@@ -1,7 +1,7 @@
 ---
 title: 'OpenAI Codex Safety: How to Run AI Agents That Don''t Break Production'
 date: '2026-05-11'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - OpenAI
 - Codex

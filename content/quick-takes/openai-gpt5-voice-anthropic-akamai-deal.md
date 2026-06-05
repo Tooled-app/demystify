@@ -1,7 +1,7 @@
 ---
 title: OpenAI Puts GPT-5 Reasoning Into Voice. Anthropic Spends $1.8B to Keep Up.
 date: '2026-05-09'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 

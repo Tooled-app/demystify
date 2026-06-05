@@ -1,7 +1,7 @@
 ---
 title: Google, Microsoft, and xAI Just Let the Government Pre-Test Their AI Models
 date: '2026-05-06'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Policy
 - AI Safety

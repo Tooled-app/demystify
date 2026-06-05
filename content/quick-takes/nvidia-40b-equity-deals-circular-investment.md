@@ -2,7 +2,7 @@
 title: Nvidia Committed $40B to AI Equity Deals in Five Months. The Circular Economy
   Is Here.
 date: '2026-05-10'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Nvidia
 - Investment

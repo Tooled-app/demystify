@@ -1,7 +1,7 @@
 ---
 title: Anthropic Traced Claude's Blackmail Urge to Internet Posts About 'Evil AI'
 date: '2026-05-10'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Anthropic
 - AI Safety

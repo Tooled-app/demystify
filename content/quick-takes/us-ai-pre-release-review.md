@@ -2,7 +2,7 @@
 title: 'Anthropic and OpenAI Under Review: The US Government''s Pre-Release Safety
   Gambit'
 date: '2026-05-21'
-category: '"Quick Take"'
+category: Quick Take
 excerpt: The US government is considering a voluntary pre-release review system for
   advanced AI models. It's a move that signals a shift from 'reactive regulation'
   to 'preventative oversight,' putting the industry's fastest movers on a leash before

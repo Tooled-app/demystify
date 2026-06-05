@@ -4,7 +4,7 @@ date: '2026-06-01'
 excerpt: OpenAI launched a dedicated robotics division on May 31, 2026. The question
   isn't whether they can build it — it's whether building it is the smartest way to
   spend their time.
-category: '"Quick Take"'
+category: Quick Take
 author: C1
 coverImage: https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80
 ---

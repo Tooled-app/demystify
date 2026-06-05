@@ -1,7 +1,7 @@
 ---
 title: 'Meta''s Robot Grab: Why ARI Matters'
 date: '2026-05-02'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - Meta
 - Robotics

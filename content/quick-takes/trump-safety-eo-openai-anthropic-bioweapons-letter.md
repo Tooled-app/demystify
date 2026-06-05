@@ -1,9 +1,12 @@
 ---
-title: "The Tides Turn: Trump EO and OpenAI's Bioweapons Letter Mark a New Phase in AI Safety"
-date: "2026-06-04"
-category: "AI"
-excerpt: "A Trump executive order on pre-release AI testing and a joint OpenAI/Anthropic letter urging DNA-screening laws signal that AI safety has moved from fringe concern to mainstream policy."
-coverImage: "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&h=675&fit=crop&q=80"
+title: 'The Tides Turn: Trump EO and OpenAI''s Bioweapons Letter Mark a New Phase
+  in AI Safety'
+date: '2026-06-04'
+category: AI
+excerpt: A Trump executive order on pre-release AI testing and a joint OpenAI/Anthropic
+  letter urging DNA-screening laws signal that AI safety has moved from fringe concern
+  to mainstream policy.
+coverImage: https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=1200&h=675&fit=crop&q=80
 ---
 
 # The Tides Turn: Trump EO and OpenAI's Bioweapons Letter Mark a New Phase in AI Safety

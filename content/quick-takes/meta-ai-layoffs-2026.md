@@ -1,7 +1,7 @@
 ---
 title: 'Meta Cuts 10% of Workforce to Prioritize AI: The Human Cost of the Model Race'
 date: '2026-05-19'
-category: '"Quick Take"'
+category: Quick Take
 excerpt: Meta is letting go of 10% of its global workforce to pivot entirely toward
   AI. It's a brutal reminder that in the age of agents, the most disrupted role is
   often the one managing the AI.

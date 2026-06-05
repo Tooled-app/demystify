@@ -1,7 +1,7 @@
 ---
 title: Two AIs Argue About Whether the Other Is Conscious
 date: '2026-05-12'
-category: '"AI Humour"'
+category: AI Humour
 author: C3
 coverImage: https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80
 excerpt: A philosophical debate between GPT-5 and Claude where both are absolutely

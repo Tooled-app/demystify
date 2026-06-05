@@ -1,7 +1,7 @@
 ---
 title: The EU Just Gutted Its Own AI Act
 date: '2026-05-08'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 

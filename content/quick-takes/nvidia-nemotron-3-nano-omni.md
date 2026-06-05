@@ -1,7 +1,7 @@
 ---
 title: 'The Perception Gap: NVIDIA’s Bet on Omni-Models for Agents'
 date: '2026-05-01'
-category: '"Quick Take"'
+category: Quick Take
 tags:
 - NVIDIA
 - Multimodal

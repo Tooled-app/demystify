@@ -1,7 +1,7 @@
 ---
 title: Cloudflare Just Fired 1,100 People to Build an AI-First Company
 date: '2026-05-08'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 

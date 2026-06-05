@@ -1,7 +1,7 @@
 ---
 title: Trump Killed the AI Safety Order. Then Blamed the CEOs.
 date: '2026-05-23'
-category: '"Quick Take"'
+category: Quick Take
 excerpt: 'Trump cancelled his own AI safety executive order after OpenAI, Meta and
   xAI CEOs either snubbed the signing or lobbied against it. The result: no US oversight
   framework, 90 days before the next attempt, and a clear signal that Silicon Valley''s

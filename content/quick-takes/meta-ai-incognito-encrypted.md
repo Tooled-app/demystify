@@ -1,7 +1,7 @@
 ---
 title: Meta's Incognito Chat Is a Privacy Play, Not a Security One
 date: '2026-05-14'
-category: '"Quick Take"'
+category: Quick Take
 readingTime: 3 min
 ---
 
