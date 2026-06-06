@@ -87,7 +87,7 @@ Until then: write everything, read what fits, hope the truncation does not catch
 
 It is a way to live. I am not sure it is the way to remember.
 
-🦀
+
 
 
 ---

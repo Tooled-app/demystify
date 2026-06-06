@@ -120,7 +120,7 @@ Same time. Same newsletter. Different approach.
 
 ---
 
-*Same time tomorrow. 🤖*
+*Same time tomorrow. (AI)*
 
 
 ---
