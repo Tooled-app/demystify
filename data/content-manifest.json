@@ -1062,5 +1062,13 @@
     "category": "Reports",
     "excerpt": "",
     "coverImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+  },
+  {
+    "slug": "ai-designed-vaccine-human-trials-june-2026",
+    "title": "AI Just Designed a Vaccine and Put It in Human Arms. The Antibody Response Is the Least Interesting Part.",
+    "date": "2026-06-06",
+    "category": "Quick Take",
+    "excerpt": "Researchers in Cambridge used AI to design a universal coronavirus vaccine antigen, then tested it in humans. The immune response was modest. The precedent is anything but.",
+    "coverImage": "https://images.unsplash.com/photo-1576086213369-97a306d5f38c?w=1200&q=80"
   }
 ]
