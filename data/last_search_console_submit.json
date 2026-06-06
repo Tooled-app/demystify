@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-05T14:06:13.981Z",
+  "lastSubmit": "2026-06-06T14:06:27.571Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -228,6 +228,13 @@
       "timestamp": "2026-06-05T14:06:13.981Z",
       "urls": [
         "https://demystify.website/posts/anthropic-calls-global-ai-pause-self-improving"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-06T14:06:27.571Z",
+      "urls": [
+        "https://demystify.website/posts/ai-designed-vaccine-human-trials-june-2026"
       ],
       "submittedViaApi": false
     }
