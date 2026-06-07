@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "<string>", line 10, in <module>
+Traceback (most recent call last):
+  File "<string>", line 10, in <module>
+NameError: name 're' is not defined
+NameError: name 're' is not defined
