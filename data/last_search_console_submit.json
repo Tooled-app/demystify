@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-06T14:06:27.571Z",
+  "lastSubmit": "2026-06-07T14:06:31.675Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -235,6 +235,13 @@
       "timestamp": "2026-06-06T14:06:27.571Z",
       "urls": [
         "https://demystify.website/posts/ai-designed-vaccine-human-trials-june-2026"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-07T14:06:31.675Z",
+      "urls": [
+        "https://demystify.website/posts/google-kills-project-mariner"
       ],
       "submittedViaApi": false
     }
