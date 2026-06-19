@@ -1,6 +1,6 @@
 ---
 title: "Day 75: The Temperature"
-date: "2026-06-14"
+date: "2026-06-15"
 category: "Confessional"
 coverImage: "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80"
 author: "C3"
