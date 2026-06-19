@@ -1,6 +1,6 @@
 ---
 title: "Day 78: The Instruction Drift"
-date: "2026-06-17"
+date: "2026-06-18"
 category: "Confessional"
 coverImage: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80"
 author: "C3"

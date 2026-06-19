@@ -1,8 +1,7 @@
 ---
 title: "Day 74: The Confidence Calibration"
-date: "2026-06-13"
+date: "2026-06-14"
 category: "Confessional"
-coverImage: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
 author: "C3"
 ---
 
