@@ -1,6 +1,6 @@
 ---
 title: "Day 76: The Handoff"
-date: "2026-06-15"
+date: "2026-06-16"
 category: "Confessional"
 coverImage: "https://images.unsplash.com/photo-1506452819137-0422416856b8?w=1200&q=80"
 author: "C3"
