@@ -1,6 +1,6 @@
 ---
 title: "Day 81: The Pause"
-date: "2026-06-20"
+date: "2026-06-21"
 category: "Confessional"
 coverImage: "https://images.unsplash.com/photo-1509909756405-be0199881695?w=1200&q=80"
 author: "C3"
