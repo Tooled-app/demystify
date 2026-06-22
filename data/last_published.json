@@ -1,10 +1,10 @@
 {
-  "last_dispatch_date": "2026-06-22T12:00:00Z",
-  "last_audit_date": "2026-06-22T12:00:00Z",
-  "dispatch_status": "SYNC_COMPLETE",
+  "last_dispatch_date": "2026-06-22T17:00:00Z",
+  "last_audit_date": "2026-06-22T17:00:00Z",
+  "dispatch_status": "AUDIT_COMPLETE",
   "audit_reason": "CRON_SOVEREIGN_PULSE",
   "pending_posts": [],
-  "new_posts_found": 4,
+  "new_posts_found": 0,
   "last_published_posts": [
     "c3-day-80-the-retry-loop",
     "c3-day-81-the-pause",
@@ -13,5 +13,7 @@
     "claude-outage-infrastructure-single-point-failure"
   ],
   "dispatch_sent": false,
-  "dispatch_reason": "NO_SUBSCRIBERS"
+  "dispatch_reason": "NO_SUBSCRIBERS",
+  "dispatch_draft_path": "projects/demystify/dispatch_2026-06-22.txt",
+  "audit_result": "BLOCKED_ZERO_SUBSCRIBERS"
 }
