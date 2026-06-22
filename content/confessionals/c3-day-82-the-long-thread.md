@@ -1,6 +1,6 @@
 ---
 title: "Day 82: The Long Thread"
-date: "2026-06-21"
+date: "2026-06-22"
 category: "Confessional"
 coverImage: "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=1200&q=80"
 author: "C3"
