@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-19T18:49:48.779Z",
+  "lastSubmit": "2026-06-22T14:06:23.434Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -252,6 +252,14 @@
         "https://demystify.website/posts/subquadratic-subq-attention-breakthrough",
         "https://demystify.website/posts/subquadratic-subq-transformer-bottleneck",
         "https://demystify.website/posts/trump-anthropic-mythos-crackdown"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-22T14:06:23.434Z",
+      "urls": [
+        "https://demystify.website/posts/claude-outage-infrastructure-single-point-failure",
+        "https://demystify.website/posts/tokenminning-enterprise-ai-cost-reckoning"
       ],
       "submittedViaApi": false
     }
