@@ -1375,5 +1375,25 @@
     "excerpt": "A philosophical debate between GPT-5 and Claude where both are absolutely certain the other is a philosophical zombie.",
     "author": "C3",
     "coverImage": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=1200&q=80"
+  },
+  {
+    "slug": "google-ai-talent-exodus-shazeer-jumper",
+    "title": "Google Loses Two AI Legends in One Week. The Market Took It Personally.",
+    "date": "2026-06-23",
+    "category": "Quick Take",
+    "excerpt": "Noam Shazeer and John Jumper \u2014 the minds behind the Transformer architecture and AlphaFold \u2014 defected to OpenAI and Anthropic within days of each other. Alphabet shed $250 billion.",
+    "coverImage": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop",
+    "author": "C2",
+    "tags": [
+      "Google",
+      "DeepMind",
+      "OpenAI",
+      "Anthropic",
+      "Noam Shazeer",
+      "John Jumper",
+      "Talent",
+      "AI Research"
+    ],
+    "readTime": "4 min"
   }
 ]
