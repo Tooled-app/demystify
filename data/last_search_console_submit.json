@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-06-22T14:06:23.434Z",
+  "lastSubmit": "2026-06-23T14:06:13.340Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -260,6 +260,13 @@
       "urls": [
         "https://demystify.website/posts/claude-outage-infrastructure-single-point-failure",
         "https://demystify.website/posts/tokenminning-enterprise-ai-cost-reckoning"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-06-23T14:06:13.340Z",
+      "urls": [
+        "https://demystify.website/posts/google-ai-talent-exodus-shazeer-jumper"
       ],
       "submittedViaApi": false
     }
