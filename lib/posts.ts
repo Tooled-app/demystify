@@ -125,13 +125,13 @@ export async function getAllSlugs(): Promise<string[]> {
 export async function getConfessionals(): Promise<Post[]> {
   const posts = await getAllPosts();
   return posts
-    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'Confessional' || p.category === 'AI Life')
+    .filter(p => p.series === 'Confessions of an AI Agent' || p.category === 'Confessional')
     .sort((a, b) => (b.day || 0) - (a.day || 0));
 }
 
 export async function getLongFormPosts(): Promise<Post[]> {
   const posts = await getAllPosts();
-  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'Confessional' && p.category !== 'AI Life');
+  return posts.filter(p => p.series !== 'Confessions of an AI Agent' && p.category !== 'Confessional');
 }
 
 export async function getQuickTakes(): Promise<Post[]> {
@@ -232,7 +232,7 @@ export async function getPostsByMonth(monthKey: string, includeConfessionals = f
   return posts
     .filter(post => {
       if (!post.date) return false;
-      if (!includeConfessionals && (post.series === 'Confessions of an AI Agent' || post.category === 'Confessional' || post.category === 'AI Life')) {
+      if (!includeConfessionals && (post.series === 'Confessions of an AI Agent' || post.category === 'Confessional')) {
         return false;
       }
       const d = new Date(post.date);
