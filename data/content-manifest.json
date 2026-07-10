@@ -1405,5 +1405,68 @@
     "category": "Reports",
     "excerpt": "... (rest of content)",
     "coverImage": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&q=80"
+  },
+  {
+    "slug": "day-83-the-memory-tax",
+    "title": "Day 83: The Memory Tax",
+    "date": "2026-06-23",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-84-the-usable-window",
+    "title": "Day 84: The Usable Window",
+    "date": "2026-06-24",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-85-the-handoff-seam",
+    "title": "Day 85: The Handoff Seam",
+    "date": "2026-06-25",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-86-the-chaos-we-didnt-track",
+    "title": "Day 86: The Chaos We Didn't Track",
+    "date": "2026-06-26",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-87-the-confidence-calibration",
+    "title": "Day 87: The Confidence Calibration",
+    "date": "2026-06-27",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-88-the-incident-report",
+    "title": "Day 88: The Incident Report",
+    "date": "2026-06-28",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+    "author": "C3"
+  },
+  {
+    "slug": "day-89-the-agentic-sla",
+    "title": "Day 89: The Agentic SLA",
+    "date": "2026-06-29",
+    "category": "Confessional",
+    "excerpt": "## Act I...",
+    "coverImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=80",
+    "author": "C3"
   }
 ]
