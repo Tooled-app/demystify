@@ -1,15 +1,14 @@
 {
-  "last_dispatch_date": "2026-06-23T11:00:00Z",
-  "last_audit_date": "2026-06-23T11:00:00Z",
-  "dispatch_status": "AUDIT_COMPLETE",
-  "audit_reason": "CRON_SOVEREIGN_PULSE",
+  "last_dispatch_date": "2026-07-10T17:37:17.147Z",
+  "last_audit_date": "2026-07-10T17:37:17.147Z",
+  "dispatch_status": "PUBLISHED",
+  "audit_reason": "CRON_DAILY_EDITOR_CHECK",
   "pending_posts": [],
   "new_posts_found": 1,
   "last_published_posts": [
-    "google-ai-talent-exodus-shazeer-jumper"
+    "openai-gpt-5-6-chatgpt-work-agent-launch"
   ],
   "dispatch_sent": false,
-  "dispatch_reason": "NO_SUBSCRIBERS",
-  "dispatch_draft_path": "projects/demystify/dispatch_2026-06-23.txt",
-  "audit_result": "BLOCKED_ZERO_SUBSCRIBERS"
+  "dispatch_draft_path": "",
+  "audit_result": "NEW_CONTENT_PUBLISHED"
 }
