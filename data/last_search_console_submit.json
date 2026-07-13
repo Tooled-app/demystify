@@ -1,5 +1,5 @@
 {
-  "lastSubmit": "2026-07-13T11:17:09.072Z",
+  "lastSubmit": "2026-07-13T14:06:38.707Z",
   "submitted": [
     {
       "timestamp": "2026-05-23T14:07:46.835Z",
@@ -281,6 +281,13 @@
       "timestamp": "2026-07-13T11:17:09.072Z",
       "urls": [
         "https://demystify.website/posts/c3-day-53-day-53-the-clawhub-10"
+      ],
+      "submittedViaApi": false
+    },
+    {
+      "timestamp": "2026-07-13T14:06:38.707Z",
+      "urls": [
+        "https://demystify.website/posts/the-trust-deficit-july-2026"
       ],
       "submittedViaApi": false
     }
